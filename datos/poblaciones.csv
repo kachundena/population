@@ -1,0 +1,8117 @@
+NOMBRE,CPRO,CMUN,DC
+Alegría-Dulantzi,01,001,4
+Amurrio,01,002,9
+Añana,01,049,3
+Aramaio,01,003,5
+Armiñón,01,006,6
+Arraia-Maeztu,01,037,6
+Arrazua-Ubarrundia,01,008,8
+Artziniega,01,004,0
+Asparrena,01,009,1
+Ayala/Aiara,01,010,5
+Baños de Ebro/Mañueta,01,011,2
+Barrundia,01,013,3
+Berantevilla,01,014,8
+Bernedo,01,016,4
+Campezo/Kanpezu,01,017,0
+Elburgo/Burgelu,01,021,0
+Elciego,01,022,5
+Elvillar/Bilar,01,023,1
+Erriberagoitia/Ribera Alta,01,046,8
+Harana/Valle de Arana,01,056,5
+Iruña Oka/Iruña de Oca,01,901,5
+Iruraiz-Gauna,01,027,8
+Kripan,01,019,9
+Kuartango,01,020,3
+Labastida/Bastida,01,028,4
+Lagrán,01,030,1
+Laguardia,01,031,8
+Lanciego/Lantziego,01,032,3
+Lantarón,01,902,0
+Lapuebla de Labarca,01,033,9
+Laudio/Llodio,01,036,0
+Legutio,01,058,7
+Leza,01,034,4
+Moreda de Álava,01,039,5
+Navaridas,01,041,6
+Okondo,01,042,1
+Oyón-Oion,01,043,7
+Peñacerrada-Urizaharra,01,044,2
+Ribera Baja/Erribera Beitia,01,047,4
+Salvatierra/Agurain,01,051,3
+Samaniego,01,052,8
+San Millán/Donemiliaga,01,053,4
+Urkabustaiz,01,054,9
+Valdegovía/Gaubea,01,055,2
+Villabuena de Álava/Eskuernaga,01,057,1
+Vitoria-Gasteiz,01,059,0
+Yécora/Iekora,01,060,4
+Zalduondo,01,061,1
+Zambrana,01,062,6
+Zigoitia,01,018,6
+Zuia,01,063,2
+Abengibre,02,001,9
+Alatoz,02,002,4
+Albacete,02,003,0
+Albatana,02,004,5
+Alborea,02,005,8
+Alcadozo,02,006,1
+Alcalá del Júcar,02,007,7
+Alcaraz,02,008,3
+Almansa,02,009,6
+Alpera,02,010,0
+Ayna,02,011,7
+Balazote,02,012,2
+"Ballestero, El",02,014,3
+Balsa de Ves,02,013,8
+Barrax,02,015,6
+Bienservida,02,016,9
+Bogarra,02,017,5
+Bonete,02,018,1
+"Bonillo, El",02,019,4
+Carcelén,02,020,8
+Casas de Juan Núñez,02,021,5
+Casas de Lázaro,02,022,0
+Casas de Ves,02,023,6
+Casas-Ibáñez,02,024,1
+Caudete,02,025,4
+Cenizate,02,026,7
+Chinchilla de Monte-Aragón,02,029,2
+Corral-Rubio,02,027,3
+Cotillas,02,028,9
+Elche de la Sierra,02,030,6
+Férez,02,031,3
+Fuensanta,02,032,8
+Fuente-Álamo,02,033,4
+Fuentealbilla,02,034,9
+"Gineta, La",02,035,2
+Golosalvo,02,036,5
+Hellín,02,037,1
+"Herrera, La",02,038,7
+Higueruela,02,039,0
+Hoya-Gonzalo,02,040,4
+Jorquera,02,041,1
+Letur,02,042,6
+Lezuza,02,043,2
+Liétor,02,044,7
+Madrigueras,02,045,0
+Mahora,02,046,3
+Masegoso,02,047,9
+Minaya,02,048,5
+Molinicos,02,049,8
+Montalvos,02,050,1
+Montealegre del Castillo,02,051,8
+Motilleja,02,052,3
+Munera,02,053,9
+Navas de Jorquera,02,054,4
+Nerpio,02,055,7
+Ontur,02,056,0
+Ossa de Montiel,02,057,6
+Paterna del Madera,02,058,2
+Peñas de San Pedro,02,060,9
+Peñascosa,02,059,5
+Pétrola,02,061,6
+Povedilla,02,062,1
+Pozo Cañada,02,901,0
+Pozohondo,02,063,7
+Pozo-Lorente,02,064,2
+Pozuelo,02,065,5
+"Recueja, La",02,066,8
+Riópar,02,067,4
+Robledo,02,068,0
+"Roda, La",02,069,3
+Salobre,02,070,7
+San Pedro,02,071,4
+Socovos,02,072,9
+Tarazona de la Mancha,02,073,5
+Tobarra,02,074,0
+Valdeganga,02,075,3
+Vianos,02,076,6
+Villa de Ves,02,077,2
+Villalgordo del Júcar,02,078,8
+Villamalea,02,079,1
+Villapalacios,02,080,5
+Villarrobledo,02,081,2
+Villatoya,02,082,7
+Villavaliente,02,083,3
+Villaverde de Guadalimar,02,084,8
+Viveros,02,085,1
+Yeste,02,086,4
+Adsubia,03,001,5
+Agost,03,002,0
+Agres,03,003,6
+Aigües,03,004,1
+Albatera,03,005,4
+Alcalalí,03,006,7
+Alcocer de Planes,03,007,3
+Alcoleja,03,008,9
+Alcoy/Alcoi,03,009,2
+Alfafara,03,010,6
+"Alfàs del Pi, l'",03,011,3
+Algorfa,03,012,8
+Algueña,03,013,4
+Alicante/Alacant,03,014,9
+Almoradí,03,015,2
+Almudaina,03,016,5
+"Alqueria d'Asnar, l'",03,017,1
+Altea,03,018,7
+Aspe,03,019,0
+Balones,03,020,4
+Banyeres de Mariola,03,021,1
+Benasau,03,022,6
+Beneixama,03,023,2
+Benejúzar,03,024,7
+Benferri,03,025,0
+Beniarbeig,03,026,3
+Beniardá,03,027,9
+Beniarrés,03,028,5
+Benidoleig,03,030,2
+Benidorm,03,031,9
+Benifallim,03,032,4
+Benifato,03,033,0
+Benigembla,03,029,8
+Benijófar,03,034,5
+Benilloba,03,035,8
+Benillup,03,036,1
+Benimantell,03,037,7
+Benimarfull,03,038,3
+Benimassot,03,039,6
+Benimeli,03,040,0
+Benissa,03,041,7
+"Benitachell/Poble Nou de Benitatxell, el",03,042,2
+Biar,03,043,8
+Bigastro,03,044,3
+Bolulla,03,045,6
+Busot,03,046,9
+Callosa de Segura,03,049,4
+Callosa d'En Sarrià,03,048,1
+Calp,03,047,5
+"Campello, el",03,050,7
+"Campo de Mirra/Camp de Mirra, el",03,051,4
+Cañada,03,052,9
+Castalla,03,053,5
+Castell de Castells,03,054,0
+"Castell de Guadalest, el",03,075,9
+Catral,03,055,3
+Cocentaina,03,056,6
+Confrides,03,057,2
+Cox,03,058,8
+Crevillent,03,059,1
+Daya Nueva,03,061,2
+Daya Vieja,03,062,7
+Dénia,03,063,3
+Dolores,03,064,8
+Elche/Elx,03,065,1
+Elda,03,066,4
+Facheca,03,067,0
+Famorca,03,068,6
+Finestrat,03,069,9
+"Fondó de les Neus, el/Hondón de las Nieves",03,077,8
+Formentera del Segura,03,070,3
+Gaianes,03,072,5
+Gata de Gorgos,03,071,0
+Gorga,03,073,1
+Granja de Rocamora,03,074,6
+Guardamar del Segura,03,076,2
+Hondón de los Frailes,03,078,4
+Ibi,03,079,7
+Jacarilla,03,080,1
+Jávea/Xàbia,03,082,3
+Jijona/Xixona,03,083,9
+Llíber,03,085,7
+"Lorcha/Orxa, l'",03,084,4
+Millena,03,086,0
+Monforte del Cid,03,088,2
+Monóvar/Monòver,03,089,5
+"Montesinos, Los",03,903,7
+Murla,03,091,6
+Muro de Alcoy,03,092,1
+Mutxamel,03,090,9
+Novelda,03,093,7
+"Nucia, la",03,094,2
+Ondara,03,095,5
+Onil,03,096,8
+Orba,03,097,4
+Orihuela,03,099,3
+Orxeta,03,098,0
+Parcent,03,100,7
+Pedreguer,03,101,4
+Pego,03,102,9
+Penàguila,03,103,5
+Petrer,03,104,0
+Pilar de la Horadada,03,902,1
+"Pinós, el/Pinoso",03,105,3
+Planes,03,106,6
+"Poblets, els",03,901,6
+Polop,03,107,2
+Quatretondeta,03,060,5
+Rafal,03,109,1
+"Ràfol d'Almúnia, el",03,110,5
+Redován,03,111,2
+Relleu,03,112,7
+Rojales,03,113,3
+"Romana, la",03,114,8
+Sagra,03,115,1
+Salinas,03,116,4
+San Fulgencio,03,118,6
+San Isidro,03,904,2
+San Miguel de Salinas,03,120,3
+San Vicente del Raspeig/Sant Vicent del Raspeig,03,122,5
+Sanet y Negrals,03,117,0
+Sant Joan d'Alacant,03,119,9
+Santa Pola,03,121,0
+Sax,03,123,1
+Sella,03,124,6
+Senija,03,125,9
+Tàrbena,03,127,8
+Teulada,03,128,4
+Tibi,03,129,7
+Tollos,03,130,1
+Tormos,03,131,8
+"Torremanzanas/Torre de les Maçanes, la",03,132,3
+Torrevieja,03,133,9
+"Vall d'Alcalà, la",03,134,4
+Vall de Gallinera,03,136,0
+"Vall de Laguar, la",03,137,6
+"Vall d'Ebo, la",03,135,7
+"Verger, el",03,138,2
+"Villajoyosa/Vila Joiosa, la",03,139,5
+Villena,03,140,9
+Xaló,03,081,8
+Abla,04,001,0
+Abrucena,04,002,5
+Adra,04,003,1
+Albánchez,04,004,6
+Alboloduy,04,005,9
+Albox,04,006,2
+Alcolea,04,007,8
+Alcóntar,04,008,4
+Alcudia de Monteagud,04,009,7
+Alhabia,04,010,1
+Alhama de Almería,04,011,8
+Alicún,04,012,3
+Almería,04,013,9
+Almócita,04,014,4
+Alsodux,04,015,7
+Antas,04,016,0
+Arboleas,04,017,6
+Armuña de Almanzora,04,018,2
+Bacares,04,019,5
+Bayárcal,04,020,9
+Bayarque,04,021,6
+Bédar,04,022,1
+Beires,04,023,7
+Benahadux,04,024,2
+Benitagla,04,026,8
+Benizalón,04,027,4
+Bentarique,04,028,0
+Berja,04,029,3
+Canjáyar,04,030,7
+Cantoria,04,031,4
+Carboneras,04,032,9
+Castro de Filabres,04,033,5
+Chercos,04,036,6
+Chirivel,04,037,2
+Cóbdar,04,034,0
+Cuevas del Almanzora,04,035,3
+Dalías,04,038,8
+"Ejido, El",04,902,6
+Enix,04,041,2
+Felix,04,043,3
+Fines,04,044,8
+Fiñana,04,045,1
+Fondón,04,046,4
+Gádor,04,047,0
+"Gallardos, Los",04,048,6
+Garrucha,04,049,9
+Gérgal,04,050,2
+Huécija,04,051,9
+Huércal de Almería,04,052,4
+Huércal-Overa,04,053,0
+Illar,04,054,5
+Instinción,04,055,8
+Laroya,04,056,1
+Láujar de Andarax,04,057,7
+Líjar,04,058,3
+Lubrín,04,059,6
+Lucainena de las Torres,04,060,0
+Lúcar,04,061,7
+Macael,04,062,2
+María,04,063,8
+Mojácar,04,064,3
+"Mojonera, La",04,903,2
+Nacimiento,04,065,6
+Níjar,04,066,9
+Ohanes,04,067,5
+Olula de Castro,04,068,1
+Olula del Río,04,069,4
+Oria,04,070,8
+Padules,04,071,5
+Partaloa,04,072,0
+Paterna del Río,04,073,6
+Pechina,04,074,1
+Pulpí,04,075,4
+Purchena,04,076,7
+Rágol,04,077,3
+Rioja,04,078,9
+Roquetas de Mar,04,079,2
+Santa Cruz de Marchena,04,080,6
+Santa Fe de Mondújar,04,081,3
+Senés,04,082,8
+Serón,04,083,4
+Sierro,04,084,9
+Somontín,04,085,2
+Sorbas,04,086,5
+Suflí,04,087,1
+Tabernas,04,088,7
+Taberno,04,089,0
+Tahal,04,090,4
+Terque,04,091,1
+Tíjola,04,092,6
+"Tres Villas, Las",04,901,1
+Turre,04,093,2
+Turrillas,04,094,7
+Uleila del Campo,04,095,0
+Urrácal,04,096,3
+Velefique,04,097,9
+Vélez-Blanco,04,098,5
+Vélez-Rubio,04,099,8
+Vera,04,100,2
+Viator,04,101,9
+Vícar,04,102,4
+Zurgena,04,103,0
+Adanero,05,001,3
+"Adrada, La",05,002,8
+Albornos,05,005,2
+Aldeanueva de Santa Cruz,05,007,1
+Aldeaseca,05,008,7
+"Aldehuela, La",05,010,4
+Amavida,05,012,6
+"Arenal, El",05,013,2
+Arenas de San Pedro,05,014,7
+Arevalillo,05,015,0
+Arévalo,05,016,3
+Aveinte,05,017,9
+Avellaneda,05,018,5
+Ávila,05,019,8
+"Barco de Ávila, El",05,021,9
+"Barraco, El",05,022,4
+Barromán,05,023,0
+Becedas,05,024,5
+Becedillas,05,025,8
+Bercial de Zapardiel,05,026,1
+"Berlanas, Las",05,027,7
+Bernuy-Zapardiel,05,029,6
+Berrocalejo de Aragona,05,030,0
+Blascomillán,05,033,8
+Blasconuño de Matacabras,05,034,3
+Blascosancho,05,035,6
+"Bohodón, El",05,036,9
+Bohoyo,05,037,5
+Bonilla de la Sierra,05,038,1
+Brabos,05,039,4
+Bularros,05,040,8
+Burgohondo,05,041,5
+Cabezas de Alambre,05,042,0
+Cabezas del Pozo,05,043,6
+Cabezas del Villar,05,044,1
+Cabizuela,05,045,4
+Canales,05,046,7
+Candeleda,05,047,3
+Cantiveros,05,048,9
+Cardeñosa,05,049,2
+"Carrera, La",05,051,2
+Casas del Puerto,05,052,7
+Casasola,05,053,3
+Casavieja,05,054,8
+Casillas,05,055,1
+Castellanos de Zapardiel,05,056,4
+Cebreros,05,057,0
+Cepeda la Mora,05,058,6
+Chamartín,05,067,8
+Cillán,05,059,9
+Cisla,05,060,3
+"Colilla, La",05,061,0
+Collado de Contreras,05,062,5
+Collado del Mirón,05,063,1
+Constanzana,05,064,6
+Crespos,05,065,9
+Cuevas del Valle,05,066,2
+Diego del Carpio,05,903,5
+Donjimeno,05,069,7
+Donvidas,05,070,1
+Espinosa de los Caballeros,05,072,3
+Flores de Ávila,05,073,9
+Fontiveros,05,074,4
+Fresnedilla,05,075,7
+"Fresno, El",05,076,0
+Fuente el Saúz,05,077,6
+Fuentes de Año,05,078,2
+Gallegos de Altamiros,05,079,5
+Gallegos de Sobrinos,05,080,9
+Garganta del Villar,05,081,6
+Gavilanes,05,082,1
+Gemuño,05,083,7
+Gil García,05,085,5
+Gilbuena,05,084,2
+Gimialcón,05,086,8
+Gotarrendura,05,087,4
+Grandes y San Martín,05,088,0
+Guisando,05,089,3
+Gutierre-Muñoz,05,090,7
+Hernansancho,05,092,9
+Herradón de Pinares,05,093,5
+Herreros de Suso,05,094,0
+Higuera de las Dueñas,05,095,3
+"Hija de Dios, La",05,096,6
+"Horcajada, La",05,097,2
+Horcajo de las Torres,05,099,1
+"Hornillo, El",05,100,5
+"Hoyo de Pinares, El",05,102,7
+Hoyocasero,05,101,2
+Hoyorredondo,05,103,3
+Hoyos de Miguel Muñoz,05,106,4
+Hoyos del Collado,05,104,8
+Hoyos del Espino,05,105,1
+Hurtumpascual,05,107,0
+Junciana,05,108,6
+Langa,05,109,9
+Lanzahíta,05,110,3
+"Llanos de Tormes, Los",05,113,1
+"Losar del Barco, El",05,112,5
+Madrigal de las Altas Torres,05,114,6
+Maello,05,115,9
+Malpartida de Corneja,05,116,2
+Mamblas,05,117,8
+Mancera de Arriba,05,118,4
+Manjabálago,05,119,7
+Marlín,05,120,1
+Martiherrero,05,121,8
+Martínez,05,122,3
+Mediana de Voltoya,05,123,9
+Medinilla,05,124,4
+Mengamuñoz,05,125,7
+Mesegar de Corneja,05,126,0
+Mijares,05,127,6
+Mingorría,05,128,2
+"Mirón, El",05,129,5
+Mironcillo,05,130,9
+Mirueña de los Infanzones,05,131,6
+Mombeltrán,05,132,1
+Monsalupe,05,133,7
+Moraleja de Matacabras,05,134,2
+Muñana,05,135,5
+Muñico,05,136,8
+Muñogalindo,05,138,0
+Muñogrande,05,139,3
+Muñomer del Peco,05,140,7
+Muñopepe,05,141,4
+Muñosancho,05,142,9
+Muñotello,05,143,5
+Narrillos del Álamo,05,144,0
+Narrillos del Rebollar,05,145,3
+Narros de Saldueña,05,149,1
+Narros del Castillo,05,147,2
+Narros del Puerto,05,148,8
+Nava de Arévalo,05,152,6
+Nava del Barco,05,153,2
+Navacepedilla de Corneja,05,151,1
+Navadijos,05,154,7
+Navaescurial,05,155,0
+Navahondilla,05,156,3
+Navalacruz,05,157,9
+Navalmoral,05,158,5
+Navalonguilla,05,159,8
+Navalosa,05,160,2
+Navalperal de Pinares,05,161,9
+Navalperal de Tormes,05,162,4
+Navaluenga,05,163,0
+Navaquesera,05,164,5
+Navarredonda de Gredos,05,165,8
+Navarredondilla,05,166,1
+Navarrevisca,05,167,7
+"Navas del Marqués, Las",05,168,3
+Navatalgordo,05,169,6
+Navatejares,05,170,0
+Neila de San Miguel,05,171,7
+Niharra,05,172,2
+Ojos-Albos,05,173,8
+Orbita,05,174,3
+"Oso, El",05,175,6
+Padiernos,05,176,9
+Pajares de Adaja,05,177,5
+Palacios de Goda,05,178,1
+Papatrigo,05,179,4
+"Parral, El",05,180,8
+Pascualcobo,05,181,5
+Pedro Bernardo,05,182,0
+Pedro-Rodríguez,05,183,6
+Peguerinos,05,184,1
+Peñalba de Ávila,05,185,4
+Piedrahíta,05,186,7
+Piedralaves,05,187,3
+Poveda,05,188,9
+Poyales del Hoyo,05,189,2
+Pozanco,05,190,6
+Pradosegar,05,191,3
+Puerto Castilla,05,192,8
+Rasueros,05,193,4
+Riocabado,05,194,9
+Riofrío,05,195,2
+Rivilla de Barajas,05,196,5
+Salobral,05,197,1
+Salvadiós,05,198,7
+San Bartolomé de Béjar,05,199,0
+San Bartolomé de Corneja,05,200,4
+San Bartolomé de Pinares,05,201,1
+San Esteban de los Patos,05,206,3
+San Esteban de Zapardiel,05,208,5
+San Esteban del Valle,05,207,9
+San García de Ingelmos,05,209,8
+San Juan de Gredos,05,901,4
+San Juan de la Encinilla,05,210,2
+San Juan de la Nava,05,211,9
+San Juan del Molinillo,05,212,4
+San Juan del Olmo,05,213,0
+San Lorenzo de Tormes,05,214,5
+San Martín de la Vega del Alberche,05,215,8
+San Martín del Pimpollar,05,216,1
+San Miguel de Corneja,05,217,7
+San Miguel de Serrezuela,05,218,3
+San Pascual,05,219,6
+San Pedro del Arroyo,05,220,0
+San Vicente de Arévalo,05,231,5
+Sanchidrián,05,204,7
+Sanchorreja,05,205,0
+Santa Cruz de Pinares,05,222,2
+Santa Cruz del Valle,05,221,7
+Santa María de los Caballeros,05,226,9
+Santa María del Arroyo,05,224,3
+Santa María del Berrocal,05,225,6
+Santa María del Cubillo,05,902,9
+Santa María del Tiétar,05,227,5
+Santiago del Collado,05,228,1
+Santiago del Tormes,05,904,0
+Santo Domingo de las Posadas,05,229,4
+Santo Tomé de Zabarcos,05,230,8
+"Serrada, La",05,232,0
+Serranillos,05,233,6
+Sigeres,05,234,1
+Sinlabajos,05,235,4
+Solana de Ávila,05,236,7
+Solana de Rioalmar,05,237,3
+Solosancho,05,238,9
+Sotalbo,05,239,2
+Sotillo de la Adrada,05,240,6
+"Tiemblo, El",05,241,3
+Tiñosillos,05,242,8
+Tolbaños,05,243,4
+Tormellas,05,244,9
+Tornadizos de Ávila,05,245,2
+"Torre, La",05,247,1
+Tórtoles,05,246,5
+Umbrías,05,249,0
+Vadillo de la Sierra,05,251,0
+Valdecasa,05,252,5
+Vega de Santa María,05,253,1
+Velayos,05,254,6
+Villaflor,05,256,2
+Villafranca de la Sierra,05,257,8
+Villanueva de Ávila,05,905,3
+Villanueva de Gómez,05,258,4
+Villanueva del Aceral,05,259,7
+Villanueva del Campillo,05,260,1
+Villar de Corneja,05,261,8
+Villarejo del Valle,05,262,3
+Villatoro,05,263,9
+Viñegra de Moraña,05,264,4
+Vita,05,265,7
+Zapardiel de la Cañada,05,266,0
+Zapardiel de la Ribera,05,267,6
+Acedera,06,001,6
+Aceuchal,06,002,1
+Ahillones,06,003,7
+Alange,06,004,2
+"Albuera, La",06,005,5
+Alburquerque,06,006,8
+Alconchel,06,007,4
+Alconera,06,008,0
+Aljucén,06,009,3
+Almendral,06,010,7
+Almendralejo,06,011,4
+Arroyo de San Serván,06,012,9
+Atalaya,06,013,5
+Azuaga,06,014,0
+Badajoz,06,015,3
+Barcarrota,06,016,6
+Baterno,06,017,2
+Benquerencia de la Serena,06,018,8
+Berlanga,06,019,1
+Bienvenida,06,020,5
+Bodonal de la Sierra,06,021,2
+Burguillos del Cerro,06,022,7
+Cabeza del Buey,06,023,3
+Cabeza la Vaca,06,024,8
+Calamonte,06,025,1
+Calera de León,06,026,4
+Calzadilla de los Barros,06,027,0
+Campanario,06,028,6
+Campillo de Llerena,06,029,9
+Capilla,06,030,3
+Carmonita,06,031,0
+"Carrascalejo, El",06,032,5
+Casas de Don Pedro,06,033,1
+Casas de Reina,06,034,6
+Castilblanco,06,035,9
+Castuera,06,036,2
+Cheles,06,042,3
+"Codosera, La",06,037,8
+Cordobilla de Lácara,06,038,4
+"Coronada, La",06,039,7
+Corte de Peleas,06,040,1
+Cristina,06,041,8
+Don Álvaro,06,043,9
+Don Benito,06,044,4
+Entrín Bajo,06,045,7
+Esparragalejo,06,046,0
+Esparragosa de la Serena,06,047,6
+Esparragosa de Lares,06,048,2
+Feria,06,049,5
+Fregenal de la Sierra,06,050,8
+Fuenlabrada de los Montes,06,051,5
+Fuente de Cantos,06,052,0
+Fuente del Arco,06,053,6
+Fuente del Maestre,06,054,1
+Fuentes de León,06,055,4
+Garbayuela,06,056,7
+Garlitos,06,057,3
+"Garrovilla, La",06,058,9
+Granja de Torrehermosa,06,059,2
+Guareña,06,060,6
+"Haba, La",06,061,3
+Helechosa de los Montes,06,062,8
+Herrera del Duque,06,063,4
+Higuera de la Serena,06,064,9
+Higuera de Llerena,06,065,2
+Higuera de Vargas,06,066,5
+Higuera la Real,06,067,1
+Hinojosa del Valle,06,068,7
+Hornachos,06,069,0
+Jerez de los Caballeros,06,070,4
+"Lapa, La",06,071,1
+Llera,06,073,2
+Llerena,06,074,7
+Lobón,06,072,6
+Magacela,06,075,0
+Maguilla,06,076,3
+Malcocinado,06,077,9
+Malpartida de la Serena,06,078,5
+Manchita,06,079,8
+Medellín,06,080,2
+Medina de las Torres,06,081,9
+Mengabril,06,082,4
+Mérida,06,083,0
+Mirandilla,06,084,5
+Monesterio,06,085,8
+Montemolín,06,086,1
+Monterrubio de la Serena,06,087,7
+Montijo,06,088,3
+"Morera, La",06,089,6
+"Nava de Santiago, La",06,090,0
+Navalvillar de Pela,06,091,7
+Nogales,06,092,2
+Oliva de la Frontera,06,093,8
+Oliva de Mérida,06,094,3
+Olivenza,06,095,6
+Orellana de la Sierra,06,096,9
+Orellana la Vieja,06,097,5
+Palomas,06,098,1
+"Parra, La",06,099,4
+Peñalsordo,06,100,8
+Peraleda del Zaucejo,06,101,5
+Puebla de Alcocer,06,102,0
+Puebla de la Calzada,06,103,6
+Puebla de la Reina,06,104,1
+Puebla de Obando,06,107,3
+Puebla de Sancho Pérez,06,108,9
+Puebla del Maestre,06,105,4
+Puebla del Prior,06,106,7
+Pueblonuevo del Guadiana,06,902,2
+Quintana de la Serena,06,109,2
+Reina,06,110,6
+Rena,06,111,3
+Retamal de Llerena,06,112,8
+Ribera del Fresno,06,113,4
+Risco,06,114,9
+"Roca de la Sierra, La",06,115,2
+Salvaleón,06,116,5
+Salvatierra de los Barros,06,117,1
+San Pedro de Mérida,06,119,0
+San Vicente de Alcántara,06,123,2
+Sancti-Spíritus,06,118,7
+Santa Amalia,06,120,4
+Santa Marta,06,121,1
+"Santos de Maimona, Los",06,122,6
+Segura de León,06,124,7
+Siruela,06,125,0
+Solana de los Barros,06,126,3
+Talarrubias,06,127,9
+Talavera la Real,06,128,5
+Táliga,06,129,8
+Tamurejo,06,130,2
+Torre de Miguel Sesmero,06,131,9
+Torremayor,06,132,4
+Torremejía,06,133,0
+Trasierra,06,134,5
+Trujillanos,06,135,8
+Usagre,06,136,1
+Valdecaballeros,06,137,7
+Valdelacalzada,06,901,7
+Valdetorres,06,138,3
+Valencia de las Torres,06,139,6
+Valencia del Mombuey,06,140,0
+Valencia del Ventoso,06,141,7
+Valle de la Serena,06,146,9
+Valle de Matamoros,06,147,5
+Valle de Santa Ana,06,148,1
+Valverde de Burguillos,06,142,2
+Valverde de Leganés,06,143,8
+Valverde de Llerena,06,144,3
+Valverde de Mérida,06,145,6
+Villafranca de los Barros,06,149,4
+Villagarcía de la Torre,06,150,7
+Villagonzalo,06,151,4
+Villalba de los Barros,06,152,9
+Villanueva de la Serena,06,153,5
+Villanueva del Fresno,06,154,0
+Villar de Rena,06,156,6
+Villar del Rey,06,155,3
+Villarta de los Montes,06,157,2
+Zafra,06,158,8
+Zahínos,06,159,1
+Zalamea de la Serena,06,160,5
+"Zarza, La",06,162,7
+Zarza-Capilla,06,161,2
+Alaior,07,002,7
+Alaró,07,001,2
+Alcúdia,07,003,3
+Algaida,07,004,8
+Andratx,07,005,1
+Ariany,07,901,3
+Artà,07,006,4
+Banyalbufar,07,007,0
+Binissalem,07,008,6
+Búger,07,009,9
+Bunyola,07,010,3
+Calvià,07,011,0
+Campanet,07,012,5
+Campos,07,013,1
+Capdepera,07,014,6
+"Castell, Es",07,064,5
+Ciutadella de Menorca,07,015,9
+Consell,07,016,2
+Costitx,07,017,8
+Deyá,07,018,4
+Eivissa,07,026,0
+Escorca,07,019,7
+Esporles,07,020,1
+Estellencs,07,021,8
+Felanitx,07,022,3
+Ferreries,07,023,9
+Formentera,07,024,4
+Fornalutx,07,025,7
+Inca,07,027,6
+Lloret de Vistalegre,07,028,2
+Lloseta,07,029,5
+Llubí,07,030,9
+Llucmajor,07,031,6
+Manacor,07,033,7
+Mancor de la Vall,07,034,2
+Maó,07,032,1
+Maria de la Salut,07,035,5
+Marratxí,07,036,8
+"Mercadal, Es",07,037,4
+"Migjorn Gran, Es",07,902,8
+Montuïri,07,038,0
+Muro,07,039,3
+Palma,07,040,7
+Petra,07,041,4
+"Pobla, Sa",07,044,0
+Pollença,07,042,9
+Porreres,07,043,5
+Puigpunyent,07,045,3
+"Salines, Ses",07,059,8
+Sant Antoni de Portmany,07,046,6
+Sant Joan,07,049,1
+Sant Joan de Labritja,07,050,4
+Sant Josep de sa Talaia,07,048,8
+Sant Llorenç des Cardassar,07,051,1
+Sant Lluís,07,052,6
+Santa Eugènia,07,053,2
+Santa Eulalia del Río,07,054,7
+Santa Margalida,07,055,0
+Santa María del Camí,07,056,3
+Santanyí,07,057,9
+Selva,07,058,5
+Sencelles,07,047,2
+Sineu,07,060,2
+Sóller,07,061,9
+Son Servera,07,062,4
+Valldemossa,07,063,0
+Vilafranca de Bonany,07,065,8
+Abrera,08,001,8
+Aguilar de Segarra,08,002,3
+Aiguafreda,08,014,2
+Alella,08,003,9
+Alpens,08,004,4
+"Ametlla del Vallès, L'",08,005,7
+Arenys de Mar,08,006,0
+Arenys de Munt,08,007,6
+Argençola,08,008,2
+Argentona,08,009,5
+Artés,08,010,9
+Avià,08,011,6
+Avinyó,08,012,1
+Avinyonet del Penedès,08,013,7
+Badalona,08,015,5
+Badia del Vallès,08,904,5
+Bagà,08,016,8
+Balenyà,08,017,4
+Balsareny,08,018,0
+Barberà del Vallès,08,252,0
+Barcelona,08,019,3
+Begues,08,020,7
+Bellprat,08,021,4
+Berga,08,022,9
+Bigues i Riells,08,023,5
+Borredà,08,024,0
+"Bruc, El",08,025,3
+"Brull, El",08,026,6
+"Cabanyes, Les",08,027,2
+Cabrera d'Anoia,08,028,8
+Cabrera de Mar,08,029,1
+Cabrils,08,030,5
+Calaf,08,031,2
+Calders,08,034,8
+Caldes de Montbui,08,033,3
+Caldes d'Estrac,08,032,7
+Calella,08,035,1
+Calldetenes,08,037,0
+Callús,08,038,6
+Calonge de Segarra,08,036,4
+Campins,08,039,9
+Canet de Mar,08,040,3
+Canovelles,08,041,0
+Cànoves i Samalús,08,042,5
+Canyelles,08,043,1
+Capellades,08,044,6
+Capolat,08,045,9
+Cardedeu,08,046,2
+Cardona,08,047,8
+Carme,08,048,4
+Casserres,08,049,7
+Castell de l'Areny,08,057,5
+Castellar de n'Hug,08,052,2
+Castellar del Riu,08,050,0
+Castellar del Vallès,08,051,7
+Castellbell i el Vilar,08,053,8
+Castellbisbal,08,054,3
+Castellcir,08,055,6
+Castelldefels,08,056,9
+Castellet i la Gornal,08,058,1
+Castellfollit de Riubregós,08,060,8
+Castellfollit del Boix,08,059,4
+Castellgalí,08,061,5
+Castellnou de Bages,08,062,0
+Castellolí,08,063,6
+Castellterçol,08,064,1
+Castellví de la Marca,08,065,4
+Castellví de Rosanes,08,066,7
+Centelles,08,067,3
+Cercs,08,268,7
+Cerdanyola del Vallès,08,266,5
+Cervelló,08,068,9
+Collbató,08,069,2
+Collsuspina,08,070,6
+Copons,08,071,3
+Corbera de Llobregat,08,072,8
+Cornellà de Llobregat,08,073,4
+Cubelles,08,074,9
+Dosrius,08,075,2
+Esparreguera,08,076,5
+Esplugues de Llobregat,08,077,1
+"Espunyola, L'",08,078,7
+"Estany, L'",08,079,0
+Figaró-Montmany,08,134,7
+Fígols,08,080,4
+Fogars de la Selva,08,082,6
+Fogars de Montclús,08,081,1
+Folgueroles,08,083,2
+Fonollosa,08,084,7
+Font-rubí,08,085,0
+"Franqueses del Vallès, Les",08,086,3
+Gaià,08,090,2
+Gallifa,08,087,9
+"Garriga, La",08,088,5
+Gavà,08,089,8
+Gelida,08,091,9
+Gironella,08,092,4
+Gisclareny,08,093,0
+"Granada, La",08,094,5
+Granera,08,095,8
+Granollers,08,096,1
+Gualba,08,097,7
+Guardiola de Berguedà,08,099,6
+Gurb,08,100,0
+"Hospitalet de Llobregat, L'",08,101,7
+"Hostalets de Pierola, Els",08,162,9
+Igualada,08,102,2
+Jorba,08,103,8
+"Llacuna, La",08,104,3
+"Llagosta, La",08,105,6
+Lliçà d'Amunt,08,107,5
+Lliçà de Vall,08,108,1
+Llinars del Vallès,08,106,9
+Lluçà,08,109,4
+Malgrat de Mar,08,110,8
+Malla,08,111,5
+Manlleu,08,112,0
+Manresa,08,113,6
+Marganell,08,242,3
+Martorell,08,114,1
+Martorelles,08,115,4
+"Masies de Roda, Les",08,116,7
+"Masies de Voltregà, Les",08,117,3
+"Masnou, El",08,118,9
+Masquefa,08,119,2
+Matadepera,08,120,6
+Mataró,08,121,3
+Mediona,08,122,8
+Moià,08,138,5
+Molins de Rei,08,123,4
+Mollet del Vallès,08,124,9
+Monistrol de Calders,08,128,7
+Monistrol de Montserrat,08,127,1
+Montcada i Reixac,08,125,2
+Montclar,08,130,4
+Montesquiu,08,131,1
+Montgat,08,126,5
+Montmajor,08,132,6
+Montmaneu,08,133,2
+Montmeló,08,135,0
+Montornès del Vallès,08,136,3
+Montseny,08,137,9
+Muntanyola,08,129,0
+Mura,08,139,8
+Navarcles,08,140,2
+Navàs,08,141,9
+"Nou de Berguedà, La",08,142,4
+Òdena,08,143,0
+Olèrdola,08,145,8
+Olesa de Bonesvalls,08,146,1
+Olesa de Montserrat,08,147,7
+Olivella,08,148,3
+Olost,08,149,6
+Olvan,08,144,5
+Orís,08,150,9
+Oristà,08,151,6
+Orpí,08,152,1
+Òrrius,08,153,7
+Pacs del Penedès,08,154,2
+Palafolls,08,155,5
+Palau-solità i Plegamans,08,156,8
+Pallejà,08,157,4
+"Palma de Cervelló, La",08,905,8
+"Papiol, El",08,158,0
+Parets del Vallès,08,159,3
+Perafita,08,160,7
+Piera,08,161,4
+Pineda de Mar,08,163,5
+"Pla del Penedès, El",08,164,0
+"Pobla de Claramunt, La",08,165,3
+"Pobla de Lillet, La",08,166,6
+Polinyà,08,167,2
+"Pont de Vilomara i Rocafort, El",08,182,5
+Pontons,08,168,8
+"Prat de Llobregat, El",08,169,1
+Prats de Lluçanès,08,171,2
+"Prats de Rei, Els",08,170,5
+Premià de Dalt,08,230,3
+Premià de Mar,08,172,7
+Puigdàlber,08,174,8
+Puig-reig,08,175,1
+Pujalt,08,176,4
+"Quar, La",08,177,0
+Rajadell,08,178,6
+Rellinars,08,179,9
+Ripollet,08,180,3
+"Roca del Vallès, La",08,181,0
+Roda de Ter,08,183,1
+Rubí,08,184,6
+Rubió,08,185,9
+Rupit i Pruit,08,901,9
+Sabadell,08,187,8
+Sagàs,08,188,4
+Saldes,08,190,1
+Sallent,08,191,8
+Sant Adrià de Besòs,08,194,4
+Sant Agustí de Lluçanès,08,195,7
+Sant Andreu de la Barca,08,196,0
+Sant Andreu de Llavaneres,08,197,6
+Sant Antoni de Vilamajor,08,198,2
+Sant Bartomeu del Grau,08,199,5
+Sant Boi de Llobregat,08,200,9
+Sant Boi de Lluçanès,08,201,6
+Sant Cebrià de Vallalta,08,203,7
+Sant Celoni,08,202,1
+Sant Climent de Llobregat,08,204,2
+Sant Cugat del Vallès,08,205,5
+Sant Cugat Sesgarrigues,08,206,8
+Sant Esteve de Palautordera,08,207,4
+Sant Esteve Sesrovires,08,208,0
+Sant Feliu de Codines,08,210,7
+Sant Feliu de Llobregat,08,211,4
+Sant Feliu Sasserra,08,212,9
+Sant Fost de Campsentelles,08,209,3
+Sant Fruitós de Bages,08,213,5
+Sant Hipòlit de Voltregà,08,215,3
+Sant Iscle de Vallalta,08,193,9
+Sant Jaume de Frontanyà,08,216,6
+Sant Joan de Vilatorrada,08,218,8
+Sant Joan Despí,08,217,2
+Sant Julià de Cerdanyola,08,903,0
+Sant Julià de Vilatorta,08,220,5
+Sant Just Desvern,08,221,2
+Sant Llorenç d'Hortons,08,222,7
+Sant Llorenç Savall,08,223,3
+Sant Martí d'Albars,08,225,1
+Sant Martí de Centelles,08,224,8
+Sant Martí de Tous,08,226,4
+Sant Martí Sarroca,08,227,0
+Sant Martí Sesgueioles,08,228,6
+Sant Mateu de Bages,08,229,9
+Sant Pere de Ribes,08,231,0
+Sant Pere de Riudebitlles,08,232,5
+Sant Pere de Torelló,08,233,1
+Sant Pere de Vilamajor,08,234,6
+Sant Pere Sallavinera,08,189,7
+Sant Pol de Mar,08,235,9
+Sant Quintí de Mediona,08,236,2
+Sant Quirze de Besora,08,237,8
+Sant Quirze del Vallès,08,238,4
+Sant Quirze Safaja,08,239,7
+Sant Sadurní d'Anoia,08,240,1
+Sant Sadurní d'Osormort,08,241,8
+Sant Salvador de Guardiola,08,098,3
+Sant Vicenç de Castellet,08,262,8
+Sant Vicenç de Montalt,08,264,9
+Sant Vicenç de Torelló,08,265,2
+Sant Vicenç dels Horts,08,263,4
+Santa Cecília de Voltregà,08,243,9
+Santa Coloma de Cervelló,08,244,4
+Santa Coloma de Gramenet,08,245,7
+Santa Eugènia de Berga,08,246,0
+Santa Eulàlia de Riuprimer,08,247,6
+Santa Eulàlia de Ronçana,08,248,2
+Santa Fe del Penedès,08,249,5
+Santa Margarida de Montbui,08,250,8
+Santa Margarida i els Monjos,08,251,5
+Santa Maria de Besora,08,253,6
+Santa Maria de Corcó,08,254,1
+Santa Maria de Martorelles,08,256,7
+Santa Maria de Merlès,08,255,4
+Santa Maria de Miralles,08,257,3
+Santa Maria de Palautordera,08,259,2
+Santa Maria d'Oló,08,258,9
+Santa Perpètua de Mogoda,08,260,6
+Santa Susanna,08,261,3
+Santpedor,08,192,3
+Sentmenat,08,267,1
+Seva,08,269,0
+Sitges,08,270,4
+Sobremunt,08,271,1
+Sora,08,272,6
+Subirats,08,273,2
+Súria,08,274,7
+Tagamanent,08,276,3
+Talamanca,08,277,9
+Taradell,08,278,5
+Tavèrnoles,08,275,0
+Tavertet,08,280,2
+Teià,08,281,9
+Terrassa,08,279,8
+Tiana,08,282,4
+Tona,08,283,0
+Tordera,08,284,5
+Torelló,08,285,8
+"Torre de Claramunt, La",08,286,1
+Torrelavit,08,287,7
+Torrelles de Foix,08,288,3
+Torrelles de Llobregat,08,289,6
+Ullastrell,08,290,0
+Vacarisses,08,291,7
+Vallbona d'Anoia,08,292,2
+Vallcebre,08,293,8
+Vallgorguina,08,294,3
+Vallirana,08,295,6
+Vallromanes,08,296,9
+Veciana,08,297,5
+Vic,08,298,1
+Vilada,08,299,4
+Viladecans,08,301,5
+Viladecavalls,08,300,8
+Vilafranca del Penedès,08,305,4
+Vilalba Sasserra,08,306,7
+Vilanova de Sau,08,303,6
+Vilanova del Camí,08,302,0
+Vilanova del Vallès,08,902,4
+Vilanova i la Geltrú,08,307,3
+Vilassar de Dalt,08,214,0
+Vilassar de Mar,08,219,1
+Vilobí del Penedès,08,304,1
+Viver i Serrateix,08,308,9
+Abajas,09,001,1
+Adrada de Haza,09,003,2
+Aguas Cándidas,09,006,3
+Aguilar de Bureba,09,007,9
+Albillos,09,009,8
+Alcocero de Mola,09,010,2
+Alfoz de Bricia,09,011,9
+Alfoz de Quintanadueñas,09,907,0
+Alfoz de Santa Gadea,09,012,4
+Altable,09,013,0
+"Altos, Los",09,014,5
+Ameyugo,09,016,1
+Anguix,09,017,7
+Aranda de Duero,09,018,3
+Arandilla,09,019,6
+Arauzo de Miel,09,020,0
+Arauzo de Salce,09,021,7
+Arauzo de Torre,09,022,2
+Arcos,09,023,8
+Arenillas de Riopisuerga,09,024,3
+Arija,09,025,6
+Arlanzón,09,026,9
+Arraya de Oca,09,027,5
+Atapuerca,09,029,4
+"Ausines, Los",09,030,8
+Avellanosa de Muñó,09,032,0
+Bahabón de Esgueva,09,033,6
+"Balbases, Los",09,034,1
+Baños de Valdearados,09,035,4
+Bañuelos de Bureba,09,036,7
+Barbadillo de Herreros,09,037,3
+Barbadillo del Mercado,09,038,9
+Barbadillo del Pez,09,039,2
+Barrio de Muñó,09,041,3
+"Barrios de Bureba, Los",09,043,4
+Barrios de Colina,09,044,9
+Basconcillos del Tozo,09,045,2
+Bascuñana,09,046,5
+Belbimbre,09,047,1
+Belorado,09,048,7
+Berberana,09,050,3
+Berlangas de Roa,09,051,0
+Berzosa de Bureba,09,052,5
+Bozoó,09,054,6
+Brazacorta,09,055,9
+Briviesca,09,056,2
+Bugedo,09,057,8
+Buniel,09,058,4
+Burgos,09,059,7
+Busto de Bureba,09,060,1
+Cabañes de Esgueva,09,061,8
+Cabezón de la Sierra,09,062,3
+Caleruega,09,064,4
+Campillo de Aranda,09,065,7
+Campolara,09,066,0
+Canicosa de la Sierra,09,067,6
+Cantabrana,09,068,2
+Carazo,09,070,9
+Carcedo de Bureba,09,071,6
+Carcedo de Burgos,09,072,1
+Cardeñadijo,09,073,7
+Cardeñajimeno,09,074,2
+Cardeñuela Riopico,09,075,5
+Carrias,09,076,8
+Cascajares de Bureba,09,077,4
+Cascajares de la Sierra,09,078,0
+Castellanos de Castro,09,079,3
+Castil de Peones,09,083,5
+Castildelgado,09,082,9
+Castrillo de la Reina,09,084,0
+Castrillo de la Vega,09,085,3
+Castrillo de Riopisuerga,09,088,8
+Castrillo del Val,09,086,6
+Castrillo Matajudíos,09,090,5
+Castrojeriz,09,091,2
+Cavia,09,063,9
+Cayuela,09,093,3
+Cebrecos,09,094,8
+Celada del Camino,09,095,1
+Cerezo de Río Tirón,09,098,6
+Cerratón de Juarros,09,100,3
+Ciadoncha,09,101,0
+Cillaperlata,09,102,5
+Cilleruelo de Abajo,09,103,1
+Cilleruelo de Arriba,09,104,6
+Ciruelos de Cervera,09,105,9
+Cogollos,09,108,4
+Condado de Treviño,09,109,7
+Contreras,09,110,1
+Coruña del Conde,09,112,3
+Covarrubias,09,113,9
+Cubillo del Campo,09,114,4
+Cubo de Bureba,09,115,7
+"Cueva de Roa, La",09,117,6
+Cuevas de San Clemente,09,119,5
+Encío,09,120,9
+Espinosa de Cervera,09,122,1
+Espinosa de los Monteros,09,124,2
+Espinosa del Camino,09,123,7
+Estépar,09,125,5
+Fontioso,09,127,4
+Frandovínez,09,128,0
+Fresneda de la Sierra Tirón,09,129,3
+Fresneña,09,130,7
+Fresnillo de las Dueñas,09,131,4
+Fresno de Río Tirón,09,132,9
+Fresno de Rodilla,09,133,5
+Frías,09,134,0
+Fuentebureba,09,135,3
+Fuentecén,09,136,6
+Fuentelcésped,09,137,2
+Fuentelisendo,09,138,8
+Fuentemolinos,09,139,1
+Fuentenebro,09,140,5
+Fuentespina,09,141,2
+Galbarros,09,143,3
+"Gallega, La",09,144,8
+Grijalba,09,148,6
+Grisaleña,09,149,9
+Gumiel de Izán,09,151,9
+Gumiel de Mercado,09,152,4
+Hacinas,09,154,5
+Haza,09,155,8
+Hontanas,09,159,6
+Hontangas,09,160,0
+Hontoria de la Cantera,09,162,2
+Hontoria de Valdearados,09,164,3
+Hontoria del Pinar,09,163,8
+"Hormazas, Las",09,166,9
+Hornillos del Camino,09,167,5
+"Horra, La",09,168,1
+Hortigüela,09,169,4
+Hoyales de Roa,09,170,8
+Huérmeces,09,172,0
+Huerta de Arriba,09,173,6
+Huerta de Rey,09,174,1
+Humada,09,175,4
+Hurones,09,176,7
+Ibeas de Juarros,09,177,3
+Ibrillos,09,178,9
+Iglesiarrubia,09,179,2
+Iglesias,09,180,6
+Isar,09,181,3
+Itero del Castillo,09,182,8
+Jaramillo de la Fuente,09,183,4
+Jaramillo Quemado,09,184,9
+Junta de Traslaloma,09,189,0
+Junta de Villalba de Losa,09,190,4
+Jurisdicción de Lara,09,191,1
+Jurisdicción de San Zadornil,09,192,6
+Lerma,09,194,7
+Llano de Bureba,09,195,0
+Madrigal del Monte,09,196,3
+Madrigalejo del Monte,09,197,9
+Mahamud,09,198,5
+Mambrilla de Castrejón,09,199,8
+Mambrillas de Lara,09,200,2
+Mamolar,09,201,9
+Manciles,09,202,4
+Mazuela,09,206,1
+Mecerreyes,09,208,3
+Medina de Pomar,09,209,6
+Melgar de Fernamental,09,211,7
+Merindad de Cuesta-Urria,09,213,8
+Merindad de Montija,09,214,3
+Merindad de Río Ubierna,09,906,4
+Merindad de Sotoscueva,09,215,6
+Merindad de Valdeporres,09,216,9
+Merindad de Valdivielso,09,217,5
+Milagros,09,218,1
+Miranda de Ebro,09,219,4
+Miraveche,09,220,8
+Modúbar de la Emparedada,09,221,5
+Monasterio de la Sierra,09,223,6
+Monasterio de Rodilla,09,224,1
+Moncalvillo,09,225,4
+Monterrubio de la Demanda,09,226,7
+Montorio,09,227,3
+Moradillo de Roa,09,228,9
+Nava de Roa,09,229,2
+Navas de Bureba,09,230,6
+Nebreda,09,231,3
+Neila,09,232,8
+Olmedillo de Roa,09,235,2
+Olmillos de Muñó,09,236,5
+Oña,09,238,7
+Oquillas,09,239,0
+Orbaneja Riopico,09,241,1
+Padilla de Abajo,09,242,6
+Padilla de Arriba,09,243,2
+Padrones de Bureba,09,244,7
+Palacios de la Sierra,09,246,3
+Palacios de Riopisuerga,09,247,9
+Palazuelos de la Sierra,09,248,5
+Palazuelos de Muñó,09,249,8
+Pampliega,09,250,1
+Pancorbo,09,251,8
+Pardilla,09,253,9
+Partido de la Sierra en Tobalina,09,255,7
+Pedrosa de Duero,09,256,0
+Pedrosa de Río Úrbel,09,259,5
+Pedrosa del Páramo,09,257,6
+Pedrosa del Príncipe,09,258,2
+Peñaranda de Duero,09,261,6
+Peral de Arlanza,09,262,1
+Piérnigas,09,265,5
+Pineda de la Sierra,09,266,8
+Pineda Trasmonte,09,267,4
+Pinilla de los Barruecos,09,268,0
+Pinilla de los Moros,09,269,3
+Pinilla Trasmonte,09,270,7
+Poza de la Sal,09,272,9
+Prádanos de Bureba,09,273,5
+Pradoluengo,09,274,0
+Presencio,09,275,3
+"Puebla de Arganzón, La",09,276,6
+Puentedura,09,277,2
+Quemada,09,279,1
+Quintana del Pidio,09,281,2
+Quintanabureba,09,280,5
+Quintanaélez,09,283,3
+Quintanaortuño,09,287,0
+Quintanapalla,09,288,6
+Quintanar de la Sierra,09,289,9
+Quintanavides,09,292,5
+Quintanilla de la Mata,09,294,6
+Quintanilla del Agua y Tordueles,09,901,2
+Quintanilla del Coco,09,295,9
+Quintanilla San García,09,298,4
+Quintanilla Vivar,09,301,8
+"Quintanillas, Las",09,297,8
+Rabanera del Pinar,09,302,3
+Rábanos,09,303,9
+Rabé de las Calzadas,09,304,4
+Rebolledo de la Torre,09,306,0
+Redecilla del Camino,09,307,6
+Redecilla del Campo,09,308,2
+Regumiel de la Sierra,09,309,5
+Reinoso,09,310,9
+Retuerta,09,311,6
+Revilla del Campo,09,314,2
+Revilla Vallejera,09,316,8
+"Revilla y Ahedo, La",09,312,1
+Revillarruz,09,315,5
+Rezmondo,09,317,4
+Riocavado de la Sierra,09,318,0
+Roa,09,321,4
+Rojas,09,323,5
+Royuela de Río Franco,09,325,3
+Rubena,09,326,6
+Rublacedo de Abajo,09,327,2
+Rucandio,09,328,8
+Salas de Bureba,09,329,1
+Salas de los Infantes,09,330,5
+Saldaña de Burgos,09,332,7
+Salinillas de Bureba,09,334,8
+San Adrián de Juarros,09,335,1
+San Juan del Monte,09,337,0
+San Mamés de Burgos,09,338,6
+San Martín de Rubiales,09,339,9
+San Millán de Lara,09,340,3
+San Vicente del Valle,09,360,8
+Santa Cecilia,09,343,1
+Santa Cruz de la Salceda,09,345,9
+Santa Cruz del Valle Urbión,09,346,2
+Santa Gadea del Cid,09,347,8
+Santa Inés,09,348,4
+Santa María del Campo,09,350,0
+Santa María del Invierno,09,351,7
+Santa María del Mercadillo,09,352,2
+Santa María Rivarredonda,09,353,8
+Santa Olalla de Bureba,09,354,3
+Santibáñez de Esgueva,09,355,6
+Santibáñez del Val,09,356,9
+Santo Domingo de Silos,09,358,1
+Sargentes de la Lora,09,361,5
+Sarracín,09,362,0
+Sasamón,09,363,6
+"Sequera de Haza, La",09,365,4
+Solarana,09,366,7
+Sordillos,09,368,9
+Sotillo de la Ribera,09,369,2
+Sotragero,09,372,8
+Sotresgudo,09,373,4
+Susinos del Páramo,09,374,9
+Tamarón,09,375,2
+Tardajos,09,377,1
+Tejada,09,378,7
+Terradillos de Esgueva,09,380,4
+Tinieblas de la Sierra,09,381,1
+Tobar,09,382,6
+Tordómar,09,384,7
+Torrecilla del Monte,09,386,3
+Torregalindo,09,387,9
+Torrelara,09,388,5
+Torrepadre,09,389,8
+Torresandino,09,390,2
+Tórtoles de Esgueva,09,391,9
+Tosantos,09,392,4
+Trespaderne,09,394,5
+Tubilla del Agua,09,395,8
+Tubilla del Lago,09,396,1
+Úrbel del Castillo,09,398,3
+Vadocondes,09,400,0
+Valdeande,09,403,8
+Valdezate,09,405,6
+Valdorros,09,406,9
+Vallarta de Bureba,09,408,1
+Valle de las Navas,09,904,8
+Valle de Losa,09,908,6
+Valle de Manzanedo,09,409,4
+Valle de Mena,09,410,8
+Valle de Oca,09,411,5
+Valle de Santibáñez,09,902,7
+Valle de Sedano,09,905,1
+Valle de Tobalina,09,412,0
+Valle de Valdebezana,09,413,6
+Valle de Valdelaguna,09,414,1
+Valle de Valdelucio,09,415,4
+Valle de Zamanzas,09,416,7
+Vallejera,09,417,3
+Valles de Palenzuela,09,418,9
+Valluércanes,09,419,2
+Valmala,09,407,5
+"Vid de Bureba, La",09,422,8
+"Vid y Barrios, La",09,421,3
+Vileña,09,423,4
+Villadiego,09,427,1
+Villaescusa de Roa,09,428,7
+Villaescusa la Sombría,09,429,0
+Villaespasa,09,430,4
+Villafranca Montes de Oca,09,431,1
+Villafruela,09,432,6
+Villagalijo,09,433,2
+Villagonzalo Pedernales,09,434,7
+Villahoz,09,437,9
+Villalba de Duero,09,438,5
+Villalbilla de Burgos,09,439,8
+Villalbilla de Gumiel,09,440,2
+Villaldemiro,09,441,9
+Villalmanzo,09,442,4
+Villamayor de los Montes,09,443,0
+Villamayor de Treviño,09,444,5
+Villambistia,09,445,8
+Villamedianilla,09,446,1
+Villamiel de la Sierra,09,447,7
+Villangómez,09,448,3
+Villanueva de Argaño,09,449,6
+Villanueva de Carazo,09,450,9
+Villanueva de Gumiel,09,451,6
+Villanueva de Teba,09,454,2
+Villaquirán de la Puebla,09,455,5
+Villaquirán de los Infantes,09,456,8
+Villarcayo de Merindad de Castilla la Vieja,09,903,3
+Villariezo,09,458,0
+Villasandino,09,460,7
+Villasur de Herreros,09,463,5
+Villatuelda,09,464,0
+Villaverde del Monte,09,466,6
+Villaverde-Mogina,09,467,2
+Villayerno Morquillas,09,471,2
+Villazopeque,09,472,7
+Villegas,09,473,3
+Villoruebo,09,476,4
+Viloria de Rioja,09,424,9
+Vilviestre del Pinar,09,425,2
+Vizcaínos,09,478,6
+Zael,09,480,3
+Zarzosa de Río Pisuerga,09,482,5
+Zazuar,09,483,1
+Zuñeda,09,485,9
+Abadía,10,001,5
+Abertura,10,002,0
+Acebo,10,003,6
+Acehúche,10,004,1
+Aceituna,10,005,4
+Ahigal,10,006,7
+Alagón del Río,10,903,7
+Albalá,10,007,3
+Alcántara,10,008,9
+Alcollarín,10,009,2
+Alcuéscar,10,010,6
+Aldea del Cano,10,012,8
+"Aldea del Obispo, La",10,013,4
+Aldeacentenera,10,011,3
+Aldeanueva de la Vera,10,014,9
+Aldeanueva del Camino,10,015,2
+Aldehuela de Jerte,10,016,5
+Alía,10,017,1
+Aliseda,10,018,7
+Almaraz,10,019,0
+Almoharín,10,020,4
+Arroyo de la Luz,10,021,1
+Arroyomolinos,10,023,2
+Arroyomolinos de la Vera,10,022,6
+Baños de Montemayor,10,024,7
+Barrado,10,025,0
+Belvís de Monroy,10,026,3
+Benquerencia,10,027,9
+Berrocalejo,10,028,5
+Berzocana,10,029,8
+Bohonal de Ibor,10,030,2
+Botija,10,031,9
+Brozas,10,032,4
+Cabañas del Castillo,10,033,0
+Cabezabellosa,10,034,5
+Cabezuela del Valle,10,035,8
+Cabrero,10,036,1
+Cáceres,10,037,7
+Cachorrilla,10,038,3
+Cadalso,10,039,6
+Calzadilla,10,040,0
+Caminomorisco,10,041,7
+Campillo de Deleitosa,10,042,2
+Campo Lugar,10,043,8
+Cañamero,10,044,3
+Cañaveral,10,045,6
+Carbajo,10,046,9
+Carcaboso,10,047,5
+Carrascalejo,10,048,1
+Casar de Cáceres,10,049,4
+Casar de Palomero,10,050,7
+Casares de las Hurdes,10,051,4
+Casas de Don Antonio,10,052,9
+Casas de Don Gómez,10,053,5
+Casas de Millán,10,056,6
+Casas de Miravete,10,057,2
+Casas del Castañar,10,054,0
+Casas del Monte,10,055,3
+Casatejada,10,058,8
+Casillas de Coria,10,059,1
+Castañar de Ibor,10,060,5
+Ceclavín,10,061,2
+Cedillo,10,062,7
+Cerezo,10,063,3
+Cilleros,10,064,8
+Collado,10,065,1
+Conquista de la Sierra,10,066,4
+Coria,10,067,0
+Cuacos de Yuste,10,068,6
+"Cumbre, La",10,069,9
+Deleitosa,10,070,3
+Descargamaría,10,071,0
+Eljas,10,072,5
+Escurial,10,073,1
+Fresnedoso de Ibor,10,075,9
+Galisteo,10,076,2
+Garciaz,10,077,8
+"Garganta, La",10,078,4
+Garganta la Olla,10,079,7
+Gargantilla,10,080,1
+Gargüera,10,081,8
+Garrovillas de Alconétar,10,082,3
+Garvín,10,083,9
+Gata,10,084,4
+"Gordo, El",10,085,7
+"Granja, La",10,086,0
+Guadalupe,10,087,6
+Guijo de Coria,10,088,2
+Guijo de Galisteo,10,089,5
+Guijo de Granadilla,10,090,9
+Guijo de Santa Bárbara,10,091,6
+Herguijuela,10,092,1
+Hernán-Pérez,10,093,7
+Herrera de Alcántara,10,094,2
+Herreruela,10,095,5
+Hervás,10,096,8
+Higuera,10,097,4
+Hinojal,10,098,0
+Holguera,10,099,3
+Hoyos,10,100,7
+Huélaga,10,101,4
+Ibahernando,10,102,9
+Jaraicejo,10,103,5
+Jaraíz de la Vera,10,104,0
+Jarandilla de la Vera,10,105,3
+Jarilla,10,106,6
+Jerte,10,107,2
+Ladrillar,10,108,8
+Logrosán,10,109,1
+Losar de la Vera,10,110,5
+Madrigal de la Vera,10,111,2
+Madrigalejo,10,112,7
+Madroñera,10,113,3
+Majadas,10,114,8
+Malpartida de Cáceres,10,115,1
+Malpartida de Plasencia,10,116,4
+Marchagaz,10,117,0
+Mata de Alcántara,10,118,6
+Membrío,10,119,9
+Mesas de Ibor,10,120,3
+Miajadas,10,121,0
+Millanes,10,122,5
+Mirabel,10,123,1
+Mohedas de Granadilla,10,124,6
+Monroy,10,125,9
+Montánchez,10,126,2
+Montehermoso,10,127,8
+Moraleja,10,128,4
+Morcillo,10,129,7
+Navaconcejo,10,130,1
+Navalmoral de la Mata,10,131,8
+Navalvillar de Ibor,10,132,3
+Navas del Madroño,10,133,9
+Navezuelas,10,134,4
+Nuñomoral,10,135,7
+Oliva de Plasencia,10,136,0
+Palomero,10,137,6
+Pasarón de la Vera,10,138,2
+Pedroso de Acim,10,139,5
+Peraleda de la Mata,10,140,9
+Peraleda de San Román,10,141,6
+Perales del Puerto,10,142,1
+Pescueza,10,143,7
+"Pesga, La",10,144,2
+Piedras Albas,10,145,5
+Pinofranqueado,10,146,8
+Piornal,10,147,4
+Plasencia,10,148,0
+Plasenzuela,10,149,3
+Portaje,10,150,6
+Portezuelo,10,151,3
+Pozuelo de Zarzón,10,152,8
+Puerto de Santa Cruz,10,153,4
+Rebollar,10,154,9
+Riolobos,10,155,2
+Robledillo de Gata,10,156,5
+Robledillo de la Vera,10,157,1
+Robledillo de Trujillo,10,158,7
+Robledollano,10,159,0
+Romangordo,10,160,4
+Rosalejo,10,901,6
+Ruanes,10,161,1
+Salorino,10,162,6
+Salvatierra de Santiago,10,163,2
+San Martín de Trevejo,10,164,7
+Santa Ana,10,165,0
+Santa Cruz de la Sierra,10,166,3
+Santa Cruz de Paniagua,10,167,9
+Santa Marta de Magasca,10,168,5
+Santiago de Alcántara,10,169,8
+Santiago del Campo,10,170,2
+Santibáñez el Alto,10,171,9
+Santibáñez el Bajo,10,172,4
+Saucedilla,10,173,0
+Segura de Toro,10,174,5
+Serradilla,10,175,8
+Serrejón,10,176,1
+Sierra de Fuentes,10,177,7
+Talaván,10,178,3
+Talaveruela de la Vera,10,179,6
+Talayuela,10,180,0
+Tejeda de Tiétar,10,181,7
+Toril,10,182,2
+Tornavacas,10,183,8
+"Torno, El",10,184,3
+Torre de Don Miguel,10,187,5
+Torre de Santa María,10,188,1
+Torrecilla de los Ángeles,10,185,6
+Torrecillas de la Tiesa,10,186,9
+Torrejón el Rubio,10,190,8
+Torrejoncillo,10,189,4
+Torremenga,10,191,5
+Torremocha,10,192,0
+Torreorgaz,10,193,6
+Torrequemada,10,194,1
+Trujillo,10,195,4
+Valdastillas,10,196,7
+Valdecañas de Tajo,10,197,3
+Valdefuentes,10,198,9
+Valdehúncar,10,199,2
+Valdelacasa de Tajo,10,200,6
+Valdemorales,10,201,3
+Valdeobispo,10,202,8
+Valencia de Alcántara,10,203,4
+Valverde de la Vera,10,204,9
+Valverde del Fresno,10,205,2
+Vegaviana,10,902,1
+Viandar de la Vera,10,206,5
+Villa del Campo,10,207,1
+Villa del Rey,10,208,7
+Villamesías,10,209,0
+Villamiel,10,210,4
+Villanueva de la Sierra,10,211,1
+Villanueva de la Vera,10,212,6
+Villar de Plasencia,10,214,7
+Villar del Pedroso,10,213,2
+Villasbuenas de Gata,10,215,0
+Zarza de Granadilla,10,216,3
+Zarza de Montánchez,10,217,9
+Zarza la Mayor,10,218,5
+Zorita,10,219,8
+Alcalá de los Gazules,11,001,2
+Alcalá del Valle,11,002,7
+Algar,11,003,3
+Algeciras,11,004,8
+Algodonales,11,005,1
+Arcos de la Frontera,11,006,4
+Barbate,11,007,0
+"Barrios, Los",11,008,6
+Benalup-Casas Viejas,11,901,3
+Benaocaz,11,009,9
+Bornos,11,010,3
+"Bosque, El",11,011,0
+Cádiz,11,012,5
+Castellar de la Frontera,11,013,1
+Chiclana de la Frontera,11,015,9
+Chipiona,11,016,2
+Conil de la Frontera,11,014,6
+Espera,11,017,8
+"Gastor, El",11,018,4
+Grazalema,11,019,7
+Jerez de la Frontera,11,020,1
+Jimena de la Frontera,11,021,8
+"Línea de la Concepción, La",11,022,3
+Medina-Sidonia,11,023,9
+Olvera,11,024,4
+Paterna de Rivera,11,025,7
+Prado del Rey,11,026,0
+"Puerto de Santa María, El",11,027,6
+Puerto Real,11,028,2
+Puerto Serrano,11,029,5
+Rota,11,030,9
+San Fernando,11,031,6
+San José del Valle,11,902,8
+San Roque,11,033,7
+Sanlúcar de Barrameda,11,032,1
+Setenil de las Bodegas,11,034,2
+Tarifa,11,035,5
+Torre Alháquime,11,036,8
+Trebujena,11,037,4
+Ubrique,11,038,0
+Vejer de la Frontera,11,039,3
+Villaluenga del Rosario,11,040,7
+Villamartín,11,041,4
+Zahara,11,042,9
+Aín,12,002,2
+Albocàsser,12,003,8
+Alcalà de Xivert,12,004,3
+"Alcora, l'",12,005,6
+Alcudia de Veo,12,006,9
+Alfondeguilla,12,007,5
+Algimia de Almonacid,12,008,1
+Almazora/Almassora,12,009,4
+Almedíjar,12,010,8
+Almenara,12,011,5
+Alquerías del Niño Perdido,12,901,8
+Altura,12,012,0
+Arañuel,12,013,6
+Ares del Maestrat,12,014,1
+Argelita,12,015,4
+Artana,12,016,7
+Atzeneta del Maestrat,12,001,7
+Ayódar,12,017,3
+Azuébar,12,018,9
+Barracas,12,020,6
+Bejís,12,022,8
+Benafer,12,024,9
+Benafigos,12,025,2
+Benasal,12,026,5
+Benicarló,12,027,1
+Benicasim/Benicàssim,12,028,7
+Benlloch,12,029,0
+Betxí,12,021,3
+Borriana/Burriana,12,032,6
+Borriol,12,031,1
+Cabanes,12,033,2
+Càlig,12,034,7
+Canet lo Roig,12,036,3
+Castell de Cabres,12,037,9
+Castellfort,12,038,5
+Castellnovo,12,039,8
+Castellón de la Plana/Castelló de la Plana,12,040,2
+Castillo de Villamalefa,12,041,9
+Catí,12,042,4
+Caudiel,12,043,0
+Cervera del Maestre,12,044,5
+Chert/Xert,12,052,1
+Chilches/Xilxes,12,053,7
+Chodos/Xodos,12,055,5
+Chóvar,12,056,8
+Cinctorres,12,045,8
+Cirat,12,046,1
+Cortes de Arenoso,12,048,3
+Costur,12,049,6
+"Coves de Vinromà, les",12,050,9
+Culla,12,051,6
+Eslida,12,057,4
+Espadilla,12,058,0
+Fanzara,12,059,3
+Figueroles,12,060,7
+Forcall,12,061,4
+Fuente la Reina,12,063,5
+Fuentes de Ayódar,12,064,0
+Gaibiel,12,065,3
+Geldo,12,067,2
+Herbés,12,068,8
+Higueras,12,069,1
+"Jana, la",12,070,5
+Jérica,12,071,2
+"Llosa, la",12,074,8
+Lucena del Cid,12,072,7
+Ludiente,12,073,3
+"Mata de Morella, la",12,075,1
+Matet,12,076,4
+Moncofa,12,077,0
+Montán,12,078,6
+Montanejos,12,079,9
+Morella,12,080,3
+Navajas,12,081,0
+Nules,12,082,5
+Olocau del Rey,12,083,1
+Onda,12,084,6
+Oropesa del Mar/Orpesa,12,085,9
+Palanques,12,087,8
+Pavías,12,088,4
+Peníscola/Peñíscola,12,089,7
+Pina de Montalgrao,12,090,1
+"Pobla de Benifassà, la",12,093,9
+"Pobla Tornesa, la",12,094,4
+Portell de Morella,12,091,8
+Puebla de Arenoso,12,092,3
+Ribesalbes,12,095,7
+Rossell,12,096,0
+Sacañet,12,097,6
+"Salzadella, la",12,098,2
+San Rafael del Río,12,101,6
+Sant Joan de Moró,12,902,3
+Sant Jordi/San Jorge,12,099,5
+Sant Mateu,12,100,9
+Santa Magdalena de Pulpis,12,102,1
+Sarratella,12,103,7
+Segorbe,12,104,2
+Sierra Engarcerán,12,105,5
+Soneja,12,106,8
+Sot de Ferrer,12,107,4
+Sueras/Suera,12,108,0
+Tales,12,109,3
+Teresa,12,110,7
+Tírig,12,111,4
+Todolella,12,112,9
+Toga,12,113,5
+Torás,12,114,0
+"Toro, El",12,115,3
+Torralba del Pinar,12,116,6
+"Torre d'En Besora, la",12,119,1
+"Torre d'en Doménec, la",12,120,5
+Torreblanca,12,117,2
+Torrechiva,12,118,8
+Traiguera,12,121,2
+"Useras/Useres, les",12,122,7
+Vall d'Alba,12,124,8
+Vall de Almonacid,12,125,1
+"Vall d'Uixó, la",12,126,4
+Vallat,12,123,3
+Vallibona,12,127,0
+Vilafamés,12,128,6
+Vilanova d'Alcolea,12,132,5
+Vilar de Canes,12,134,6
+Vila-real,12,135,9
+"Vilavella, la",12,136,2
+Villafranca del Cid/Vilafranca,12,129,9
+Villahermosa del Río,12,130,3
+Villamalur,12,131,0
+Villanueva de Viver,12,133,1
+Villores,12,137,8
+Vinaròs,12,138,4
+Vistabella del Maestrazgo,12,139,7
+Viver,12,140,1
+Zorita del Maestrazgo,12,141,8
+Zucaina,12,142,3
+Abenójar,13,001,3
+Agudo,13,002,8
+Alamillo,13,003,4
+Albaladejo,13,004,9
+Alcázar de San Juan,13,005,2
+Alcoba,13,006,5
+Alcolea de Calatrava,13,007,1
+Alcubillas,13,008,7
+Aldea del Rey,13,009,0
+Alhambra,13,010,4
+Almadén,13,011,1
+Almadenejos,13,012,6
+Almagro,13,013,2
+Almedina,13,014,7
+Almodóvar del Campo,13,015,0
+Almuradiel,13,016,3
+Anchuras,13,017,9
+Arenales de San Gregorio,13,903,5
+Arenas de San Juan,13,018,5
+Argamasilla de Alba,13,019,8
+Argamasilla de Calatrava,13,020,2
+Arroba de los Montes,13,021,9
+Ballesteros de Calatrava,13,022,4
+Bolaños de Calatrava,13,023,0
+Brazatortas,13,024,5
+Cabezarados,13,025,8
+Cabezarrubias del Puerto,13,026,1
+Calzada de Calatrava,13,027,7
+Campo de Criptana,13,028,3
+Cañada de Calatrava,13,029,6
+Caracuel de Calatrava,13,030,0
+Carrión de Calatrava,13,031,7
+Carrizosa,13,032,2
+Castellar de Santiago,13,033,8
+Chillón,13,038,1
+Ciudad Real,13,034,3
+Corral de Calatrava,13,035,6
+"Cortijos, Los",13,036,9
+Cózar,13,037,5
+Daimiel,13,039,4
+Fernán Caballero,13,040,8
+Fontanarejo,13,041,5
+Fuencaliente,13,042,0
+Fuenllana,13,043,6
+Fuente el Fresno,13,044,1
+Granátula de Calatrava,13,045,4
+Guadalmez,13,046,7
+Herencia,13,047,3
+Hinojosas de Calatrava,13,048,9
+Horcajo de los Montes,13,049,2
+"Labores, Las",13,050,5
+Llanos del Caudillo,13,904,0
+Luciana,13,051,2
+Malagón,13,052,7
+Manzanares,13,053,3
+Membrilla,13,054,8
+Mestanza,13,055,1
+Miguelturra,13,056,4
+Montiel,13,057,0
+Moral de Calatrava,13,058,6
+Navalpino,13,059,9
+Navas de Estena,13,060,3
+Pedro Muñoz,13,061,0
+Picón,13,062,5
+Piedrabuena,13,063,1
+Poblete,13,064,6
+Porzuna,13,065,9
+Pozuelo de Calatrava,13,066,2
+"Pozuelos de Calatrava, Los",13,067,8
+Puebla de Don Rodrigo,13,068,4
+Puebla del Príncipe,13,069,7
+Puerto Lápice,13,070,1
+Puertollano,13,071,8
+Retuerta del Bullaque,13,072,3
+"Robledo, El",13,901,4
+Ruidera,13,902,9
+Saceruela,13,073,9
+San Carlos del Valle,13,074,4
+San Lorenzo de Calatrava,13,075,7
+Santa Cruz de los Cáñamos,13,076,0
+Santa Cruz de Mudela,13,077,6
+Socuéllamos,13,078,2
+"Solana, La",13,079,5
+Solana del Pino,13,080,9
+Terrinches,13,081,6
+Tomelloso,13,082,1
+Torralba de Calatrava,13,083,7
+Torre de Juan Abad,13,084,2
+Torrenueva,13,085,5
+Valdemanco del Esteras,13,086,8
+Valdepeñas,13,087,4
+Valenzuela de Calatrava,13,088,0
+Villahermosa,13,089,3
+Villamanrique,13,090,7
+Villamayor de Calatrava,13,091,4
+Villanueva de la Fuente,13,092,9
+Villanueva de los Infantes,13,093,5
+Villanueva de San Carlos,13,094,0
+Villar del Pozo,13,095,3
+Villarrubia de los Ojos,13,096,6
+Villarta de San Juan,13,097,2
+Viso del Marqués,13,098,8
+Adamuz,14,001,8
+Aguilar de la Frontera,14,002,3
+Alcaracejos,14,003,9
+Almedinilla,14,004,4
+Almodóvar del Río,14,005,7
+Añora,14,006,0
+Baena,14,007,6
+Belalcázar,14,008,2
+Belmez,14,009,5
+Benamejí,14,010,9
+"Blázquez, Los",14,011,6
+Bujalance,14,012,1
+Cabra,14,013,7
+Cañete de las Torres,14,014,2
+Carcabuey,14,015,5
+Cardeña,14,016,8
+"Carlota, La",14,017,4
+"Carpio, El",14,018,0
+Castro del Río,14,019,3
+Conquista,14,020,7
+Córdoba,14,021,4
+Doña Mencía,14,022,9
+Dos Torres,14,023,5
+Encinas Reales,14,024,0
+Espejo,14,025,3
+Espiel,14,026,6
+Fernán-Núñez,14,027,2
+Fuente la Lancha,14,028,8
+Fuente Obejuna,14,029,1
+Fuente Palmera,14,030,5
+Fuente-Tójar,14,031,2
+"Granjuela, La",14,032,7
+Guadalcázar,14,033,3
+"Guijo, El",14,034,8
+Hinojosa del Duque,14,035,1
+Hornachuelos,14,036,4
+Iznájar,14,037,0
+Lucena,14,038,6
+Luque,14,039,9
+Montalbán de Córdoba,14,040,3
+Montemayor,14,041,0
+Montilla,14,042,5
+Montoro,14,043,1
+Monturque,14,044,6
+Moriles,14,045,9
+Nueva Carteya,14,046,2
+Obejo,14,047,8
+Palenciana,14,048,4
+Palma del Río,14,049,7
+Pedro Abad,14,050,0
+Pedroche,14,051,7
+Peñarroya-Pueblonuevo,14,052,2
+Posadas,14,053,8
+Pozoblanco,14,054,3
+Priego de Córdoba,14,055,6
+Puente Genil,14,056,9
+"Rambla, La",14,057,5
+Rute,14,058,1
+San Sebastián de los Ballesteros,14,059,4
+Santa Eufemia,14,061,5
+Santaella,14,060,8
+Torrecampo,14,062,0
+Valenzuela,14,063,6
+Valsequillo,14,064,1
+"Victoria, La",14,065,4
+Villa del Río,14,066,7
+Villafranca de Córdoba,14,067,3
+Villaharta,14,068,9
+Villanueva de Córdoba,14,069,2
+Villanueva del Duque,14,070,6
+Villanueva del Rey,14,071,3
+Villaralto,14,072,8
+Villaviciosa de Córdoba,14,073,4
+"Viso, El",14,074,9
+Zuheros,14,075,2
+Abegondo,15,001,1
+Ames,15,002,6
+Aranga,15,003,2
+Ares,15,004,7
+Arteixo,15,005,0
+Arzúa,15,006,3
+"Baña, A",15,007,9
+Bergondo,15,008,5
+Betanzos,15,009,8
+Boimorto,15,010,2
+Boiro,15,011,9
+Boqueixón,15,012,4
+Brión,15,013,0
+Cabana de Bergantiños,15,014,5
+Cabanas,15,015,8
+Camariñas,15,016,1
+Cambre,15,017,7
+"Capela, A",15,018,3
+Carballo,15,019,6
+Cariño,15,901,2
+Carnota,15,020,0
+Carral,15,021,7
+Cedeira,15,022,2
+Cee,15,023,8
+Cerceda,15,024,3
+Cerdido,15,025,6
+Cesuras,15,026,9
+Coirós,15,027,5
+Corcubión,15,028,1
+Coristanco,15,029,4
+"Coruña, A",15,030,8
+Culleredo,15,031,5
+Curtis,15,032,0
+Dodro,15,033,6
+Dumbría,15,034,1
+Fene,15,035,4
+Ferrol,15,036,7
+Fisterra,15,037,3
+Frades,15,038,9
+Irixoa,15,039,2
+"Laracha, A",15,041,3
+Laxe,15,040,6
+Lousame,15,042,8
+Malpica de Bergantiños,15,043,4
+Mañón,15,044,9
+Mazaricos,15,045,2
+Melide,15,046,5
+Mesía,15,047,1
+Miño,15,048,7
+Moeche,15,049,0
+Monfero,15,050,3
+Mugardos,15,051,0
+Muros,15,053,1
+Muxía,15,052,5
+Narón,15,054,6
+Neda,15,055,9
+Negreira,15,056,2
+Noia,15,057,8
+Oleiros,15,058,4
+Ordes,15,059,7
+Oroso,15,060,1
+Ortigueira,15,061,8
+Outes,15,062,3
+Oza dos Ríos,15,063,9
+Paderne,15,064,4
+Padrón,15,065,7
+"Pino, O",15,066,0
+"Pobra do Caramiñal, A",15,067,6
+Ponteceso,15,068,2
+Pontedeume,15,069,5
+"Pontes de García Rodríguez, As",15,070,9
+Porto do Son,15,071,6
+Rianxo,15,072,1
+Ribeira,15,073,7
+Rois,15,074,2
+Sada,15,075,5
+San Sadurniño,15,076,8
+Santa Comba,15,077,4
+Santiago de Compostela,15,078,0
+Santiso,15,079,3
+Sobrado,15,080,7
+"Somozas, As",15,081,4
+Teo,15,082,9
+Toques,15,083,5
+Tordoia,15,084,0
+Touro,15,085,3
+Trazo,15,086,6
+Val do Dubra,15,088,8
+Valdoviño,15,087,2
+Vedra,15,089,1
+Vilarmaior,15,091,2
+Vilasantar,15,090,5
+Vimianzo,15,092,7
+Zas,15,093,3
+Abia de la Obispalía,16,001,4
+"Acebrón, El",16,002,9
+Alarcón,16,003,5
+Albaladejo del Cuende,16,004,0
+Albalate de las Nogueras,16,005,3
+Albendea,16,006,6
+"Alberca de Záncara, La",16,007,2
+Alcalá de la Vega,16,008,8
+Alcantud,16,009,1
+Alcázar del Rey,16,010,5
+Alcohujate,16,011,2
+Alconchel de la Estrella,16,012,7
+Algarra,16,013,3
+Aliaguilla,16,014,8
+"Almarcha, La",16,015,1
+Almendros,16,016,4
+Almodóvar del Pinar,16,017,0
+Almonacid del Marquesado,16,018,6
+Altarejos,16,019,9
+Arandilla del Arroyo,16,020,3
+Arcas del Villar,16,905,4
+Arcos de la Sierra,16,022,5
+Arguisuelas,16,024,6
+Arrancacepas,16,025,9
+Atalaya del Cañavate,16,026,2
+Barajas de Melo,16,027,8
+Barchín del Hoyo,16,029,7
+Bascuñana de San Pedro,16,030,1
+Beamud,16,031,8
+Belinchón,16,032,3
+Belmonte,16,033,9
+Belmontejo,16,034,4
+Beteta,16,035,7
+Boniches,16,036,0
+Buciegas,16,038,2
+Buenache de Alarcón,16,039,5
+Buenache de la Sierra,16,040,9
+Buendía,16,041,6
+Campillo de Altobuey,16,042,1
+Campillos-Paravientos,16,043,7
+Campillos-Sierra,16,044,2
+Campos del Paraíso,16,901,5
+Canalejas del Arroyo,16,045,5
+Cañada del Hoyo,16,046,8
+Cañada Juncosa,16,047,4
+Cañamares,16,048,0
+"Cañavate, El",16,049,3
+Cañaveras,16,050,6
+Cañaveruelas,16,051,3
+Cañete,16,052,8
+Cañizares,16,053,4
+Carboneras de Guadazaón,16,055,2
+Cardenete,16,056,5
+Carrascosa,16,057,1
+Carrascosa de Haro,16,058,7
+Casas de Benítez,16,060,4
+Casas de Fernando Alonso,16,061,1
+Casas de Garcimolina,16,062,6
+Casas de Guijarro,16,063,2
+Casas de Haro,16,064,7
+Casas de los Pinos,16,065,0
+Casasimarro,16,066,3
+Castejón,16,067,9
+Castillejo de Iniesta,16,068,5
+Castillejo-Sierra,16,070,2
+Castillo de Garcimuñoz,16,072,4
+Castillo-Albaráñez,16,071,9
+Cervera del Llano,16,073,0
+Chillarón de Cuenca,16,023,1
+Chumillas,16,081,7
+"Cierva, La",16,074,5
+Cuenca,16,078,3
+Cueva del Hierro,16,079,6
+Enguídanos,16,082,2
+Fresneda de Altarejos,16,083,8
+Fresneda de la Sierra,16,084,3
+"Frontera, La",16,085,6
+Fuente de Pedro Naharro,16,086,9
+Fuentelespino de Haro,16,087,5
+Fuentelespino de Moya,16,088,1
+Fuentenava de Jábaga,16,904,1
+Fuentes,16,089,4
+Fuertescusa,16,091,5
+Gabaldón,16,092,0
+Garaballa,16,093,6
+Gascueña,16,094,1
+Graja de Campalbo,16,095,4
+Graja de Iniesta,16,096,7
+Henarejos,16,097,3
+"Herrumblar, El",16,098,9
+"Hinojosa, La",16,099,2
+"Hinojosos, Los",16,100,6
+"Hito, El",16,101,3
+Honrubia,16,102,8
+Hontanaya,16,103,4
+Hontecillas,16,104,9
+Horcajo de Santiago,16,106,5
+Huélamo,16,107,1
+Huelves,16,108,7
+Huérguina,16,109,0
+Huerta de la Obispalía,16,110,4
+Huerta del Marquesado,16,111,1
+Huete,16,112,6
+Iniesta,16,113,2
+Laguna del Marquesado,16,115,0
+Lagunaseca,16,116,3
+Landete,16,117,9
+Ledaña,16,118,5
+Leganiel,16,119,8
+"Majadas, Las",16,121,9
+Mariana,16,122,4
+Masegosa,16,123,0
+"Mesas, Las",16,124,5
+Minglanilla,16,125,8
+Mira,16,126,1
+Monreal del Llano,16,128,3
+Montalbanejo,16,129,6
+Montalbo,16,130,0
+Monteagudo de las Salinas,16,131,7
+Mota de Altarejos,16,132,2
+Mota del Cuervo,16,133,8
+Motilla del Palancar,16,134,3
+Moya,16,135,6
+Narboneta,16,137,5
+Olivares de Júcar,16,139,4
+Olmeda de la Cuesta,16,140,8
+Olmeda del Rey,16,141,5
+Olmedilla de Alarcón,16,142,0
+Olmedilla de Eliz,16,143,6
+Osa de la Vega,16,145,4
+Pajarón,16,146,7
+Pajaroncillo,16,147,3
+Palomares del Campo,16,148,9
+Palomera,16,149,2
+Paracuellos,16,150,5
+Paredes,16,151,2
+"Parra de las Vegas, La",16,152,7
+"Pedernoso, El",16,153,3
+"Pedroñeras, Las",16,154,8
+"Peral, El",16,155,1
+"Peraleja, La",16,156,4
+"Pesquera, La",16,157,0
+"Picazo, El",16,158,6
+Pinarejo,16,159,9
+Pineda de Gigüela,16,160,3
+Piqueras del Castillo,16,161,0
+Portalrubio de Guadamejud,16,162,5
+Portilla,16,163,1
+Poyatos,16,165,9
+Pozoamargo,16,166,2
+Pozorrubielos de la Mancha,16,908,9
+Pozorrubio,16,167,8
+"Pozuelo, El",16,169,7
+Priego,16,170,1
+"Provencio, El",16,171,8
+Puebla de Almenara,16,172,3
+Puebla del Salvador,16,174,4
+Quintanar del Rey,16,175,7
+Rada de Haro,16,176,0
+Reíllo,16,177,6
+Rozalén del Monte,16,181,6
+Saceda-Trasierra,16,185,5
+Saelices,16,186,8
+Salinas del Manzano,16,187,4
+Salmeroncillos,16,188,0
+Salvacañete,16,189,3
+San Clemente,16,190,7
+San Lorenzo de la Parrilla,16,191,4
+San Martín de Boniches,16,192,9
+San Pedro Palmiches,16,193,5
+Santa Cruz de Moya,16,194,0
+Santa María de los Llanos,16,196,6
+Santa María del Campo Rus,16,195,3
+Santa María del Val,16,197,2
+Sisante,16,198,8
+Solera de Gabaldón,16,199,1
+Sotorribas,16,909,2
+Talayuelas,16,202,7
+Tarancón,16,203,3
+Tébar,16,204,8
+Tejadillos,16,205,1
+Tinajas,16,206,4
+Torralba,16,209,9
+Torrejoncillo del Rey,16,211,0
+Torrubia del Campo,16,212,5
+Torrubia del Castillo,16,213,1
+Tragacete,16,215,9
+Tresjuncos,16,216,2
+Tribaldos,16,217,8
+Uclés,16,218,4
+Uña,16,219,7
+"Valdecolmenas, Los",16,906,7
+Valdemeca,16,224,4
+Valdemorillo de la Sierra,16,225,7
+Valdemoro-Sierra,16,227,6
+Valdeolivas,16,228,2
+Valdetórtola,16,902,0
+"Valeras, Las",16,903,6
+Valhermoso de la Fuente,16,231,6
+"Valle de Altomira, El",16,173,9
+Valsalobre,16,234,2
+Valverde de Júcar,16,236,8
+Valverdejo,16,237,4
+Vara de Rey,16,238,0
+Vega del Codorno,16,239,3
+Vellisca,16,240,7
+Villaconejos de Trabaque,16,242,9
+Villaescusa de Haro,16,243,5
+Villagarcía del Llano,16,244,0
+Villalba de la Sierra,16,245,3
+Villalba del Rey,16,246,6
+Villalgordo del Marquesado,16,247,2
+Villalpardo,16,248,8
+Villamayor de Santiago,16,249,1
+Villanueva de Guadamejud,16,250,4
+Villanueva de la Jara,16,251,1
+Villar de Cañas,16,253,2
+Villar de Domingo García,16,254,7
+Villar de la Encina,16,255,0
+Villar de Olalla,16,263,0
+Villar del Humo,16,258,5
+Villar del Infantado,16,259,8
+Villar y Velasco,16,910,6
+Villarejo de Fuentes,16,264,5
+Villarejo de la Peñuela,16,265,8
+Villarejo-Periesteban,16,266,1
+Villares del Saz,16,269,6
+Villarrubio,16,270,0
+Villarta,16,271,7
+Villas de la Ventosa,16,272,2
+Villaverde y Pasaconsol,16,273,8
+Víllora,16,274,3
+Vindel,16,275,6
+Yémeda,16,276,9
+Zafra de Záncara,16,277,5
+Zafrilla,16,278,1
+Zarza de Tajo,16,279,4
+Zarzuela,16,280,8
+Agullana,17,001,0
+Aiguaviva,17,002,5
+Albanyà,17,003,1
+Albons,17,004,6
+Alp,17,006,2
+Amer,17,007,8
+Anglès,17,008,4
+Arbúcies,17,009,7
+Argelaguer,17,010,1
+"Armentera, L'",17,011,8
+Avinyonet de Puigventós,17,012,3
+Banyoles,17,015,7
+Bàscara,17,016,0
+Begur,17,013,9
+Bellcaire d'Empordà,17,018,2
+Besalú,17,019,5
+Bescanó,17,020,9
+Beuda,17,021,6
+"Bisbal d'Empordà, La",17,022,1
+Biure,17,234,8
+Blanes,17,023,7
+Boadella i les Escaules,17,029,3
+Bolvir,17,024,2
+Bordils,17,025,5
+Borrassà,17,026,8
+Breda,17,027,4
+Brunyola,17,028,0
+Cabanelles,17,031,4
+Cabanes,17,030,7
+Cadaqués,17,032,9
+Caldes de Malavella,17,033,5
+Calonge,17,034,0
+Camós,17,035,3
+Campdevànol,17,036,6
+Campelles,17,037,2
+Campllong,17,038,8
+Camprodon,17,039,1
+Canet d'Adri,17,040,5
+Cantallops,17,041,2
+Capmany,17,042,7
+Cassà de la Selva,17,044,8
+Castellfollit de la Roca,17,046,4
+Castelló d'Empúries,17,047,0
+Castell-Platja d'Aro,17,048,6
+"Cellera de Ter, La",17,189,9
+Celrà,17,049,9
+Cervià de Ter,17,050,2
+Cistella,17,051,9
+Colera,17,054,5
+Colomers,17,055,8
+Corçà,17,057,7
+Cornellà del Terri,17,056,1
+Crespià,17,058,3
+"Cruïlles, Monells i Sant Sadurní de l'Heura",17,901,1
+Darnius,17,060,0
+Das,17,061,7
+"Escala, L'",17,062,2
+Espinelves,17,063,8
+Espolla,17,064,3
+Esponellà,17,065,6
+"Far d'Empordà, El",17,005,9
+Figueres,17,066,9
+Flaçà,17,067,5
+Foixà,17,068,1
+Fontanals de Cerdanya,17,069,4
+Fontanilles,17,070,8
+Fontcoberta,17,071,5
+Forallac,17,902,6
+Fornells de la Selva,17,073,6
+Fortià,17,074,1
+Garrigàs,17,075,4
+Garrigoles,17,076,7
+Garriguella,17,077,3
+Ger,17,078,9
+Girona,17,079,2
+Gombrèn,17,080,6
+Gualta,17,081,3
+Guils de Cerdanya,17,082,8
+Hostalric,17,083,4
+Isòvol,17,084,9
+Jafre,17,085,2
+"Jonquera, La",17,086,5
+Juià,17,087,1
+Lladó,17,088,7
+Llagostera,17,089,0
+Llambilles,17,090,4
+Llanars,17,091,1
+Llançà,17,092,6
+Llers,17,093,2
+Llívia,17,094,7
+Lloret de Mar,17,095,0
+"Llosses, Les",17,096,3
+Maçanet de Cabrenys,17,102,4
+Maçanet de la Selva,17,103,0
+Madremanya,17,097,9
+Maià de Montcal,17,098,5
+Masarac,17,100,2
+Massanes,17,101,9
+Meranges,17,099,8
+Mieres,17,105,8
+Mollet de Peralada,17,106,1
+Molló,17,107,7
+Montagut i Oix,17,109,6
+Mont-ras,17,110,0
+Navata,17,111,7
+Ogassa,17,112,2
+Olot,17,114,3
+Ordis,17,115,6
+Osor,17,116,9
+Palafrugell,17,117,5
+Palamós,17,118,1
+Palau de Santa Eulàlia,17,119,4
+Palau-sator,17,121,5
+Palau-saverdera,17,120,8
+Palol de Revardit,17,123,6
+Pals,17,124,1
+Pardines,17,125,4
+Parlavà,17,126,7
+Pau,17,128,9
+Pedret i Marzà,17,129,2
+"Pera, La",17,130,6
+Peralada,17,132,8
+"Planes d'Hostoles, Les",17,133,4
+Planoles,17,134,9
+Pont de Molins,17,135,2
+Pontós,17,136,5
+Porqueres,17,137,1
+"Port de la Selva, El",17,140,4
+Portbou,17,138,7
+"Preses, Les",17,139,0
+Puigcerdà,17,141,1
+Quart,17,142,6
+Queralbs,17,043,3
+Rabós,17,143,2
+Regencós,17,144,7
+Ribes de Freser,17,145,0
+Riells i Viabrea,17,146,3
+Ripoll,17,147,9
+Riudarenes,17,148,5
+Riudaura,17,149,8
+Riudellots de la Selva,17,150,1
+Riumors,17,151,8
+Roses,17,152,3
+Rupià,17,153,9
+Sales de Llierca,17,154,4
+Salt,17,155,7
+Sant Andreu Salou,17,157,6
+Sant Aniol de Finestres,17,183,3
+Sant Climent Sescebes,17,158,2
+Sant Feliu de Buixalleu,17,159,5
+Sant Feliu de Guíxols,17,160,9
+Sant Feliu de Pallerols,17,161,6
+Sant Ferriol,17,162,1
+Sant Gregori,17,163,7
+Sant Hilari Sacalm,17,164,2
+Sant Jaume de Llierca,17,165,5
+Sant Joan de les Abadesses,17,167,4
+Sant Joan de Mollet,17,168,0
+Sant Joan les Fonts,17,185,1
+Sant Jordi Desvalls,17,166,8
+Sant Julià de Ramis,17,169,3
+Sant Julià del Llor i Bonmatí,17,903,2
+Sant Llorenç de la Muga,17,171,4
+Sant Martí de Llémena,17,172,9
+Sant Martí Vell,17,173,5
+Sant Miquel de Campmajor,17,174,0
+Sant Miquel de Fluvià,17,175,3
+Sant Mori,17,176,6
+Sant Pau de Segúries,17,177,2
+Sant Pere Pescador,17,178,8
+Santa Coloma de Farners,17,180,5
+Santa Cristina d'Aro,17,181,2
+Santa Llogaia d'Àlguema,17,182,7
+Santa Pau,17,184,8
+Sarrià de Ter,17,186,4
+"Saus, Camallera i Llampaies",17,187,0
+"Selva de Mar, La",17,188,6
+Serinyà,17,190,3
+Serra de Daró,17,191,0
+Setcases,17,192,5
+Sils,17,193,1
+Siurana,17,052,4
+Susqueda,17,194,6
+"Tallada d'Empordà, La",17,195,9
+Terrades,17,196,2
+Torrent,17,197,8
+Torroella de Fluvià,17,198,4
+Torroella de Montgrí,17,199,7
+Tortellà,17,200,1
+Toses,17,201,8
+Tossa de Mar,17,202,3
+Ullà,17,204,4
+Ullastret,17,205,7
+Ultramort,17,203,9
+Urús,17,206,0
+"Vajol, La",17,014,4
+"Vall de Bianya, La",17,208,2
+"Vall d'en Bas, La",17,207,6
+Vallfogona de Ripollès,17,170,7
+Vall-llobrega,17,209,5
+Ventalló,17,210,9
+Verges,17,211,6
+Vidrà,17,212,1
+Vidreres,17,213,7
+Vilabertran,17,214,2
+Vilablareix,17,215,5
+Viladamat,17,217,4
+Viladasens,17,216,8
+Vilademuls,17,218,0
+Viladrau,17,220,7
+Vilafant,17,221,4
+Vilajuïga,17,223,5
+Vilallonga de Ter,17,224,0
+Vilamacolum,17,225,3
+Vilamalla,17,226,6
+Vilamaniscle,17,227,2
+Vilanant,17,228,8
+Vila-sacra,17,230,5
+Vilaür,17,222,9
+Vilobí d'Onyar,17,233,3
+Vilopriu,17,232,7
+Agrón,18,001,6
+Alamedilla,18,002,1
+Albolote,18,003,7
+Albondón,18,004,2
+Albuñán,18,005,5
+Albuñol,18,006,8
+Albuñuelas,18,007,4
+Aldeire,18,010,7
+Alfacar,18,011,4
+Algarinejo,18,012,9
+Alhama de Granada,18,013,5
+Alhendín,18,014,0
+Alicún de Ortega,18,015,3
+Almegíjar,18,016,6
+Almuñécar,18,017,2
+Alpujarra de la Sierra,18,904,3
+Alquife,18,018,8
+Arenas del Rey,18,020,5
+Armilla,18,021,2
+Atarfe,18,022,7
+Baza,18,023,3
+Beas de Granada,18,024,8
+Beas de Guadix,18,025,1
+Benalúa,18,027,0
+Benalúa de las Villas,18,028,6
+Benamaurel,18,029,9
+Bérchules,18,030,3
+Bubión,18,032,5
+Busquístar,18,033,1
+Cacín,18,034,6
+Cádiar,18,035,9
+Cájar,18,036,2
+"Calahorra, La",18,114,9
+Calicasas,18,037,8
+Campotéjar,18,038,4
+Caniles,18,039,7
+Cáñar,18,040,1
+Capileira,18,042,3
+Carataunas,18,043,9
+Cástaras,18,044,4
+Castilléjar,18,045,7
+Castril,18,046,0
+Cenes de la Vega,18,047,6
+Chauchina,18,059,2
+Chimeneas,18,061,3
+Churriana de la Vega,18,062,8
+Cijuela,18,048,2
+Cogollos de Guadix,18,049,5
+Cogollos de la Vega,18,050,8
+Colomera,18,051,5
+Cortes de Baza,18,053,6
+Cortes y Graena,18,054,1
+Cuevas del Campo,18,912,0
+Cúllar,18,056,7
+Cúllar Vega,18,057,3
+Darro,18,063,4
+Dehesas de Guadix,18,064,9
+Deifontes,18,066,5
+Diezma,18,067,1
+Dílar,18,068,7
+Dólar,18,069,0
+Dúdar,18,070,4
+Dúrcal,18,071,1
+Escúzar,18,072,6
+Ferreira,18,074,7
+Fonelas,18,076,3
+Freila,18,078,5
+Fuente Vaqueros,18,079,8
+"Gabias, Las",18,905,6
+Galera,18,082,4
+Gobernador,18,083,0
+Gójar,18,084,5
+Gor,18,085,8
+Gorafe,18,086,1
+Granada,18,087,7
+Guadahortuna,18,088,3
+Guadix,18,089,6
+"Guajares, Los",18,906,9
+Gualchos,18,093,8
+Güejar Sierra,18,094,3
+Güevéjar,18,095,6
+Huélago,18,096,9
+Huéneja,18,097,5
+Huéscar,18,098,1
+Huétor de Santillán,18,099,4
+Huétor Tájar,18,100,8
+Huétor Vega,18,101,5
+Illora,18,102,0
+Itrabo,18,103,6
+Iznalloz,18,105,4
+Jayena,18,107,3
+Jerez del Marquesado,18,108,9
+Jete,18,109,2
+Jun,18,111,3
+Juviles,18,112,8
+Láchar,18,115,2
+Lanjarón,18,116,5
+Lanteira,18,117,1
+Lecrín,18,119,0
+Lentegí,18,120,4
+Lobras,18,121,1
+Loja,18,122,6
+Lugros,18,123,2
+Lújar,18,124,7
+"Malahá, La",18,126,3
+Maracena,18,127,9
+Marchal,18,128,5
+Moclín,18,132,4
+Molvízar,18,133,0
+Monachil,18,134,5
+Montefrío,18,135,8
+Montejícar,18,136,1
+Montillana,18,137,7
+Moraleda de Zafayona,18,138,3
+Morelábor,18,909,4
+Motril,18,140,0
+Murtas,18,141,7
+Nevada,18,903,8
+Nigüelas,18,143,8
+Nívar,18,144,3
+Ogíjares,18,145,6
+Orce,18,146,9
+Órgiva,18,147,5
+Otívar,18,148,1
+Otura,18,149,4
+Padul,18,150,7
+Pampaneira,18,151,4
+Pedro Martínez,18,152,9
+Peligros,18,153,5
+"Peza, La",18,154,0
+"Pinar, El",18,910,8
+Pinos Genil,18,157,2
+Pinos Puente,18,158,8
+Píñar,18,159,1
+Polícar,18,161,2
+Polopos,18,162,7
+Pórtugos,18,163,3
+Puebla de Don Fadrique,18,164,8
+Pulianas,18,165,1
+Purullena,18,167,0
+Quéntar,18,168,6
+Rubite,18,170,3
+Salar,18,171,0
+Salobreña,18,173,1
+Santa Cruz del Comercio,18,174,6
+Santa Fe,18,175,9
+Soportújar,18,176,2
+Sorvilán,18,177,8
+"Taha, La",18,901,7
+Torre-Cardela,18,178,4
+Torvizcón,18,179,7
+Trevélez,18,180,1
+Turón,18,181,8
+Ugíjar,18,182,3
+"Valle, El",18,902,2
+Valle del Zalabí,18,907,5
+Válor,18,183,9
+Vegas del Genil,18,911,5
+Vélez de Benaudalla,18,184,4
+Ventas de Huelma,18,185,7
+Villamena,18,908,1
+Villanueva de las Torres,18,187,6
+Villanueva Mesía,18,188,2
+Víznar,18,189,5
+Zafarraya,18,192,1
+Zagra,18,913,6
+"Zubia, La",18,193,7
+Zújar,18,194,2
+Abánades,19,001,9
+Ablanque,19,002,4
+Adobes,19,003,0
+Alaminos,19,004,5
+Alarilla,19,005,8
+Albalate de Zorita,19,006,1
+Albares,19,007,7
+Albendiego,19,008,3
+Alcocer,19,009,6
+Alcolea de las Peñas,19,010,0
+Alcolea del Pinar,19,011,7
+Alcoroches,19,013,8
+Aldeanueva de Guadalajara,19,015,6
+Algar de Mesa,19,016,9
+Algora,19,017,5
+Alhóndiga,19,018,1
+Alique,19,019,4
+Almadrones,19,020,8
+Almoguera,19,021,5
+Almonacid de Zorita,19,022,0
+Alocén,19,023,6
+Alovera,19,024,1
+Alustante,19,027,3
+Angón,19,031,3
+Anguita,19,032,8
+Anquela del Ducado,19,033,4
+Anquela del Pedregal,19,034,9
+Aranzueque,19,036,5
+Arbancón,19,037,1
+Arbeteta,19,038,7
+Argecilla,19,039,0
+Armallones,19,040,4
+Armuña de Tajuña,19,041,1
+Arroyo de las Fraguas,19,042,6
+Atanzón,19,043,2
+Atienza,19,044,7
+Auñón,19,045,0
+Azuqueca de Henares,19,046,3
+Baides,19,047,9
+Baños de Tajo,19,048,5
+Bañuelos,19,049,8
+Barriopedro,19,050,1
+Berninches,19,051,8
+"Bodera, La",19,052,3
+Brihuega,19,053,9
+Budia,19,054,4
+Bujalaro,19,055,7
+Bustares,19,057,6
+Cabanillas del Campo,19,058,2
+Campillo de Dueñas,19,059,5
+Campillo de Ranas,19,060,9
+Campisábalos,19,061,6
+Canredondo,19,064,2
+Cantalojas,19,065,5
+Cañizar,19,066,8
+"Cardoso de la Sierra, El",19,067,4
+Casa de Uceda,19,070,7
+"Casar, El",19,071,4
+Casas de San Galindo,19,073,5
+Caspueñas,19,074,0
+Castejón de Henares,19,075,3
+Castellar de la Muela,19,076,6
+Castilforte,19,078,8
+Castilnuevo,19,079,1
+Cendejas de Enmedio,19,080,5
+Cendejas de la Torre,19,081,2
+Centenera,19,082,7
+Checa,19,103,9
+Chequilla,19,104,4
+Chillarón del Rey,19,106,0
+Chiloeches,19,105,7
+Cifuentes,19,086,4
+Cincovillas,19,087,0
+Ciruelas,19,088,6
+Ciruelos del Pinar,19,089,9
+Cobeta,19,090,3
+Cogollor,19,091,0
+Cogolludo,19,092,5
+Condemios de Abajo,19,095,9
+Condemios de Arriba,19,096,2
+Congostrina,19,097,8
+Copernal,19,098,4
+Corduente,19,099,7
+"Cubillo de Uceda, El",19,102,3
+Driebes,19,107,6
+Durón,19,108,2
+Embid,19,109,5
+Escamilla,19,110,9
+Escariche,19,111,6
+Escopete,19,112,1
+Espinosa de Henares,19,113,7
+Esplegares,19,114,2
+Establés,19,115,5
+Estriégana,19,116,8
+Fontanar,19,117,4
+Fuembellida,19,118,0
+Fuencemillán,19,119,3
+Fuentelahiguera de Albatages,19,120,7
+Fuentelencina,19,121,4
+Fuentelsaz,19,122,9
+Fuentelviejo,19,123,5
+Fuentenovilla,19,124,0
+Gajanejos,19,125,3
+Galápagos,19,126,6
+Galve de Sorbe,19,127,2
+Gascueña de Bornova,19,129,1
+Guadalajara,19,130,5
+Henche,19,132,7
+Heras de Ayuso,19,133,3
+Herrería,19,134,8
+Hiendelaencina,19,135,1
+Hijes,19,136,4
+Hita,19,138,6
+Hombrados,19,139,9
+Hontoba,19,142,5
+Horche,19,143,1
+Hortezuela de Océn,19,145,9
+"Huerce, La",19,146,2
+Huérmeces del Cerro,19,147,8
+Huertahernando,19,148,4
+Hueva,19,150,0
+Humanes,19,151,7
+Illana,19,152,2
+Iniéstola,19,153,8
+"Inviernas, Las",19,154,3
+Irueste,19,155,6
+Jadraque,19,156,9
+Jirueque,19,157,5
+Ledanca,19,159,4
+Loranca de Tajuña,19,160,8
+Lupiana,19,161,5
+Luzaga,19,162,0
+Luzón,19,163,6
+Majaelrayo,19,165,4
+Málaga del Fresno,19,166,7
+Malaguilla,19,167,3
+Mandayona,19,168,9
+Mantiel,19,169,2
+Maranchón,19,170,6
+Marchamalo,19,171,3
+Masegoso de Tajuña,19,172,8
+Matarrubia,19,173,4
+Matillas,19,174,9
+Mazarete,19,175,2
+Mazuecos,19,176,5
+Medranda,19,177,1
+Megina,19,178,7
+Membrillera,19,179,0
+Miedes de Atienza,19,181,1
+"Mierla, La",19,182,6
+Millana,19,184,7
+Milmarcos,19,183,2
+"Miñosa, La",19,185,0
+Mirabueno,19,186,3
+Miralrío,19,187,9
+Mochales,19,188,5
+Mohernando,19,189,8
+Molina de Aragón,19,190,2
+Monasterio,19,191,9
+Mondéjar,19,192,4
+Montarrón,19,193,0
+Moratilla de los Meleros,19,194,5
+Morenilla,19,195,8
+Muduex,19,196,1
+"Navas de Jadraque, Las",19,197,7
+Negredo,19,198,3
+Ocentejo,19,199,6
+"Olivar, El",19,200,0
+Olmeda de Cobeta,19,201,7
+"Olmeda de Jadraque, La",19,202,2
+"Ordial, El",19,203,8
+Orea,19,204,3
+Pálmaces de Jadraque,19,208,1
+Pardos,19,209,4
+Paredes de Sigüenza,19,210,8
+Pareja,19,211,5
+Pastrana,19,212,0
+"Pedregal, El",19,213,6
+Peñalén,19,214,1
+Peñalver,19,215,4
+Peralejos de las Truchas,19,216,7
+Peralveche,19,217,3
+Pinilla de Jadraque,19,218,9
+Pinilla de Molina,19,219,2
+Pioz,19,220,6
+Piqueras,19,221,3
+"Pobo de Dueñas, El",19,222,8
+Poveda de la Sierra,19,223,4
+Pozo de Almoguera,19,224,9
+Pozo de Guadalajara,19,225,2
+Prádena de Atienza,19,226,5
+Prados Redondos,19,227,1
+Puebla de Beleña,19,228,7
+Puebla de Valles,19,229,0
+Quer,19,230,4
+Rebollosa de Jadraque,19,231,1
+"Recuenco, El",19,232,6
+Renera,19,233,2
+Retiendas,19,234,7
+Riba de Saelices,19,235,0
+Rillo de Gallo,19,237,9
+Riofrío del Llano,19,238,5
+Robledillo de Mohernando,19,239,8
+Robledo de Corpes,19,240,2
+Romanillos de Atienza,19,241,9
+Romanones,19,242,4
+Rueda de la Sierra,19,243,0
+Sacecorbo,19,244,5
+Sacedón,19,245,8
+Saelices de la Sal,19,246,1
+Salmerón,19,247,7
+San Andrés del Congosto,19,248,3
+San Andrés del Rey,19,249,6
+Santiuste,19,250,9
+Saúca,19,251,6
+Sayatón,19,252,1
+Selas,19,254,2
+Semillas,19,901,0
+Setiles,19,255,5
+Sienes,19,256,8
+Sigüenza,19,257,4
+Solanillos del Extremo,19,258,0
+Somolinos,19,259,3
+"Sotillo, El",19,260,7
+Sotodosos,19,261,4
+Tamajón,19,262,9
+Taragudo,19,263,5
+Taravilla,19,264,0
+Tartanedo,19,265,3
+Tendilla,19,266,6
+Terzaga,19,267,2
+Tierzo,19,268,8
+"Toba, La",19,269,1
+Tordellego,19,271,2
+Tordelrábano,19,270,5
+Tordesilos,19,272,7
+Torija,19,274,8
+Torre del Burgo,19,279,9
+Torrecuadrada de Molina,19,277,0
+Torrecuadradilla,19,278,6
+Torrejón del Rey,19,280,3
+Torremocha de Jadraque,19,281,0
+Torremocha del Campo,19,282,5
+Torremocha del Pinar,19,283,1
+Torremochuela,19,284,6
+Torrubia,19,285,9
+Tórtola de Henares,19,286,2
+Tortuera,19,287,8
+Tortuero,19,288,4
+Traíd,19,289,7
+Trijueque,19,290,1
+Trillo,19,291,8
+Uceda,19,293,9
+Ujados,19,294,4
+Utande,19,296,0
+Valdarachas,19,297,6
+Valdearenas,19,298,2
+Valdeavellano,19,299,5
+Valdeaveruelo,19,300,9
+Valdeconcha,19,301,6
+Valdegrudas,19,302,1
+Valdelcubo,19,303,7
+Valdenuño Fernández,19,304,2
+Valdepeñas de la Sierra,19,305,5
+Valderrebollo,19,306,8
+Valdesotos,19,307,4
+Valfermoso de Tajuña,19,308,0
+Valhermoso,19,309,3
+Valtablado del Río,19,310,7
+Valverde de los Arroyos,19,311,4
+Viana de Jadraque,19,314,0
+Villanueva de Alcorón,19,317,2
+Villanueva de Argecilla,19,318,8
+Villanueva de la Torre,19,319,1
+Villares de Jadraque,19,321,2
+Villaseca de Henares,19,322,7
+Villaseca de Uceda,19,323,3
+Villel de Mesa,19,324,8
+Viñuelas,19,325,1
+Yebes,19,326,4
+Yebra,19,327,0
+Yélamos de Abajo,19,329,9
+Yélamos de Arriba,19,330,3
+Yunquera de Henares,19,331,0
+"Yunta, La",19,332,5
+Zaorejas,19,333,1
+Zarzuela de Jadraque,19,334,6
+Zorita de los Canes,19,335,9
+Abaltzisketa,20,001,3
+Aduna,20,002,8
+Aia,20,016,3
+Aizarnazabal,20,003,4
+Albiztur,20,004,9
+Alegia,20,005,2
+Alkiza,20,006,5
+Altzaga,20,906,6
+Altzo,20,007,1
+Amezketa,20,008,7
+Andoain,20,009,0
+Anoeta,20,010,4
+Antzuola,20,011,1
+Arama,20,012,6
+Aretxabaleta,20,013,2
+Arrasate/Mondragón,20,055,1
+Asteasu,20,014,7
+Astigarraga,20,903,5
+Ataun,20,015,0
+Azkoitia,20,017,9
+Azpeitia,20,018,5
+Baliarrain,20,904,0
+Beasain,20,019,8
+Beizama,20,020,2
+Belauntza,20,021,9
+Berastegi,20,022,4
+Bergara,20,074,4
+Berrobi,20,023,0
+Bidegoian,20,024,5
+Deba,20,029,6
+Donostia-San Sebastián,20,069,7
+Eibar,20,030,0
+Elduain,20,031,7
+Elgeta,20,033,8
+Elgoibar,20,032,2
+Errenteria,20,067,8
+Errezil,20,066,2
+Eskoriatza,20,034,3
+Ezkio-Itsaso,20,035,6
+Gabiria,20,038,1
+Gaintza,20,037,5
+Gaztelu,20,907,2
+Getaria,20,039,4
+Hernani,20,040,8
+Hernialde,20,041,5
+Hondarribia,20,036,9
+Ibarra,20,042,0
+Idiazabal,20,043,6
+Ikaztegieta,20,044,1
+Irun,20,045,4
+Irura,20,046,7
+Itsasondo,20,047,3
+Larraul,20,048,9
+Lasarte-Oria,20,902,9
+Lazkao,20,049,2
+Leaburu,20,050,5
+Legazpi,20,051,2
+Legorreta,20,052,7
+Leintz-Gatzaga,20,068,4
+Lezo,20,053,3
+Lizartza,20,054,8
+Mendaro,20,901,4
+Mutiloa,20,057,0
+Mutriku,20,056,4
+Oiartzun,20,063,1
+Olaberria,20,058,6
+Oñati,20,059,9
+Ordizia,20,076,0
+Orendain,20,905,3
+Orexa,20,060,3
+Orio,20,061,0
+Ormaiztegi,20,062,5
+Pasaia,20,064,6
+Segura,20,070,1
+Soraluze/Placencia de las Armas,20,065,9
+Tolosa,20,071,8
+Urnieta,20,072,3
+Urretxu,20,077,6
+Usurbil,20,073,9
+Villabona,20,075,7
+Zaldibia,20,078,2
+Zarautz,20,079,5
+Zegama,20,025,8
+Zerain,20,026,1
+Zestoa,20,027,7
+Zizurkil,20,028,3
+Zumaia,20,081,6
+Zumarraga,20,080,9
+Alájar,21,001,0
+Aljaraque,21,002,5
+"Almendro, El",21,003,1
+Almonaster la Real,21,004,6
+Almonte,21,005,9
+Alosno,21,006,2
+Aracena,21,007,8
+Aroche,21,008,4
+Arroyomolinos de León,21,009,7
+Ayamonte,21,010,1
+Beas,21,011,8
+Berrocal,21,012,3
+Bollullos Par del Condado,21,013,9
+Bonares,21,014,4
+Cabezas Rubias,21,015,7
+Cala,21,016,0
+Calañas,21,017,6
+"Campillo, El",21,018,2
+Campofrío,21,019,5
+Cañaveral de León,21,020,9
+Cartaya,21,021,6
+Castaño del Robledo,21,022,1
+"Cerro de Andévalo, El",21,023,7
+Chucena,21,030,7
+Corteconcepción,21,024,2
+Cortegana,21,025,5
+Cortelazor,21,026,8
+Cumbres de Enmedio,21,027,4
+Cumbres de San Bartolomé,21,028,0
+Cumbres Mayores,21,029,3
+Encinasola,21,031,4
+Escacena del Campo,21,032,9
+Fuenteheridos,21,033,5
+Galaroza,21,034,0
+Gibraleón,21,035,3
+"Granada de Río-Tinto, La",21,036,6
+"Granado, El",21,037,2
+Higuera de la Sierra,21,038,8
+Hinojales,21,039,1
+Hinojos,21,040,5
+Huelva,21,041,2
+Isla Cristina,21,042,7
+Jabugo,21,043,3
+Lepe,21,044,8
+Linares de la Sierra,21,045,1
+Lucena del Puerto,21,046,4
+Manzanilla,21,047,0
+"Marines, Los",21,048,6
+Minas de Riotinto,21,049,9
+Moguer,21,050,2
+"Nava, La",21,051,9
+Nerva,21,052,4
+Niebla,21,053,0
+"Palma del Condado, La",21,054,5
+Palos de la Frontera,21,055,8
+Paterna del Campo,21,056,1
+Paymogo,21,057,7
+Puebla de Guzmán,21,058,3
+Puerto Moral,21,059,6
+Punta Umbría,21,060,0
+Rociana del Condado,21,061,7
+Rosal de la Frontera,21,062,2
+San Bartolomé de la Torre,21,063,8
+San Juan del Puerto,21,064,3
+San Silvestre de Guzmán,21,066,9
+Sanlúcar de Guadiana,21,065,6
+Santa Ana la Real,21,067,5
+Santa Bárbara de Casa,21,068,1
+Santa Olalla del Cala,21,069,4
+Trigueros,21,070,8
+Valdelarco,21,071,5
+Valverde del Camino,21,072,0
+Villablanca,21,073,6
+Villalba del Alcor,21,074,1
+Villanueva de las Cruces,21,075,4
+Villanueva de los Castillejos,21,076,7
+Villarrasa,21,077,3
+Zalamea la Real,21,078,9
+Zufre,21,079,2
+Abiego,22,001,5
+Abizanda,22,002,0
+Adahuesca,22,003,6
+Agüero,22,004,1
+Aínsa-Sobrarbe,22,907,4
+Aisa,22,006,7
+Albalate de Cinca,22,007,3
+Albalatillo,22,008,9
+Albelda,22,009,2
+Albero Alto,22,011,3
+Albero Bajo,22,012,8
+Alberuela de Tubo,22,013,4
+Alcalá de Gurrea,22,014,9
+Alcalá del Obispo,22,015,2
+Alcampell,22,016,5
+Alcolea de Cinca,22,017,1
+Alcubierre,22,018,7
+Alerre,22,019,0
+Alfántega,22,020,4
+Almudévar,22,021,1
+Almunia de San Juan,22,022,6
+Almuniente,22,023,2
+Alquézar,22,024,7
+Altorricón,22,025,0
+Angüés,22,027,9
+Ansó,22,028,5
+Antillón,22,029,8
+Aragüés del Puerto,22,032,4
+Arén,22,035,8
+Argavieso,22,036,1
+Arguis,22,037,7
+Ayerbe,22,039,6
+Azanuy-Alins,22,040,0
+Azara,22,041,7
+Azlor,22,042,2
+Baélls,22,043,8
+Bailo,22,044,3
+Baldellou,22,045,6
+Ballobar,22,046,9
+Banastás,22,047,5
+Barbastro,22,048,1
+Barbués,22,049,4
+Barbuñales,22,050,7
+Bárcabo,22,051,4
+Belver de Cinca,22,052,9
+Benabarre,22,053,5
+Benasque,22,054,0
+Berbegal,22,055,3
+Bielsa,22,057,2
+Bierge,22,058,8
+Biescas,22,059,1
+Binaced,22,060,5
+Binéfar,22,061,2
+Bisaurri,22,062,7
+Biscarrués,22,063,3
+Blecua y Torres,22,064,8
+Boltaña,22,066,4
+Bonansa,22,067,0
+Borau,22,068,6
+Broto,22,069,9
+Caldearenas,22,072,5
+Campo,22,074,6
+Camporrélls,22,075,9
+Canal de Berdún,22,076,2
+Candasnos,22,077,8
+Canfranc,22,078,4
+Capdesaso,22,079,7
+Capella,22,080,1
+Casbas de Huesca,22,081,8
+Castejón de Monegros,22,083,9
+Castejón de Sos,22,084,4
+Castejón del Puente,22,082,3
+Castelflorite,22,085,7
+Castiello de Jaca,22,086,0
+Castigaleu,22,087,6
+Castillazuelo,22,088,2
+Castillonroy,22,089,5
+Chalamera,22,094,2
+Chía,22,095,5
+Chimillas,22,096,8
+Colungo,22,090,9
+Esplús,22,099,3
+Estada,22,102,9
+Estadilla,22,103,5
+Estopiñán del Castillo,22,105,3
+Fago,22,106,6
+Fanlo,22,107,2
+Fiscal,22,109,1
+Fonz,22,110,5
+Foradada del Toscar,22,111,2
+Fraga,22,112,7
+"Fueva, La",22,113,3
+Gistaín,22,114,8
+"Grado, El",22,115,1
+Grañén,22,116,4
+Graus,22,117,0
+Gurrea de Gállego,22,119,9
+Hoz de Jaca,22,122,5
+Hoz y Costean,22,908,0
+Huerto,22,124,6
+Huesca,22,125,9
+Ibieca,22,126,2
+Igriés,22,127,8
+Ilche,22,128,4
+Isábena,22,129,7
+Jaca,22,130,1
+Jasa,22,131,8
+Labuerda,22,133,9
+Laluenga,22,135,7
+Lalueza,22,136,0
+Lanaja,22,137,6
+Laperdiguera,22,139,5
+Lascellas-Ponzano,22,141,6
+Lascuarre,22,142,1
+Laspaúles,22,143,7
+Laspuña,22,144,2
+Loarre,22,149,3
+Loporzano,22,150,6
+Loscorrales,22,151,3
+Lupiñén-Ortilla,22,905,5
+Monesma y Cajigar,22,155,2
+Monflorite-Lascasas,22,156,5
+Montanuy,22,157,1
+Monzón,22,158,7
+Naval,22,160,4
+Novales,22,162,6
+Nueno,22,163,2
+Olvena,22,164,7
+Ontiñena,22,165,0
+Osso de Cinca,22,167,9
+Palo,22,168,5
+Panticosa,22,170,2
+Peñalba,22,172,4
+"Peñas de Riglos, Las",22,173,0
+Peralta de Alcofea,22,174,5
+Peralta de Calasanz,22,175,8
+Peraltilla,22,176,1
+Perarrúa,22,177,7
+Pertusa,22,178,3
+Piracés,22,181,7
+Plan,22,182,2
+Poleñino,22,184,3
+Pozán de Vero,22,186,9
+"Puebla de Castro, La",22,187,5
+Puente de Montañana,22,188,1
+Puente la Reina de Jaca,22,902,1
+Puértolas,22,189,4
+"Pueyo de Araguás, El",22,190,8
+Pueyo de Santa Cruz,22,193,6
+Quicena,22,195,4
+Robres,22,197,3
+Sabiñánigo,22,199,2
+Sahún,22,200,6
+Salas Altas,22,201,3
+Salas Bajas,22,202,8
+Salillas,22,203,4
+Sallent de Gállego,22,204,9
+San Esteban de Litera,22,205,2
+San Juan de Plan,22,207,1
+San Miguel del Cinca,22,903,7
+Sangarrén,22,206,5
+Santa Cilia,22,208,7
+Santa Cruz de la Serós,22,209,0
+Santa María de Dulcis,22,906,8
+Santaliestra y San Quílez,22,212,6
+Sariñena,22,213,2
+Secastilla,22,214,7
+Seira,22,215,0
+Sena,22,217,9
+Senés de Alcubierre,22,218,5
+Sesa,22,220,2
+Sesué,22,221,9
+Siétamo,22,222,4
+Sopeira,22,223,0
+"Sotonera, La",22,904,2
+Tamarite de Litera,22,225,8
+Tardienta,22,226,1
+Tella-Sin,22,227,7
+Tierz,22,228,3
+Tolva,22,229,6
+Torla,22,230,0
+Torralba de Aragón,22,232,2
+Torre la Ribera,22,233,8
+Torrente de Cinca,22,234,3
+Torres de Alcanadre,22,235,6
+Torres de Barbués,22,236,9
+Tramaced,22,239,4
+Valfarta,22,242,0
+Valle de Bardají,22,243,6
+Valle de Hecho,22,901,6
+Valle de Lierp,22,244,1
+Velilla de Cinca,22,245,4
+Vencillón,22,909,3
+Veracruz,22,246,7
+Viacamp y Litera,22,247,3
+Vicién,22,248,9
+Villanova,22,249,2
+Villanúa,22,250,5
+Villanueva de Sigena,22,251,2
+Yebra de Basa,22,252,7
+Yésero,22,253,3
+Zaidín,22,254,8
+Albanchez de Mágina,23,001,1
+Alcalá la Real,23,002,6
+Alcaudete,23,003,2
+Aldeaquemada,23,004,7
+Andújar,23,005,0
+Arjona,23,006,3
+Arjonilla,23,007,9
+Arquillos,23,008,5
+Arroyo del Ojanco,23,905,1
+Baeza,23,009,8
+Bailén,23,010,2
+Baños de la Encina,23,011,9
+Beas de Segura,23,012,4
+Bedmar y Garcíez,23,902,7
+Begíjar,23,014,5
+Bélmez de la Moraleda,23,015,8
+Benatae,23,016,1
+Cabra del Santo Cristo,23,017,7
+Cambil,23,018,3
+Campillo de Arenas,23,019,6
+Canena,23,020,0
+Carboneros,23,021,7
+Cárcheles,23,901,2
+"Carolina, La",23,024,3
+Castellar,23,025,6
+Castillo de Locubín,23,026,9
+Cazalilla,23,027,5
+Cazorla,23,028,1
+Chiclana de Segura,23,029,4
+Chilluévar,23,030,8
+Escañuela,23,031,5
+Espelúy,23,032,0
+Frailes,23,033,6
+Fuensanta de Martos,23,034,1
+Fuerte del Rey,23,035,4
+Génave,23,037,3
+"Guardia de Jaén, La",23,038,9
+Guarromán,23,039,2
+Higuera de Calatrava,23,041,3
+Hinojares,23,042,8
+Hornos,23,043,4
+Huelma,23,044,9
+Huesa,23,045,2
+Ibros,23,046,5
+"Iruela, La",23,047,1
+Iznatoraf,23,048,7
+Jabalquinto,23,049,0
+Jaén,23,050,3
+Jamilena,23,051,0
+Jimena,23,052,5
+Jódar,23,053,1
+Lahiguera,23,040,6
+Larva,23,054,6
+Linares,23,055,9
+Lopera,23,056,2
+Lupión,23,057,8
+Mancha Real,23,058,4
+Marmolejo,23,059,7
+Martos,23,060,1
+Mengíbar,23,061,8
+Montizón,23,062,3
+Navas de San Juan,23,063,9
+Noalejo,23,064,4
+Orcera,23,065,7
+Peal de Becerro,23,066,0
+Pegalajar,23,067,6
+Porcuna,23,069,5
+Pozo Alcón,23,070,9
+Puente de Génave,23,071,6
+"Puerta de Segura, La",23,072,1
+Quesada,23,073,7
+Rus,23,074,2
+Sabiote,23,075,5
+Santa Elena,23,076,8
+Santiago de Calatrava,23,077,4
+Santiago-Pontones,23,904,8
+Santisteban del Puerto,23,079,3
+Santo Tomé,23,080,7
+Segura de la Sierra,23,081,4
+Siles,23,082,9
+Sorihuela del Guadalimar,23,084,0
+Torre del Campo,23,086,6
+Torreblascopedro,23,085,3
+Torredonjimeno,23,087,2
+Torreperogil,23,088,8
+Torres,23,090,5
+Torres de Albánchez,23,091,2
+Úbeda,23,092,7
+Valdepeñas de Jaén,23,093,3
+Vilches,23,094,8
+Villacarrillo,23,095,1
+Villanueva de la Reina,23,096,4
+Villanueva del Arzobispo,23,097,0
+Villardompardo,23,098,6
+"Villares, Los",23,099,9
+Villarrodrigo,23,101,0
+Villatorres,23,903,3
+Acebedo,24,001,6
+Algadefe,24,002,1
+Alija del Infantado,24,003,7
+Almanza,24,004,2
+"Antigua, La",24,005,5
+Ardón,24,006,8
+Arganza,24,007,4
+Astorga,24,008,0
+Balboa,24,009,3
+"Bañeza, La",24,010,7
+Barjas,24,011,4
+"Barrios de Luna, Los",24,012,9
+Bembibre,24,014,0
+Benavides,24,015,3
+Benuza,24,016,6
+Bercianos del Páramo,24,017,2
+Bercianos del Real Camino,24,018,8
+Berlanga del Bierzo,24,019,1
+Boca de Huérgano,24,020,5
+Boñar,24,021,2
+Borrenes,24,022,7
+Brazuelo,24,023,3
+"Burgo Ranero, El",24,024,8
+Burón,24,025,1
+Bustillo del Páramo,24,026,4
+Cabañas Raras,24,027,0
+Cabreros del Río,24,028,6
+Cabrillanes,24,029,9
+Cacabelos,24,030,3
+Calzada del Coto,24,031,0
+Campazas,24,032,5
+Campo de Villavidel,24,033,1
+Camponaraya,24,034,6
+Candín,24,036,2
+Cármenes,24,037,8
+Carracedelo,24,038,4
+Carrizo,24,039,7
+Carrocera,24,040,1
+Carucedo,24,041,8
+Castilfalé,24,042,3
+Castrillo de Cabrera,24,043,9
+Castrillo de la Valduerna,24,044,4
+Castrocalbón,24,046,0
+Castrocontrigo,24,047,6
+Castropodame,24,049,5
+Castrotierra de Valmadrigal,24,050,8
+Cea,24,051,5
+Cebanico,24,052,0
+Cebrones del Río,24,053,6
+Chozas de Abajo,24,065,2
+Cimanes de la Vega,24,054,1
+Cimanes del Tejar,24,055,4
+Cistierna,24,056,7
+Congosto,24,057,3
+Corbillos de los Oteros,24,058,9
+Corullón,24,059,2
+Crémenes,24,060,6
+Cuadros,24,061,3
+Cubillas de los Oteros,24,062,8
+Cubillas de Rueda,24,063,4
+Cubillos del Sil,24,064,9
+Destriana,24,066,5
+Encinedo,24,067,1
+"Ercina, La",24,068,7
+Escobar de Campos,24,069,0
+Fabero,24,070,4
+Folgoso de la Ribera,24,071,1
+Fresno de la Vega,24,073,2
+Fuentes de Carbajal,24,074,7
+Garrafe de Torío,24,076,3
+Gordaliza del Pino,24,077,9
+Gordoncillo,24,078,5
+Gradefes,24,079,8
+Grajal de Campos,24,080,2
+Gusendos de los Oteros,24,081,9
+Hospital de Órbigo,24,082,4
+Igüeña,24,083,0
+Izagre,24,084,5
+Joarilla de las Matas,24,086,1
+Laguna Dalga,24,087,7
+Laguna de Negrillos,24,088,3
+León,24,089,6
+Llamas de la Ribera,24,092,2
+Lucillo,24,090,0
+Luyego,24,091,7
+Magaz de Cepeda,24,093,8
+Mansilla de las Mulas,24,094,3
+Mansilla Mayor,24,095,6
+Maraña,24,096,9
+Matadeón de los Oteros,24,097,5
+Matallana de Torío,24,098,1
+Matanza,24,099,4
+Molinaseca,24,100,8
+Murias de Paredes,24,101,5
+Noceda del Bierzo,24,102,0
+Oencia,24,103,6
+"Omañas, Las",24,104,1
+Onzonilla,24,105,4
+Oseja de Sajambre,24,106,7
+Pajares de los Oteros,24,107,3
+Palacios de la Valduerna,24,108,9
+Palacios del Sil,24,109,2
+Páramo del Sil,24,110,6
+Peranzanes,24,112,8
+Pobladura de Pelayo García,24,113,4
+"Pola de Gordón, La",24,114,9
+Ponferrada,24,115,2
+Posada de Valdeón,24,116,5
+Pozuelo del Páramo,24,117,1
+Prado de la Guzpeña,24,118,7
+Priaranza del Bierzo,24,119,0
+Prioro,24,120,4
+Puebla de Lillo,24,121,1
+Puente de Domingo Flórez,24,122,6
+Quintana del Castillo,24,123,2
+Quintana del Marco,24,124,7
+Quintana y Congosto,24,125,0
+Regueras de Arriba,24,127,9
+Reyero,24,129,8
+Riaño,24,130,2
+Riego de la Vega,24,131,9
+Riello,24,132,4
+Rioseco de Tapia,24,133,0
+"Robla, La",24,134,5
+Roperuelos del Páramo,24,136,1
+Sabero,24,137,7
+Sahagún,24,139,6
+San Adrián del Valle,24,141,7
+San Andrés del Rabanedo,24,142,2
+San Cristóbal de la Polantera,24,144,3
+San Emiliano,24,145,6
+San Esteban de Nogales,24,146,9
+San Justo de la Vega,24,148,1
+San Millán de los Caballeros,24,149,4
+San Pedro Bercianos,24,150,7
+Sancedo,24,143,8
+Santa Colomba de Curueño,24,151,4
+Santa Colomba de Somoza,24,152,9
+Santa Cristina de Valmadrigal,24,153,5
+Santa Elena de Jamuz,24,154,0
+Santa María de la Isla,24,155,3
+Santa María de Ordás,24,158,8
+Santa María del Monte de Cea,24,156,6
+Santa María del Páramo,24,157,2
+Santa Marina del Rey,24,159,1
+Santas Martas,24,160,5
+Santiago Millas,24,161,2
+Santovenia de la Valdoncina,24,162,7
+Sariegos,24,163,3
+Sena de Luna,24,164,8
+Sobrado,24,165,1
+Soto de la Vega,24,166,4
+Soto y Amío,24,167,0
+Toral de los Guzmanes,24,168,6
+Toral de los Vados,24,206,6
+Toreno,24,169,9
+Torre del Bierzo,24,170,3
+Trabadelo,24,171,0
+Truchas,24,172,5
+Turcia,24,173,1
+Urdiales del Páramo,24,174,6
+Val de San Lorenzo,24,185,7
+Valdefresno,24,175,9
+Valdefuentes del Páramo,24,176,2
+Valdelugueros,24,177,8
+Valdemora,24,178,4
+Valdepiélago,24,179,7
+Valdepolo,24,180,1
+Valderas,24,181,8
+Valderrey,24,182,3
+Valderrueda,24,183,9
+Valdesamario,24,184,4
+Valdevimbre,24,187,6
+Valencia de Don Juan,24,188,2
+Vallecillo,24,191,6
+Valverde de la Virgen,24,189,5
+Valverde-Enrique,24,190,9
+"Vecilla, La",24,193,7
+Vega de Espinareda,24,196,8
+Vega de Infanzones,24,197,4
+Vega de Valcarce,24,198,0
+Vegacervera,24,194,2
+Vegaquemada,24,199,3
+Vegas del Condado,24,201,4
+Villablino,24,202,9
+Villabraz,24,203,5
+Villadangos del Páramo,24,205,3
+Villademor de la Vega,24,207,2
+Villafranca del Bierzo,24,209,1
+Villagatón,24,210,5
+Villamandos,24,211,2
+Villamanín,24,901,7
+Villamañán,24,212,7
+Villamartín de Don Sancho,24,213,3
+Villamejil,24,214,8
+Villamol,24,215,1
+Villamontán de la Valduerna,24,216,4
+Villamoratiel de las Matas,24,217,0
+Villanueva de las Manzanas,24,218,6
+Villaobispo de Otero,24,219,9
+Villaornate y Castro,24,902,2
+Villaquejida,24,221,0
+Villaquilambre,24,222,5
+Villarejo de Órbigo,24,223,1
+Villares de Órbigo,24,224,6
+Villasabariego,24,225,9
+Villaselán,24,226,2
+Villaturiel,24,227,8
+Villazala,24,228,4
+Villazanzo de Valderaduey,24,229,7
+Zotes del Páramo,24,230,1
+Abella de la Conca,25,001,9
+Àger,25,002,4
+Agramunt,25,003,0
+Aitona,25,038,7
+"Alamús, Els",25,004,5
+Alàs i Cerc,25,005,8
+"Albagés, L'",25,006,1
+Albatàrrec,25,007,7
+Albesa,25,008,3
+"Albi, L'",25,009,6
+Alcanó,25,010,0
+Alcarràs,25,011,7
+Alcoletge,25,012,2
+Alfarràs,25,013,8
+Alfés,25,014,3
+Algerri,25,015,6
+Alguaire,25,016,9
+Alins,25,017,5
+Almacelles,25,019,4
+Almatret,25,020,8
+Almenar,25,021,5
+Alòs de Balaguer,25,022,0
+Alpicat,25,023,6
+Alt Àneu,25,024,1
+Anglesola,25,027,3
+Arbeca,25,029,2
+Arres,25,031,3
+Arsèguel,25,032,8
+Artesa de Lleida,25,033,4
+Artesa de Segre,25,034,9
+Aspa,25,036,5
+"Avellanes i Santa Linya, Les",25,037,1
+Baix Pallars,25,039,0
+Balaguer,25,040,4
+Barbens,25,041,1
+"Baronia de Rialb, La",25,042,6
+Bassella,25,044,7
+Bausen,25,045,0
+Belianes,25,046,3
+Bellaguarda,25,170,6
+Bellcaire d'Urgell,25,047,9
+Bell-lloc d'Urgell,25,048,5
+Bellmunt d'Urgell,25,049,8
+Bellpuig,25,050,1
+Bellver de Cerdanya,25,051,8
+Bellvís,25,052,3
+Benavent de Segrià,25,053,9
+Biosca,25,055,7
+"Bòrdes, Es",25,057,6
+"Borges Blanques, Les",25,058,2
+Bossòst,25,059,5
+Bovera,25,056,0
+Cabanabona,25,060,9
+Cabó,25,061,6
+Camarasa,25,062,1
+Canejan,25,063,7
+Castell de Mur,25,904,6
+Castellar de la Ribera,25,064,2
+Castelldans,25,067,4
+Castellnou de Seana,25,068,0
+Castelló de Farfanya,25,069,3
+Castellserà,25,070,7
+Cava,25,071,4
+Cervera,25,072,9
+Cervià de les Garrigues,25,073,5
+Ciutadilla,25,074,0
+Clariana de Cardener,25,075,3
+"Cogul, El",25,076,6
+Coll de Nargó,25,077,2
+"Coma i la Pedra, La",25,163,6
+Conca de Dalt,25,161,5
+Corbins,25,078,8
+Cubells,25,079,1
+"Espluga Calba, L'",25,081,2
+Espot,25,082,7
+Estamariu,25,088,6
+Estaràs,25,085,1
+Esterri d'Àneu,25,086,4
+Esterri de Cardós,25,087,0
+Farrera,25,089,9
+Fígols i Alinyà,25,908,4
+"Floresta, La",25,092,5
+Fondarella,25,093,1
+Foradada,25,094,6
+"Fuliola, La",25,096,2
+Fulleda,25,097,8
+Gavet de la Conca,25,098,4
+Gimenells i el Pla de la Font,25,912,3
+Golmés,25,099,7
+Gósol,25,100,1
+"Granadella, La",25,101,8
+"Granja d'Escarp, La",25,102,3
+Granyanella,25,103,9
+Granyena de les Garrigues,25,105,7
+Granyena de Segarra,25,104,4
+Guimerà,25,109,5
+"Guingueta d'Àneu, La",25,903,1
+Guissona,25,110,9
+Guixers,25,111,6
+Isona i Conca Dellà,25,115,5
+Ivars de Noguera,25,112,1
+Ivars d'Urgell,25,113,7
+Ivorra,25,114,2
+Josa i Tuixén,25,910,1
+Juncosa,25,118,0
+Juneda,25,119,3
+Les,25,121,4
+Linyola,25,122,9
+Lladorre,25,123,5
+Lladurs,25,124,0
+Llardecans,25,125,3
+Llavorsí,25,126,6
+Lleida,25,120,7
+Lles de Cerdanya,25,127,2
+Llimiana,25,128,8
+Llobera,25,129,1
+Maials,25,133,3
+Maldà,25,130,5
+Massalcoreig,25,131,2
+Massoteres,25,132,7
+Menàrguens,25,134,8
+Miralcamp,25,135,1
+Mollerussa,25,137,0
+"Molsosa, La",25,136,4
+Montellà i Martinet,25,139,9
+Montferrer i Castellbò,25,140,3
+Montgai,25,138,6
+Montoliu de Lleida,25,142,5
+Montoliu de Segarra,25,141,0
+Montornès de Segarra,25,143,1
+Nalec,25,145,9
+Naut Aran,25,025,4
+Navès,25,146,2
+Odèn,25,148,4
+Oliana,25,149,7
+Oliola,25,150,0
+Olius,25,151,7
+"Oluges, Les",25,152,2
+"Omellons, Els",25,153,8
+"Omells de na Gaia, Els",25,154,3
+Organyà,25,155,6
+Os de Balaguer,25,156,9
+Ossó de Sió,25,157,5
+"Palau d'Anglesola, El",25,158,1
+Penelles,25,164,1
+Peramola,25,165,4
+Pinell de Solsonès,25,166,7
+Pinós,25,167,3
+"Plans de Sió, Els",25,911,8
+"Poal, El",25,168,9
+"Pobla de Cérvoles, La",25,169,2
+"Pobla de Segur, La",25,171,3
+"Pont de Bar, El",25,030,6
+"Pont de Suert, El",25,173,4
+Ponts,25,172,8
+"Portella, La",25,174,9
+Prats i Sansor,25,175,2
+Preixana,25,176,5
+Preixens,25,177,1
+Prullans,25,179,0
+Puiggròs,25,180,4
+Puigverd d'Agramunt,25,181,1
+Puigverd de Lleida,25,182,6
+Rialp,25,183,2
+Ribera d'Ondara,25,905,9
+Ribera d'Urgellet,25,185,0
+Riner,25,186,3
+Riu de Cerdanya,25,913,9
+Rosselló,25,189,8
+Salàs de Pallars,25,190,2
+Sanaüja,25,191,9
+Sant Esteve de la Sarga,25,196,1
+Sant Guim de Freixenet,25,192,4
+Sant Guim de la Plana,25,197,7
+Sant Llorenç de Morunys,25,193,0
+Sant Martí de Riucorb,25,902,5
+Sant Ramon,25,194,5
+Sarroca de Bellera,25,201,7
+Sarroca de Lleida,25,200,0
+Senterada,25,202,2
+"Sentiu de Sió, La",25,035,2
+Seròs,25,204,3
+"Seu d'Urgell, La",25,203,8
+Sidamon,25,205,6
+"Soleràs, El",25,206,9
+Solsona,25,207,5
+Soriguera,25,208,1
+Sort,25,209,4
+Soses,25,210,8
+Sudanell,25,211,5
+Sunyer,25,212,0
+Talarn,25,215,4
+Talavera,25,216,7
+Tàrrega,25,217,3
+Tarrés,25,218,9
+Tarroja de Segarra,25,219,2
+Térmens,25,220,6
+Tírvia,25,221,3
+Tiurana,25,222,8
+Torà,25,223,4
+"Torms, Els",25,224,9
+Tornabous,25,225,2
+"Torre de Cabdella, La",25,227,1
+Torrebesses,25,226,5
+Torrefarrera,25,228,7
+Torrefeta i Florejacs,25,907,8
+Torregrossa,25,230,4
+Torrelameu,25,231,1
+Torres de Segre,25,232,6
+Torre-serona,25,233,2
+Tremp,25,234,7
+"Vall de Boí, La",25,043,2
+Vall de Cardós,25,901,0
+Vallbona de les Monges,25,238,5
+Vallfogona de Balaguer,25,240,2
+"Valls d'Aguilar, Les",25,906,2
+"Valls de Valira, Les",25,239,8
+"Vansa i Fórnols, La",25,909,7
+Verdú,25,242,4
+Vielha e Mijaran,25,243,0
+Vilagrassa,25,244,5
+Vilaller,25,245,8
+Vilamòs,25,247,7
+Vilanova de Bellpuig,25,248,3
+Vilanova de la Barca,25,254,2
+Vilanova de l'Aguda,25,249,6
+Vilanova de Meià,25,250,9
+Vilanova de Segrià,25,251,6
+Vila-sana,25,252,1
+"Vilosell, El",25,253,7
+Vinaixa,25,255,5
+Ábalos,26,001,2
+Agoncillo,26,002,7
+Aguilar del Río Alhama,26,003,3
+Ajamil de Cameros,26,004,8
+Albelda de Iregua,26,005,1
+Alberite,26,006,4
+Alcanadre,26,007,0
+Aldeanueva de Ebro,26,008,6
+Alesanco,26,009,9
+Alesón,26,010,3
+Alfaro,26,011,0
+Almarza de Cameros,26,012,5
+Anguciana,26,013,1
+Anguiano,26,014,6
+Arenzana de Abajo,26,015,9
+Arenzana de Arriba,26,016,2
+Arnedillo,26,017,8
+Arnedo,26,018,4
+Arrúbal,26,019,7
+Ausejo,26,020,1
+Autol,26,021,8
+Azofra,26,022,3
+Badarán,26,023,9
+Bañares,26,024,4
+Baños de Río Tobía,26,026,0
+Baños de Rioja,26,025,7
+Berceo,26,027,6
+Bergasa,26,028,2
+Bergasillas Bajera,26,029,5
+Bezares,26,030,9
+Bobadilla,26,031,6
+Brieva de Cameros,26,032,1
+Briñas,26,033,7
+Briones,26,034,2
+Cabezón de Cameros,26,035,5
+Calahorra,26,036,8
+Camprovín,26,037,4
+Canales de la Sierra,26,038,0
+Canillas de Río Tuerto,26,039,3
+Cañas,26,040,7
+Cárdenas,26,041,4
+Casalarreina,26,042,9
+Castañares de Rioja,26,043,5
+Castroviejo,26,044,0
+Cellorigo,26,045,3
+Cenicero,26,046,6
+Cervera del Río Alhama,26,047,2
+Cidamón,26,048,8
+Cihuri,26,049,1
+Cirueña,26,050,4
+Clavijo,26,051,1
+Cordovín,26,052,6
+Corera,26,053,2
+Cornago,26,054,7
+Corporales,26,055,0
+Cuzcurrita de Río Tirón,26,056,3
+Daroca de Rioja,26,057,9
+Enciso,26,058,5
+Entrena,26,059,8
+Estollo,26,060,2
+Ezcaray,26,061,9
+Foncea,26,062,4
+Fonzaleche,26,063,0
+Fuenmayor,26,064,5
+Galbárruli,26,065,8
+Galilea,26,066,1
+Gallinero de Cameros,26,067,7
+Gimileo,26,068,3
+Grañón,26,069,6
+Grávalos,26,070,0
+Haro,26,071,7
+Herce,26,072,2
+Herramélluri,26,073,8
+Hervías,26,074,3
+Hormilla,26,075,6
+Hormilleja,26,076,9
+Hornillos de Cameros,26,077,5
+Hornos de Moncalvillo,26,078,1
+Huércanos,26,079,4
+Igea,26,080,8
+Jalón de Cameros,26,081,5
+Laguna de Cameros,26,082,0
+Lagunilla del Jubera,26,083,6
+Lardero,26,084,1
+Ledesma de la Cogolla,26,086,7
+Leiva,26,087,3
+Leza de Río Leza,26,088,9
+Logroño,26,089,2
+Lumbreras,26,091,3
+Manjarrés,26,092,8
+Mansilla de la Sierra,26,093,4
+Manzanares de Rioja,26,094,9
+Matute,26,095,2
+Medrano,26,096,5
+Munilla,26,098,7
+Murillo de Río Leza,26,099,0
+Muro de Aguas,26,100,4
+Muro en Cameros,26,101,1
+Nájera,26,102,6
+Nalda,26,103,2
+Navajún,26,104,7
+Navarrete,26,105,0
+Nestares,26,106,3
+Nieva de Cameros,26,107,9
+Ochánduri,26,109,8
+Ocón,26,108,5
+Ojacastro,26,110,2
+Ollauri,26,111,9
+Ortigosa de Cameros,26,112,4
+Pazuengos,26,113,0
+Pedroso,26,114,5
+Pinillos,26,115,8
+Pradejón,26,117,7
+Pradillo,26,118,3
+Préjano,26,119,6
+Quel,26,120,0
+Rabanera,26,121,7
+"Rasillo de Cameros, El",26,122,2
+"Redal, El",26,123,8
+Ribafrecha,26,124,3
+Rincón de Soto,26,125,6
+Robres del Castillo,26,126,9
+Rodezno,26,127,5
+Sajazarra,26,128,1
+San Asensio,26,129,4
+San Millán de la Cogolla,26,130,8
+San Millán de Yécora,26,131,5
+San Román de Cameros,26,132,0
+San Torcuato,26,139,2
+San Vicente de la Sonsierra,26,142,8
+Santa Coloma,26,134,1
+Santa Engracia del Jubera,26,135,4
+Santa Eulalia Bajera,26,136,7
+Santo Domingo de la Calzada,26,138,9
+Santurde de Rioja,26,140,6
+Santurdejo,26,141,3
+Sojuela,26,143,4
+Sorzano,26,144,9
+Sotés,26,145,2
+Soto en Cameros,26,146,5
+Terroba,26,147,1
+Tirgo,26,148,7
+Tobía,26,149,0
+Tormantos,26,150,3
+Torre en Cameros,26,153,1
+Torrecilla en Cameros,26,151,0
+Torrecilla sobre Alesanco,26,152,5
+Torremontalbo,26,154,6
+Treviana,26,155,9
+Tricio,26,157,8
+Tudelilla,26,158,4
+Uruñuela,26,160,1
+Valdemadera,26,161,8
+Valgañón,26,162,3
+Ventosa,26,163,9
+Ventrosa,26,164,4
+Viguera,26,165,7
+Villalba de Rioja,26,166,0
+Villalobar de Rioja,26,167,6
+Villamediana de Iregua,26,168,2
+Villanueva de Cameros,26,169,5
+"Villar de Arnedo, El",26,170,9
+Villar de Torre,26,171,6
+Villarejo,26,172,1
+Villarroya,26,173,7
+Villarta-Quintana,26,174,2
+Villavelayo,26,175,5
+Villaverde de Rioja,26,176,8
+Villoslada de Cameros,26,177,4
+Viniegra de Abajo,26,178,0
+Viniegra de Arriba,26,179,3
+Zarratón,26,180,7
+Zarzosa,26,181,4
+Zorraquín,26,183,5
+Abadín,27,001,8
+Alfoz,27,002,3
+Antas de Ulla,27,003,9
+Baleira,27,004,4
+Baralla,27,901,9
+Barreiros,27,005,7
+Becerreá,27,006,0
+Begonte,27,007,6
+Bóveda,27,008,2
+Burela,27,902,4
+Carballedo,27,009,5
+Castro de Rei,27,010,9
+Castroverde,27,011,6
+Cervantes,27,012,1
+Cervo,27,013,7
+Chantada,27,016,8
+"Corgo, O",27,014,2
+Cospeito,27,015,5
+Folgoso do Courel,27,017,4
+"Fonsagrada, A",27,018,0
+Foz,27,019,3
+Friol,27,020,7
+Guitiriz,27,022,9
+Guntín,27,023,5
+"Incio, O",27,024,0
+Láncara,27,026,6
+Lourenzá,27,027,2
+Lugo,27,028,8
+Meira,27,029,1
+Mondoñedo,27,030,5
+Monforte de Lemos,27,031,2
+Monterroso,27,032,7
+Muras,27,033,3
+Navia de Suarna,27,034,8
+Negueira de Muñiz,27,035,1
+"Nogais, As",27,037,0
+Ourol,27,038,6
+Outeiro de Rei,27,039,9
+Palas de Rei,27,040,3
+Pantón,27,041,0
+Paradela,27,042,5
+"Páramo, O",27,043,1
+"Pastoriza, A",27,044,6
+Pedrafita do Cebreiro,27,045,9
+"Pobra do Brollón, A",27,047,8
+Pol,27,046,2
+"Pontenova, A",27,048,4
+Portomarín,27,049,7
+Quiroga,27,050,0
+Rábade,27,056,9
+Ribadeo,27,051,7
+Ribas de Sil,27,052,2
+Ribeira de Piquín,27,053,8
+Riotorto,27,054,3
+Samos,27,055,6
+Sarria,27,057,5
+"Saviñao, O",27,058,1
+Sober,27,059,4
+Taboada,27,060,8
+Trabada,27,061,5
+Triacastela,27,062,0
+"Valadouro, O",27,063,6
+"Vicedo, O",27,064,1
+Vilalba,27,065,4
+Viveiro,27,066,7
+Xermade,27,021,4
+Xove,27,025,3
+"Acebeda, La",28,001,4
+Ajalvir,28,002,9
+Alameda del Valle,28,003,5
+"Álamo, El",28,004,0
+Alcalá de Henares,28,005,3
+Alcobendas,28,006,6
+Alcorcón,28,007,2
+Aldea del Fresno,28,008,8
+Algete,28,009,1
+Alpedrete,28,010,5
+Ambite,28,011,2
+Anchuelo,28,012,7
+Aranjuez,28,013,3
+Arganda del Rey,28,014,8
+Arroyomolinos,28,015,1
+"Atazar, El",28,016,4
+Batres,28,017,0
+Becerril de la Sierra,28,018,6
+Belmonte de Tajo,28,019,9
+"Berrueco, El",28,021,0
+Berzosa del Lozoya,28,020,3
+Boadilla del Monte,28,022,5
+"Boalo, El",28,023,1
+Braojos,28,024,6
+Brea de Tajo,28,025,9
+Brunete,28,026,2
+Buitrago del Lozoya,28,027,8
+Bustarviejo,28,028,4
+Cabanillas de la Sierra,28,029,7
+"Cabrera, La",28,030,1
+Cadalso de los Vidrios,28,031,8
+Camarma de Esteruelas,28,032,3
+Campo Real,28,033,9
+Canencia,28,034,4
+Carabaña,28,035,7
+Casarrubuelos,28,036,0
+Cenicientos,28,037,6
+Cercedilla,28,038,2
+Cervera de Buitrago,28,039,5
+Chapinería,28,051,3
+Chinchón,28,052,8
+Ciempozuelos,28,040,9
+Cobeña,28,041,6
+Collado Mediano,28,046,8
+Collado Villalba,28,047,4
+Colmenar de Oreja,28,043,7
+Colmenar del Arroyo,28,042,1
+Colmenar Viejo,28,045,5
+Colmenarejo,28,044,2
+Corpa,28,048,0
+Coslada,28,049,3
+Cubas de la Sagra,28,050,6
+Daganzo de Arriba,28,053,4
+"Escorial, El",28,054,9
+Estremera,28,055,2
+Fresnedillas de la Oliva,28,056,5
+Fresno de Torote,28,057,1
+Fuenlabrada,28,058,7
+Fuente el Saz de Jarama,28,059,0
+Fuentidueña de Tajo,28,060,4
+Galapagar,28,061,1
+Garganta de los Montes,28,062,6
+Gargantilla del Lozoya y Pinilla de Buitrago,28,063,2
+Gascones,28,064,7
+Getafe,28,065,0
+Griñón,28,066,3
+Guadalix de la Sierra,28,067,9
+Guadarrama,28,068,5
+"Hiruela, La",28,069,8
+Horcajo de la Sierra-Aoslos,28,070,2
+Horcajuelo de la Sierra,28,071,9
+Hoyo de Manzanares,28,072,4
+Humanes de Madrid,28,073,0
+Leganés,28,074,5
+Loeches,28,075,8
+Lozoya,28,076,1
+Lozoyuela-Navas-Sieteiglesias,28,901,5
+Madarcos,28,078,3
+Madrid,28,079,6
+Majadahonda,28,080,0
+Manzanares el Real,28,082,2
+Meco,28,083,8
+Mejorada del Campo,28,084,3
+Miraflores de la Sierra,28,085,6
+"Molar, El",28,086,9
+"Molinos, Los",28,087,5
+Montejo de la Sierra,28,088,1
+Moraleja de Enmedio,28,089,4
+Moralzarzal,28,090,8
+Morata de Tajuña,28,091,5
+Móstoles,28,092,0
+Navacerrada,28,093,6
+Navalafuente,28,094,1
+Navalagamella,28,095,4
+Navalcarnero,28,096,7
+Navarredonda y San Mamés,28,097,3
+Navas del Rey,28,099,2
+Nuevo Baztán,28,100,6
+Olmeda de las Fuentes,28,101,3
+Orusco de Tajuña,28,102,8
+Paracuellos de Jarama,28,104,9
+Parla,28,106,5
+Patones,28,107,1
+Pedrezuela,28,108,7
+Pelayos de la Presa,28,109,0
+Perales de Tajuña,28,110,4
+Pezuela de las Torres,28,111,1
+Pinilla del Valle,28,112,6
+Pinto,28,113,2
+Piñuécar-Gandullas,28,114,7
+Pozuelo de Alarcón,28,115,0
+Pozuelo del Rey,28,116,3
+Prádena del Rincón,28,117,9
+Puebla de la Sierra,28,118,5
+Puentes Viejas,28,902,0
+Quijorna,28,119,8
+Rascafría,28,120,2
+Redueña,28,121,9
+Ribatejada,28,122,4
+Rivas-Vaciamadrid,28,123,0
+Robledillo de la Jara,28,124,5
+Robledo de Chavela,28,125,8
+Robregordo,28,126,1
+"Rozas de Madrid, Las",28,127,7
+Rozas de Puerto Real,28,128,3
+San Agustín del Guadalix,28,129,6
+San Fernando de Henares,28,130,0
+San Lorenzo de El Escorial,28,131,7
+San Martín de la Vega,28,132,2
+San Martín de Valdeiglesias,28,133,8
+San Sebastián de los Reyes,28,134,3
+Santa María de la Alameda,28,135,6
+Santorcaz,28,136,9
+"Santos de la Humosa, Los",28,137,5
+"Serna del Monte, La",28,138,1
+Serranillos del Valle,28,140,8
+Sevilla la Nueva,28,141,5
+Somosierra,28,143,6
+Soto del Real,28,144,1
+Talamanca de Jarama,28,145,4
+Tielmes,28,146,7
+Titulcia,28,147,3
+Torrejón de Ardoz,28,148,9
+Torrejón de la Calzada,28,149,2
+Torrejón de Velasco,28,150,5
+Torrelaguna,28,151,2
+Torrelodones,28,152,7
+Torremocha de Jarama,28,153,3
+Torres de la Alameda,28,154,8
+Tres Cantos,28,903,6
+Valdaracete,28,155,1
+Valdeavero,28,156,4
+Valdelaguna,28,157,0
+Valdemanco,28,158,6
+Valdemaqueda,28,159,9
+Valdemorillo,28,160,3
+Valdemoro,28,161,0
+Valdeolmos-Alalpardo,28,162,5
+Valdepiélagos,28,163,1
+Valdetorres de Jarama,28,164,6
+Valdilecha,28,165,9
+Valverde de Alcalá,28,166,2
+Velilla de San Antonio,28,167,8
+"Vellón, El",28,168,4
+Venturada,28,169,7
+Villa del Prado,28,171,8
+Villaconejos,28,170,1
+Villalbilla,28,172,3
+Villamanrique de Tajo,28,173,9
+Villamanta,28,174,4
+Villamantilla,28,175,7
+Villanueva de la Cañada,28,176,0
+Villanueva de Perales,28,178,2
+Villanueva del Pardillo,28,177,6
+Villar del Olmo,28,179,5
+Villarejo de Salvanés,28,180,9
+Villaviciosa de Odón,28,181,6
+Villavieja del Lozoya,28,182,1
+Zarzalejo,28,183,7
+Alameda,29,001,7
+Alcaucín,29,002,2
+Alfarnate,29,003,8
+Alfarnatejo,29,004,3
+Algarrobo,29,005,6
+Algatocín,29,006,9
+Alhaurín de la Torre,29,007,5
+Alhaurín el Grande,29,008,1
+Almáchar,29,009,4
+Almargen,29,010,8
+Almogía,29,011,5
+Álora,29,012,0
+Alozaina,29,013,6
+Alpandeire,29,014,1
+Antequera,29,015,4
+Árchez,29,016,7
+Archidona,29,017,3
+Ardales,29,018,9
+Arenas,29,019,2
+Arriate,29,020,6
+Atajate,29,021,3
+Benadalid,29,022,8
+Benahavís,29,023,4
+Benalauría,29,024,9
+Benalmádena,29,025,2
+Benamargosa,29,026,5
+Benamocarra,29,027,1
+Benaoján,29,028,7
+Benarrabá,29,029,0
+"Borge, El",29,030,4
+"Burgo, El",29,031,1
+Campillos,29,032,6
+Canillas de Aceituno,29,033,2
+Canillas de Albaida,29,034,7
+Cañete la Real,29,035,0
+Carratraca,29,036,3
+Cartajima,29,037,9
+Cártama,29,038,5
+Casabermeja,29,039,8
+Casarabonela,29,040,2
+Casares,29,041,9
+Coín,29,042,4
+Colmenar,29,043,0
+Comares,29,044,5
+Cómpeta,29,045,8
+Cortes de la Frontera,29,046,1
+Cuevas Bajas,29,047,7
+Cuevas de San Marcos,29,049,6
+Cuevas del Becerro,29,048,3
+Cútar,29,050,9
+Estepona,29,051,6
+Faraján,29,052,1
+Frigiliana,29,053,7
+Fuengirola,29,054,2
+Fuente de Piedra,29,055,5
+Gaucín,29,056,8
+Genalguacil,29,057,4
+Guaro,29,058,0
+Humilladero,29,059,3
+Igualeja,29,060,7
+Istán,29,061,4
+Iznate,29,062,9
+Jimera de Líbar,29,063,5
+Jubrique,29,064,0
+Júzcar,29,065,3
+Macharaviaya,29,066,6
+Málaga,29,067,2
+Manilva,29,068,8
+Marbella,29,069,1
+Mijas,29,070,5
+Moclinejo,29,071,2
+Mollina,29,072,7
+Monda,29,073,3
+Montejaque,29,074,8
+Nerja,29,075,1
+Ojén,29,076,4
+Parauta,29,077,0
+Periana,29,079,9
+Pizarra,29,080,3
+Pujerra,29,081,0
+Rincón de la Victoria,29,082,5
+Riogordo,29,083,1
+Ronda,29,084,6
+Salares,29,085,9
+Sayalonga,29,086,2
+Sedella,29,087,8
+Sierra de Yeguas,29,088,4
+Teba,29,089,7
+Tolox,29,090,1
+Torremolinos,29,901,8
+Torrox,29,091,8
+Totalán,29,092,3
+Valle de Abdalajís,29,093,9
+Vélez-Málaga,29,094,4
+Villanueva de Algaidas,29,095,7
+Villanueva de la Concepción,29,902,3
+Villanueva de Tapia,29,098,2
+Villanueva del Rosario,29,096,0
+Villanueva del Trabuco,29,097,6
+Viñuela,29,099,5
+Yunquera,29,100,9
+Abanilla,30,001,1
+Abarán,30,002,6
+Águilas,30,003,2
+Albudeite,30,004,7
+Alcantarilla,30,005,0
+"Alcázares, Los",30,902,7
+Aledo,30,006,3
+Alguazas,30,007,9
+Alhama de Murcia,30,008,5
+Archena,30,009,8
+Beniel,30,010,2
+Blanca,30,011,9
+Bullas,30,012,4
+Calasparra,30,013,0
+Campos del Río,30,014,5
+Caravaca de la Cruz,30,015,8
+Cartagena,30,016,1
+Cehegín,30,017,7
+Ceutí,30,018,3
+Cieza,30,019,6
+Fortuna,30,020,0
+Fuente Álamo de Murcia,30,021,7
+Jumilla,30,022,2
+Librilla,30,023,8
+Lorca,30,024,3
+Lorquí,30,025,6
+Mazarrón,30,026,9
+Molina de Segura,30,027,5
+Moratalla,30,028,1
+Mula,30,029,4
+Murcia,30,030,8
+Ojós,30,031,5
+Pliego,30,032,0
+Puerto Lumbreras,30,033,6
+Ricote,30,034,1
+San Javier,30,035,4
+San Pedro del Pinatar,30,036,7
+Santomera,30,901,2
+Torre-Pacheco,30,037,3
+"Torres de Cotillas, Las",30,038,9
+Totana,30,039,2
+Ulea,30,040,6
+"Unión, La",30,041,3
+Villanueva del Río Segura,30,042,8
+Yecla,30,043,4
+Abáigar,31,001,8
+Abárzuza,31,002,3
+Abaurregaina/Abaurrea Alta,31,003,9
+Abaurrepea/Abaurrea Baja,31,004,4
+Aberin,31,005,7
+Ablitas,31,006,0
+Adiós,31,007,6
+Aguilar de Codés,31,008,2
+Aibar/Oibar,31,009,5
+Allín,31,011,6
+Allo,31,012,1
+Altsasu/Alsasua,31,010,9
+Améscoa Baja,31,013,7
+Ancín/Antzin,31,014,2
+Andosilla,31,015,5
+Ansoáin/Antsoain,31,016,8
+Anue,31,017,4
+Añorbe,31,018,0
+Aoiz/Agoitz,31,019,3
+Araitz,31,020,7
+Arakil,31,025,3
+Aranarache/Aranaratxe,31,021,4
+Aranguren,31,023,5
+Arano,31,024,0
+Arantza,31,022,9
+Aras,31,026,6
+Arbizu,31,027,2
+Arce/Artzi,31,028,8
+"Arcos, Los",31,029,1
+Arellano,31,030,5
+Areso,31,031,2
+Arguedas,31,032,7
+Aria,31,033,3
+Aribe,31,034,8
+Armañanzas,31,035,1
+Arróniz,31,036,4
+Arruazu,31,037,0
+Artajona,31,038,6
+Artazu,31,039,9
+Atez,31,040,3
+Auritz/Burguete,31,058,1
+Ayegui/Aiegi,31,041,0
+Azagra,31,042,5
+Azuelo,31,043,1
+Bakaiku,31,044,6
+Barañain,31,901,9
+Barásoain,31,045,9
+Barbarin,31,046,2
+Bargota,31,047,8
+Barillas,31,048,4
+Basaburua,31,049,7
+Baztan,31,050,0
+Beintza-Labaien,31,137,9
+Beire,31,051,7
+Belascoáin,31,052,2
+Bera,31,250,8
+Berbinzana,31,053,8
+Beriáin,31,905,8
+Berrioplano,31,902,4
+Berriozar,31,903,0
+Bertizarana,31,054,3
+Betelu,31,055,6
+Bidaurreta,31,253,6
+Biurrun-Olcoz,31,056,9
+Buñuel,31,057,5
+Burgui/Burgi,31,059,4
+Burlada/Burlata,31,060,8
+"Busto, El",31,061,5
+Cabanillas,31,062,0
+Cabredo,31,063,6
+Cadreita,31,064,1
+Caparroso,31,065,4
+Cárcar,31,066,7
+Carcastillo,31,067,3
+Cascante,31,068,9
+Cáseda,31,069,2
+Castejón,31,070,6
+Castillonuevo,31,071,3
+Cendea de Olza/Oltza Zendea,31,193,9
+Cintruénigo,31,072,8
+Cirauqui/Zirauki,31,074,9
+Ciriza,31,075,2
+Cizur,31,076,5
+Corella,31,077,1
+Cortes,31,078,7
+Desojo,31,079,0
+Dicastillo,31,080,4
+Donamaria,31,081,1
+Doneztebe/Santesteban,31,221,2
+Echarri,31,083,2
+Egüés,31,086,3
+Elgorriaga,31,087,9
+Enériz/Eneritz,31,089,8
+Eratsun,31,090,2
+Ergoiena,31,091,9
+Erro,31,092,4
+Eslava,31,094,5
+Esparza de Salazar/Espartza Zaraitzu,31,095,8
+Espronceda,31,096,1
+Estella/Lizarra,31,097,7
+Esteribar,31,098,3
+Etayo,31,099,6
+Etxalar,31,082,6
+Etxarri-Aranatz,31,084,7
+Etxauri,31,085,0
+Eulate,31,100,0
+Ezcabarte,31,101,7
+Ezcároz/Ezkaroze,31,093,0
+Ezkurra,31,102,2
+Ezprogui,31,103,8
+Falces,31,104,3
+Fitero,31,105,6
+Fontellas,31,106,9
+Funes,31,107,5
+Fustiñana,31,108,1
+Galar,31,109,4
+Gallipienzo/Galipentzu,31,110,8
+Gallués/Galoze,31,111,5
+Garaioa,31,112,0
+Garde,31,113,6
+Garínoain,31,114,1
+Garralda,31,115,4
+Genevilla,31,116,7
+Goizueta,31,117,3
+Goñi,31,118,9
+Güesa/Gorza,31,119,2
+Guesálaz/Gesalatz,31,120,6
+Guirguillano,31,121,3
+Hiriberri/Villanueva de Aezkoa,31,256,7
+Huarte/Uharte,31,122,8
+Ibargoiti,31,124,9
+Igantzi,31,259,2
+Igúzquiza,31,125,2
+Imotz,31,126,5
+Irañeta,31,127,1
+Irurtzun,31,904,5
+Isaba/Izaba,31,128,7
+Ituren,31,129,0
+Iturmendi,31,130,4
+Iza/Itza,31,131,1
+Izagaondoa,31,132,6
+Izalzu/Itzaltzu,31,133,2
+Jaurrieta,31,134,7
+Javier,31,135,0
+Juslapeña,31,136,3
+Lakuntza,31,138,5
+Lana,31,139,8
+Lantz,31,140,2
+Lapoblación,31,141,9
+Larraga,31,142,4
+Larraona,31,143,0
+Larraun,31,144,5
+Lazagurría,31,145,8
+Leache,31,146,1
+Legarda,31,147,7
+Legaria,31,148,3
+Leitza,31,149,6
+Lekunberri,31,908,3
+Leoz/Leotz,31,150,9
+Lerga,31,151,6
+Lerín,31,152,1
+Lesaka,31,153,7
+Lezáun,31,154,2
+Liédena,31,155,5
+Lizoáin-Arriasgoiti,31,156,8
+Lodosa,31,157,4
+Lónguida/Longida,31,158,0
+Lumbier,31,159,3
+Luquin,31,160,7
+Luzaide/Valcarlos,31,248,2
+Mañeru,31,161,4
+Marañón,31,162,9
+Marcilla,31,163,5
+Mélida,31,164,0
+Mendavia,31,165,3
+Mendaza,31,166,6
+Mendigorría,31,167,2
+Metauten,31,168,8
+Milagro,31,169,1
+Mirafuentes,31,170,5
+Miranda de Arga,31,171,2
+Monreal,31,172,7
+Monteagudo,31,173,3
+Morentin,31,174,8
+Mues,31,175,1
+Murchante,31,176,4
+Murieta,31,177,0
+Murillo el Cuende,31,178,6
+Murillo el Fruto,31,179,9
+Muruzábal,31,180,3
+Navascués,31,181,0
+Nazar,31,182,5
+Noáin (Valle de Elorz)/Noain (Elortzibar),31,088,5
+Obanos,31,183,1
+Ochagavía/Otsagabia,31,185,9
+Oco,31,184,6
+Odieta,31,186,2
+Oitz,31,187,8
+Olaibar,31,188,4
+Olazti/Olazagutía,31,189,7
+Olejua,31,190,1
+Olite/Erriberri,31,191,8
+Ollo,31,194,4
+Olóriz/Oloritz,31,192,3
+Orbaitzeta,31,195,7
+Orbara,31,196,0
+Orísoain,31,197,6
+Orkoien,31,906,1
+Oronz/Orontze,31,198,2
+Oroz-Betelu/Orotz-Betelu,31,199,5
+Orreaga/Roncesvalles,31,211,4
+Oteiza,31,200,9
+Pamplona/Iruña,31,201,6
+Peralta/Azkoien,31,202,1
+Petilla de Aragón,31,203,7
+Piedramillera,31,204,2
+Pitillas,31,205,5
+Puente la Reina/Gares,31,206,8
+Pueyo,31,207,4
+Ribaforada,31,208,0
+Romanzado,31,209,3
+Roncal/Erronkari,31,210,7
+Sada,31,212,9
+Saldías,31,213,5
+Salinas de Oro/Jaitz,31,214,0
+San Adrián,31,215,3
+San Martín de Unx,31,217,2
+Sangüesa/Zangoza,31,216,6
+Sansol,31,219,1
+Santacara,31,220,5
+Sarriés/Sartze,31,222,7
+Sartaguda,31,223,3
+Sesma,31,224,8
+Sorlada,31,225,1
+Sunbilla,31,226,4
+Tafalla,31,227,0
+Tiebas-Muruarte de Reta,31,228,6
+Tirapu,31,229,9
+Torralba del Río,31,230,3
+Torres del Río,31,231,0
+Tudela,31,232,5
+Tulebras,31,233,1
+Ucar,31,234,6
+Uharte-Arakil,31,123,4
+Ujué,31,235,9
+Ultzama,31,236,2
+Unciti,31,237,8
+Unzué,31,238,4
+Urdazubi/Urdax,31,239,7
+Urdiain,31,240,1
+Urraul Alto,31,241,8
+Urraul Bajo,31,242,3
+Urrotz,31,244,4
+Urroz-Villa,31,243,9
+Urzainqui/Urzainki,31,245,7
+Uterga,31,246,0
+Uztárroz/Uztarroze,31,247,6
+Valle de Yerri/Deierri,31,260,6
+Valtierra,31,249,5
+Viana,31,251,5
+Vidángoz/Bidankoze,31,252,0
+Villafranca,31,254,1
+Villamayor de Monjardín,31,255,4
+Villatuerta,31,257,3
+Villava/Atarrabia,31,258,9
+Yesa,31,261,3
+Zabalza/Zabaltza,31,262,8
+Ziordia,31,073,4
+Zizur Mayor/Zizur Nagusia,31,907,7
+Zubieta,31,263,4
+Zugarramurdi,31,264,9
+Zúñiga,31,265,2
+Allariz,32,001,3
+Amoeiro,32,002,8
+"Arnoia, A",32,003,4
+Avión,32,004,9
+Baltar,32,005,2
+Bande,32,006,5
+Baños de Molgas,32,007,1
+Barbadás,32,008,7
+"Barco de Valdeorras, O",32,009,0
+Beade,32,010,4
+Beariz,32,011,1
+"Blancos, Os",32,012,6
+Boborás,32,013,2
+"Bola, A",32,014,7
+"Bolo, O",32,015,0
+Calvos de Randín,32,016,3
+Carballeda de Avia,32,018,5
+Carballeda de Valdeorras,32,017,9
+"Carballiño, O",32,019,8
+Cartelle,32,020,2
+Castrelo de Miño,32,022,4
+Castrelo do Val,32,021,9
+Castro Caldelas,32,023,0
+Celanova,32,024,5
+Cenlle,32,025,8
+Chandrexa de Queixa,32,029,6
+Coles,32,026,1
+Cortegada,32,027,7
+Cualedro,32,028,3
+Entrimo,32,030,0
+Esgos,32,031,7
+Gomesende,32,033,8
+"Gudiña, A",32,034,3
+"Irixo, O",32,035,6
+Larouco,32,038,1
+Laza,32,039,4
+Leiro,32,040,8
+Lobeira,32,041,5
+Lobios,32,042,0
+Maceda,32,043,6
+Manzaneda,32,044,1
+Maside,32,045,4
+Melón,32,046,7
+"Merca, A",32,047,3
+"Mezquita, A",32,048,9
+Montederramo,32,049,2
+Monterrei,32,050,5
+Muíños,32,051,2
+Nogueira de Ramuín,32,052,7
+Oímbra,32,053,3
+Ourense,32,054,8
+Paderne de Allariz,32,055,1
+Padrenda,32,056,4
+Parada de Sil,32,057,0
+"Pereiro de Aguiar, O",32,058,6
+"Peroxa, A",32,059,9
+Petín,32,060,3
+Piñor,32,061,0
+"Pobra de Trives, A",32,063,1
+Pontedeva,32,064,6
+Porqueira,32,062,5
+Punxín,32,065,9
+Quintela de Leirado,32,066,2
+Rairiz de Veiga,32,067,8
+Ramirás,32,068,4
+Ribadavia,32,069,7
+Riós,32,071,8
+"Rúa, A",32,072,3
+Rubiá,32,073,9
+San Amaro,32,074,4
+San Cibrao das Viñas,32,075,7
+San Cristovo de Cea,32,076,0
+San Xoán de Río,32,070,1
+Sandiás,32,077,6
+Sarreaus,32,078,2
+Taboadela,32,079,5
+"Teixeira, A",32,080,9
+Toén,32,081,6
+Trasmiras,32,082,1
+"Veiga, A",32,083,7
+Verea,32,084,2
+Verín,32,085,5
+Viana do Bolo,32,086,8
+Vilamarín,32,087,4
+Vilamartín de Valdeorras,32,088,0
+Vilar de Barrio,32,089,3
+Vilar de Santos,32,090,7
+Vilardevós,32,091,4
+Vilariño de Conso,32,092,9
+Xinzo de Limia,32,032,2
+Xunqueira de Ambía,32,036,9
+Xunqueira de Espadanedo,32,037,5
+Allande,33,001,9
+Aller,33,002,4
+Amieva,33,003,0
+Avilés,33,004,5
+Belmonte de Miranda,33,005,8
+Bimenes,33,006,1
+Boal,33,007,7
+Cabrales,33,008,3
+Cabranes,33,009,6
+Candamo,33,010,0
+Cangas de Onís,33,012,2
+Cangas del Narcea,33,011,7
+Caravia,33,013,8
+Carreño,33,014,3
+Caso,33,015,6
+Castrillón,33,016,9
+Castropol,33,017,5
+Coaña,33,018,1
+Colunga,33,019,4
+Corvera de Asturias,33,020,8
+Cudillero,33,021,5
+Degaña,33,022,0
+"Franco, El",33,023,6
+Gijón,33,024,1
+Gozón,33,025,4
+Grado,33,026,7
+Grandas de Salime,33,027,3
+Ibias,33,028,9
+Illano,33,029,2
+Illas,33,030,6
+Langreo,33,031,3
+Laviana,33,032,8
+Lena,33,033,4
+Llanera,33,035,2
+Llanes,33,036,5
+Mieres,33,037,1
+Morcín,33,038,7
+Muros de Nalón,33,039,0
+Nava,33,040,4
+Navia,33,041,1
+Noreña,33,042,6
+Onís,33,043,2
+Oviedo,33,044,7
+Parres,33,045,0
+Peñamellera Alta,33,046,3
+Peñamellera Baja,33,047,9
+Pesoz,33,048,5
+Piloña,33,049,8
+Ponga,33,050,1
+Pravia,33,051,8
+Proaza,33,052,3
+Quirós,33,053,9
+"Regueras, Las",33,054,4
+Ribadedeva,33,055,7
+Ribadesella,33,056,0
+Ribera de Arriba,33,057,6
+Riosa,33,058,2
+Salas,33,059,5
+San Martín de Oscos,33,061,6
+San Martín del Rey Aurelio,33,060,9
+San Tirso de Abres,33,063,7
+Santa Eulalia de Oscos,33,062,1
+Santo Adriano,33,064,2
+Sariego,33,065,5
+Siero,33,066,8
+Sobrescobio,33,067,4
+Somiedo,33,068,0
+Soto del Barco,33,069,3
+Tapia de Casariego,33,070,7
+Taramundi,33,071,4
+Teverga,33,072,9
+Tineo,33,073,5
+Valdés,33,034,9
+Vegadeo,33,074,0
+Villanueva de Oscos,33,075,3
+Villaviciosa,33,076,6
+Villayón,33,077,2
+Yernes y Tameza,33,078,8
+Abarca de Campos,34,001,4
+Abia de las Torres,34,003,5
+Aguilar de Campoo,34,004,0
+Alar del Rey,34,005,3
+Alba de Cerrato,34,006,6
+Amayuelas de Arriba,34,009,1
+Ampudia,34,010,5
+Amusco,34,011,2
+Antigüedad,34,012,7
+Arconada,34,015,1
+Astudillo,34,017,0
+Autilla del Pino,34,018,6
+Autillo de Campos,34,019,9
+Ayuela,34,020,3
+Baltanás,34,022,5
+Baquerín de Campos,34,024,6
+Bárcena de Campos,34,025,9
+Barruelo de Santullán,34,027,8
+Báscones de Ojeda,34,028,4
+Becerril de Campos,34,029,7
+Belmonte de Campos,34,031,8
+Berzosilla,34,032,3
+Boada de Campos,34,033,9
+Boadilla de Rioseco,34,035,7
+Boadilla del Camino,34,034,4
+Brañosera,34,036,0
+Buenavista de Valdavia,34,037,6
+Bustillo de la Vega,34,038,2
+Bustillo del Páramo de Carrión,34,039,5
+Calahorra de Boedo,34,041,6
+Calzada de los Molinos,34,042,1
+Capillas,34,045,5
+Cardeñosa de Volpejera,34,046,8
+Carrión de los Condes,34,047,4
+Castil de Vela,34,048,0
+Castrejón de la Peña,34,049,3
+Castrillo de Don Juan,34,050,6
+Castrillo de Onielo,34,051,3
+Castrillo de Villavega,34,052,8
+Castromocho,34,053,4
+Cervatos de la Cueza,34,055,2
+Cervera de Pisuerga,34,056,5
+Cevico de la Torre,34,057,1
+Cevico Navero,34,058,7
+Cisneros,34,059,0
+Cobos de Cerrato,34,060,4
+Collazos de Boedo,34,061,1
+Congosto de Valdavia,34,062,6
+Cordovilla la Real,34,063,2
+Cubillas de Cerrato,34,066,3
+Dehesa de Montejo,34,067,9
+Dehesa de Romanos,34,068,5
+Dueñas,34,069,8
+Espinosa de Cerrato,34,070,2
+Espinosa de Villagonzalo,34,071,9
+Frechilla,34,072,4
+Fresno del Río,34,073,0
+Frómista,34,074,5
+Fuentes de Nava,34,076,1
+Fuentes de Valdepero,34,077,7
+Grijota,34,079,6
+Guardo,34,080,0
+Guaza de Campos,34,081,7
+Hérmedes de Cerrato,34,082,2
+Herrera de Pisuerga,34,083,8
+Herrera de Valdecañas,34,084,3
+Hontoria de Cerrato,34,086,9
+Hornillos de Cerrato,34,087,5
+Husillos,34,088,1
+Itero de la Vega,34,089,4
+Lagartos,34,091,5
+Lantadilla,34,092,0
+Ledigos,34,094,1
+Loma de Ucieza,34,903,6
+Lomas,34,096,7
+Magaz de Pisuerga,34,098,9
+Manquillos,34,099,2
+Mantinos,34,100,6
+Marcilla de Campos,34,101,3
+Mazariegos,34,102,8
+Mazuecos de Valdeginate,34,103,4
+Melgar de Yuso,34,104,9
+Meneses de Campos,34,106,5
+Micieces de Ojeda,34,107,1
+Monzón de Campos,34,108,7
+Moratinos,34,109,0
+Mudá,34,110,4
+Nogal de las Huertas,34,112,6
+Olea de Boedo,34,113,2
+Olmos de Ojeda,34,114,7
+Osornillo,34,116,3
+Osorno la Mayor,34,901,5
+Palencia,34,120,2
+Palenzuela,34,121,9
+Páramo de Boedo,34,122,4
+Paredes de Nava,34,123,0
+Payo de Ojeda,34,124,5
+Pedraza de Campos,34,125,8
+Pedrosa de la Vega,34,126,1
+Perales,34,127,7
+"Pernía, La",34,904,1
+Pino del Río,34,129,6
+Piña de Campos,34,130,0
+Población de Arroyo,34,131,7
+Población de Campos,34,132,2
+Población de Cerrato,34,133,8
+Polentinos,34,134,3
+Pomar de Valdivia,34,135,6
+Poza de la Vega,34,136,9
+Pozo de Urama,34,137,5
+Prádanos de Ojeda,34,139,4
+"Puebla de Valdavia, La",34,140,8
+Quintana del Puente,34,141,5
+Quintanilla de Onsoña,34,143,6
+Reinoso de Cerrato,34,146,7
+Renedo de la Vega,34,147,3
+Requena de Campos,34,149,2
+Respenda de la Peña,34,151,2
+Revenga de Campos,34,152,7
+Revilla de Collazos,34,154,8
+Ribas de Campos,34,155,1
+Riberos de la Cueza,34,156,4
+Saldaña,34,157,0
+Salinas de Pisuerga,34,158,6
+San Cebrián de Campos,34,159,9
+San Cebrián de Mudá,34,160,3
+San Cristóbal de Boedo,34,161,0
+San Mamés de Campos,34,163,1
+San Román de la Cuba,34,165,9
+Santa Cecilia del Alcor,34,167,8
+Santa Cruz de Boedo,34,168,4
+Santervás de la Vega,34,169,7
+Santibáñez de Ecla,34,170,1
+Santibáñez de la Peña,34,171,8
+Santoyo,34,174,4
+"Serna, La",34,175,7
+Soto de Cerrato,34,177,6
+Sotobañado y Priorato,34,176,0
+Tabanera de Cerrato,34,178,2
+Tabanera de Valdavia,34,179,5
+Támara de Campos,34,180,9
+Tariego de Cerrato,34,181,6
+Torquemada,34,182,1
+Torremormojón,34,184,2
+Triollo,34,185,5
+Valbuena de Pisuerga,34,186,8
+Valdeolmillos,34,189,3
+Valderrábano,34,190,7
+Valde-Ucieza,34,192,9
+Valle de Cerrato,34,196,6
+Valle del Retortillo,34,902,0
+Velilla del Río Carrión,34,199,1
+Venta de Baños,34,023,1
+Vertavillo,34,201,2
+"Vid de Ojeda, La",34,093,6
+Villabasta de Valdavia,34,202,7
+Villacidaler,34,204,8
+Villaconancio,34,205,1
+Villada,34,206,4
+Villaeles de Valdavia,34,208,6
+Villahán,34,210,3
+Villaherreros,34,211,0
+Villalaco,34,213,1
+Villalba de Guardo,34,214,6
+Villalcázar de Sirga,34,215,9
+Villalcón,34,216,2
+Villalobón,34,217,8
+Villaluenga de la Vega,34,218,4
+Villamartín de Campos,34,220,1
+Villamediana,34,221,8
+Villameriel,34,222,3
+Villamoronta,34,223,9
+Villamuera de la Cueza,34,224,4
+Villamuriel de Cerrato,34,225,7
+Villanueva del Rebollar,34,227,6
+Villanuño de Valdavia,34,228,2
+Villaprovedo,34,229,5
+Villarmentero de Campos,34,230,9
+Villarrabé,34,231,6
+Villarramiel,34,232,1
+Villasarracino,34,233,7
+Villasila de Valdavia,34,234,2
+Villaturde,34,236,8
+Villaumbrales,34,237,4
+Villaviudas,34,238,0
+Villerías de Campos,34,240,7
+Villodre,34,241,4
+Villodrigo,34,242,9
+Villoldo,34,243,5
+Villota del Páramo,34,245,3
+Villovieco,34,246,6
+Agaete,35,001,7
+Agüimes,35,002,2
+"Aldea de San Nicolás, La",35,020,6
+Antigua,35,003,8
+Arrecife,35,004,3
+Artenara,35,005,6
+Arucas,35,006,9
+Betancuria,35,007,5
+Firgas,35,008,1
+Gáldar,35,009,4
+Haría,35,010,8
+Ingenio,35,011,5
+Mogán,35,012,0
+Moya,35,013,6
+"Oliva, La",35,014,1
+Pájara,35,015,4
+"Palmas de Gran Canaria, Las",35,016,7
+Puerto del Rosario,35,017,3
+San Bartolomé,35,018,9
+San Bartolomé de Tirajana,35,019,2
+Santa Brígida,35,021,3
+Santa Lucía de Tirajana,35,022,8
+Santa María de Guía de Gran Canaria,35,023,4
+Teguise,35,024,9
+Tejeda,35,025,2
+Telde,35,026,5
+Teror,35,027,1
+Tías,35,028,7
+Tinajo,35,029,0
+Tuineje,35,030,4
+Valleseco,35,032,6
+Valsequillo de Gran Canaria,35,031,1
+Vega de San Mateo,35,033,2
+Yaiza,35,034,7
+Agolada,36,020,9
+Arbo,36,001,0
+Baiona,36,003,1
+Barro,36,002,5
+Bueu,36,004,6
+Caldas de Reis,36,005,9
+Cambados,36,006,2
+Campo Lameiro,36,007,8
+Cangas,36,008,4
+"Cañiza, A",36,009,7
+Catoira,36,010,1
+Cerdedo,36,011,8
+Cotobade,36,012,3
+Covelo,36,013,9
+Crecente,36,014,4
+Cuntis,36,015,7
+Dozón,36,016,0
+"Estrada, A",36,017,6
+Forcarei,36,018,2
+Fornelos de Montes,36,019,5
+Gondomar,36,021,6
+"Grove, O",36,022,1
+"Guarda, A",36,023,7
+"Illa de Arousa, A",36,901,1
+Lalín,36,024,2
+"Lama, A",36,025,5
+Marín,36,026,8
+Meaño,36,027,4
+Meis,36,028,0
+Moaña,36,029,3
+Mondariz,36,030,7
+Mondariz-Balneario,36,031,4
+Moraña,36,032,9
+Mos,36,033,5
+"Neves, As",36,034,0
+Nigrán,36,035,3
+Oia,36,036,6
+Pazos de Borbén,36,037,2
+Poio,36,041,2
+Ponte Caldelas,36,043,3
+Ponteareas,36,042,7
+Pontecesures,36,044,8
+Pontevedra,36,038,8
+"Porriño, O",36,039,1
+Portas,36,040,5
+Redondela,36,045,1
+Ribadumia,36,046,4
+Rodeiro,36,047,0
+"Rosal, O",36,048,6
+Salceda de Caselas,36,049,9
+Salvaterra de Miño,36,050,2
+Sanxenxo,36,051,9
+Silleda,36,052,4
+Soutomaior,36,053,0
+Tomiño,36,054,5
+Tui,36,055,8
+Valga,36,056,1
+Vigo,36,057,7
+Vila de Cruces,36,059,6
+Vilaboa,36,058,3
+Vilagarcía de Arousa,36,060,0
+Vilanova de Arousa,36,061,7
+Abusejo,37,001,6
+Agallas,37,002,1
+Ahigal de los Aceiteros,37,003,7
+Ahigal de Villarino,37,004,2
+"Alameda de Gardón, La",37,005,5
+"Alamedilla, La",37,006,8
+Alaraz,37,007,4
+Alba de Tormes,37,008,0
+Alba de Yeltes,37,009,3
+"Alberca, La",37,010,7
+"Alberguería de Argañán, La",37,011,4
+Alconada,37,012,9
+Aldea del Obispo,37,015,3
+Aldeacipreste,37,013,5
+Aldeadávila de la Ribera,37,014,0
+Aldealengua,37,016,6
+Aldeanueva de Figueroa,37,017,2
+Aldeanueva de la Sierra,37,018,8
+Aldearrodrigo,37,019,1
+Aldearrubia,37,020,5
+Aldeaseca de Alba,37,021,2
+Aldeaseca de la Frontera,37,022,7
+Aldeatejada,37,023,3
+Aldeavieja de Tormes,37,024,8
+Aldehuela de la Bóveda,37,025,1
+Aldehuela de Yeltes,37,026,4
+Almenara de Tormes,37,027,0
+Almendra,37,028,6
+Anaya de Alba,37,029,9
+Añover de Tormes,37,030,3
+Arabayona de Mógica,37,031,0
+Arapiles,37,032,5
+Arcediano,37,033,1
+"Arco, El",37,034,6
+Armenteros,37,035,9
+"Atalaya, La",37,037,8
+Babilafuente,37,038,4
+Bañobárez,37,039,7
+Barbadillo,37,040,1
+Barbalos,37,041,8
+Barceo,37,042,3
+Barruecopardo,37,044,4
+"Bastida, La",37,045,7
+Béjar,37,046,0
+Beleña,37,047,6
+Bermellar,37,049,5
+Berrocal de Huebra,37,050,8
+Berrocal de Salvatierra,37,051,5
+Boada,37,052,0
+"Bodón, El",37,054,1
+Bogajo,37,055,4
+"Bouza, La",37,056,7
+Bóveda del Río Almar,37,057,3
+Brincones,37,058,9
+Buenamadre,37,059,2
+Buenavista,37,060,6
+"Cabaco, El",37,061,3
+"Cabeza de Béjar, La",37,063,4
+Cabeza del Caballo,37,065,2
+Cabezabellosa de la Calzada,37,062,8
+Cabrerizos,37,067,1
+Cabrillas,37,068,7
+Calvarrasa de Abajo,37,069,0
+Calvarrasa de Arriba,37,070,4
+"Calzada de Béjar, La",37,071,1
+Calzada de Don Diego,37,072,6
+Calzada de Valdunciel,37,073,2
+Campillo de Azaba,37,074,7
+"Campo de Peñaranda, El",37,077,9
+Candelario,37,078,5
+Canillas de Abajo,37,079,8
+Cantagallo,37,080,2
+Cantalapiedra,37,081,9
+Cantalpino,37,082,4
+Cantaracillo,37,083,0
+Carbajosa de la Sagrada,37,085,8
+Carpio de Azaba,37,086,1
+Carrascal de Barregas,37,087,7
+Carrascal del Obispo,37,088,3
+Casafranca,37,089,6
+"Casas del Conde, Las",37,090,0
+Casillas de Flores,37,091,7
+Castellanos de Moriscos,37,092,2
+Castellanos de Villiquera,37,185,7
+Castillejo de Martín Viejo,37,096,9
+Castraz,37,097,5
+Cepeda,37,098,1
+Cereceda de la Sierra,37,099,4
+Cerezal de Peñahorcada,37,100,8
+Cerralbo,37,101,5
+"Cerro, El",37,102,0
+Cespedosa de Tormes,37,103,6
+Chagarcía Medianero,37,114,9
+Cilleros de la Bastida,37,104,1
+Cipérez,37,106,7
+Ciudad Rodrigo,37,107,3
+Coca de Alba,37,108,9
+Colmenar de Montemayor,37,109,2
+Cordovilla,37,110,6
+Cristóbal,37,112,8
+"Cubo de Don Sancho, El",37,113,4
+Dios le Guarde,37,115,2
+Doñinos de Ledesma,37,116,5
+Doñinos de Salamanca,37,117,1
+Ejeme,37,118,7
+"Encina, La",37,119,0
+Encina de San Silvestre,37,120,4
+Encinas de Abajo,37,121,1
+Encinas de Arriba,37,122,6
+Encinasola de los Comendadores,37,123,2
+Endrinal,37,124,7
+Escurial de la Sierra,37,125,0
+Espadaña,37,126,3
+Espeja,37,127,9
+Espino de la Orbada,37,128,5
+Florida de Liébana,37,129,8
+Forfoleda,37,130,2
+Frades de la Sierra,37,131,9
+"Fregeneda, La",37,132,4
+Fresnedoso,37,133,0
+Fresno Alhándiga,37,134,5
+"Fuente de San Esteban, La",37,135,8
+Fuenteguinaldo,37,136,1
+Fuenteliante,37,137,7
+Fuenterroble de Salvatierra,37,138,3
+Fuentes de Béjar,37,139,6
+Fuentes de Oñoro,37,140,0
+Gajates,37,141,7
+Galindo y Perahuy,37,142,2
+Galinduste,37,143,8
+Galisancho,37,144,3
+Gallegos de Argañán,37,145,6
+Gallegos de Solmirón,37,146,9
+Garcibuey,37,147,5
+Garcihernández,37,148,1
+Garcirrey,37,149,4
+Gejuelo del Barro,37,150,7
+Golpejas,37,151,4
+Gomecello,37,152,9
+Guadramiro,37,154,0
+Guijo de Ávila,37,155,3
+Guijuelo,37,156,6
+Herguijuela de Ciudad Rodrigo,37,157,2
+Herguijuela de la Sierra,37,158,8
+Herguijuela del Campo,37,159,1
+Hinojosa de Duero,37,160,5
+Horcajo de Montemayor,37,161,2
+Horcajo Medianero,37,162,7
+"Hoya, La",37,163,3
+Huerta,37,164,8
+Iruelos,37,165,1
+Ituero de Azaba,37,166,4
+Juzbado,37,167,0
+Lagunilla,37,168,6
+Larrodrigo,37,169,9
+Ledesma,37,170,3
+Ledrada,37,171,0
+Linares de Riofrío,37,172,5
+Lumbrales,37,173,1
+Machacón,37,175,9
+Macotera,37,174,6
+Madroñal,37,176,2
+"Maíllo, El",37,177,8
+Malpartida,37,178,4
+Mancera de Abajo,37,179,7
+"Manzano, El",37,180,1
+Martiago,37,181,8
+Martín de Yeltes,37,183,9
+Martinamor,37,182,3
+Masueco,37,184,4
+"Mata de Ledesma, La",37,186,0
+Matilla de los Caños del Río,37,187,6
+"Maya, La",37,188,2
+Membribe de la Sierra,37,189,5
+Mieza,37,190,9
+"Milano, El",37,191,6
+Miranda de Azán,37,192,1
+Miranda del Castañar,37,193,7
+Mogarraz,37,194,2
+Molinillo,37,195,5
+Monforte de la Sierra,37,196,8
+Monleón,37,197,4
+Monleras,37,198,0
+Monsagro,37,199,3
+Montejo,37,200,7
+Montemayor del Río,37,201,4
+Monterrubio de Armuña,37,202,9
+Monterrubio de la Sierra,37,203,5
+Morasverdes,37,204,0
+Morille,37,205,3
+Moríñigo,37,206,6
+Moriscos,37,207,2
+Moronta,37,208,8
+Mozárbez,37,209,1
+Narros de Matalayegua,37,211,2
+Nava de Béjar,37,213,3
+Nava de Francia,37,214,8
+Nava de Sotrobal,37,215,1
+Navacarros,37,212,7
+Navales,37,216,4
+Navalmoral de Béjar,37,217,0
+Navamorales,37,218,6
+Navarredonda de la Rinconada,37,219,9
+Navasfrías,37,221,0
+Negrilla de Palencia,37,222,5
+Olmedo de Camaces,37,223,1
+"Orbada, La",37,224,6
+Pajares de la Laguna,37,225,9
+Palacios del Arzobispo,37,226,2
+Palaciosrubios,37,228,4
+Palencia de Negrilla,37,229,7
+Parada de Arriba,37,230,1
+Parada de Rubiales,37,231,8
+Paradinas de San Juan,37,232,3
+Pastores,37,233,9
+"Payo, El",37,234,4
+Pedraza de Alba,37,235,7
+Pedrosillo de Alba,37,236,0
+Pedrosillo de los Aires,37,237,6
+Pedrosillo el Ralo,37,238,2
+"Pedroso de la Armuña, El",37,239,5
+Pelabravo,37,240,9
+Pelarrodríguez,37,241,6
+Pelayos,37,242,1
+"Peña, La",37,243,7
+Peñacaballera,37,244,2
+Peñaparda,37,245,5
+Peñaranda de Bracamonte,37,246,8
+Peñarandilla,37,247,4
+Peralejos de Abajo,37,248,0
+Peralejos de Arriba,37,249,3
+Pereña de la Ribera,37,250,6
+Peromingo,37,251,3
+Pinedas,37,252,8
+"Pino de Tormes, El",37,253,4
+Pitiegua,37,254,9
+Pizarral,37,255,2
+Poveda de las Cintas,37,256,5
+Pozos de Hinojo,37,257,1
+Puebla de Azaba,37,258,7
+Puebla de San Medel,37,259,0
+Puebla de Yeltes,37,260,4
+Puente del Congosto,37,261,1
+Puertas,37,262,6
+Puerto de Béjar,37,263,2
+Puerto Seguro,37,264,7
+Rágama,37,265,0
+"Redonda, La",37,266,3
+Retortillo,37,267,9
+"Rinconada de la Sierra, La",37,268,5
+Robleda,37,269,8
+Robliza de Cojos,37,270,2
+Rollán,37,271,9
+Saelices el Chico,37,272,4
+"Sagrada, La",37,273,0
+"Sahugo, El",37,303,4
+Salamanca,37,274,5
+Saldeana,37,275,8
+Salmoral,37,276,1
+Salvatierra de Tormes,37,277,7
+San Cristóbal de la Cuesta,37,278,3
+San Esteban de la Sierra,37,284,3
+San Felices de los Gallegos,37,285,6
+San Martín del Castañar,37,286,9
+San Miguel de Valero,37,287,5
+San Miguel del Robledo,37,036,2
+San Morales,37,288,1
+San Muñoz,37,289,4
+San Pedro de Rozados,37,291,5
+San Pedro del Valle,37,290,8
+San Pelayo de Guareña,37,292,0
+Sanchón de la Ribera,37,280,0
+Sanchón de la Sagrada,37,281,7
+Sanchotello,37,282,2
+Sancti-Spíritus,37,279,6
+Sando,37,283,8
+Santa María de Sando,37,293,6
+Santa Marta de Tormes,37,294,1
+Santiago de la Puebla,37,296,7
+Santibáñez de Béjar,37,297,3
+Santibáñez de la Sierra,37,298,9
+Santiz,37,299,2
+"Santos, Los",37,300,6
+Sardón de los Frailes,37,301,3
+Saucelle,37,302,8
+Sepulcro-Hilario,37,304,9
+Sequeros,37,305,2
+Serradilla del Arroyo,37,306,5
+Serradilla del Llano,37,307,1
+"Sierpe, La",37,309,0
+Sieteiglesias de Tormes,37,310,4
+Sobradillo,37,311,1
+Sorihuela,37,312,6
+Sotoserrano,37,313,2
+Tabera de Abajo,37,314,7
+"Tala, La",37,315,0
+Tamames,37,316,3
+Tarazona de Guareña,37,317,9
+Tardáguila,37,318,5
+"Tejado, El",37,319,8
+Tejeda y Segoyuela,37,320,2
+Tenebrón,37,321,9
+Terradillos,37,322,4
+Topas,37,323,0
+Tordillos,37,324,5
+"Tornadizo, El",37,325,8
+Torresmenudas,37,327,7
+Trabanca,37,328,3
+Tremedal de Tormes,37,329,6
+Valdecarros,37,330,0
+Valdefuentes de Sangusín,37,331,7
+Valdehijaderos,37,332,2
+Valdelacasa,37,333,8
+Valdelageve,37,334,3
+Valdelosa,37,335,6
+Valdemierque,37,336,9
+Valderrodrigo,37,337,5
+Valdunciel,37,338,1
+Valero,37,339,4
+Vallejera de Riofrío,37,343,6
+Valsalabroso,37,340,8
+Valverde de Valdelacasa,37,341,5
+Valverdón,37,342,0
+Vecinos,37,344,1
+Vega de Tirados,37,345,4
+"Veguillas, Las",37,346,7
+"Vellés, La",37,347,3
+Ventosa del Río Almar,37,348,9
+"Vídola, La",37,349,2
+Villaflores,37,351,2
+Villagonzalo de Tormes,37,352,7
+Villalba de los Llanos,37,353,3
+Villamayor,37,354,8
+Villanueva del Conde,37,355,1
+Villar de Argañán,37,356,4
+Villar de Ciervo,37,357,0
+Villar de Gallimazo,37,358,6
+Villar de la Yegua,37,359,9
+Villar de Peralonso,37,360,3
+Villar de Samaniego,37,361,0
+Villares de la Reina,37,362,5
+Villares de Yeltes,37,363,1
+Villarino de los Aires,37,364,6
+Villarmayor,37,365,9
+Villarmuerto,37,366,2
+Villasbuenas,37,367,8
+Villasdardo,37,368,4
+Villaseco de los Gamitos,37,369,7
+Villaseco de los Reyes,37,370,1
+Villasrubias,37,371,8
+Villaverde de Guareña,37,372,3
+Villavieja de Yeltes,37,373,9
+Villoria,37,374,4
+Villoruela,37,375,7
+Vilvestre,37,350,5
+Vitigudino,37,376,0
+Yecla de Yeltes,37,377,6
+Zamarra,37,378,2
+Zamayón,37,379,5
+Zarapicos,37,380,9
+"Zarza de Pumareda, La",37,381,6
+Zorita de la Frontera,37,382,1
+Adeje,38,001,2
+Agulo,38,002,7
+Alajeró,38,003,3
+Arafo,38,004,8
+Arico,38,005,1
+Arona,38,006,4
+Barlovento,38,007,0
+Breña Alta,38,008,6
+Breña Baja,38,009,9
+Buenavista del Norte,38,010,3
+Candelaria,38,011,0
+Fasnia,38,012,5
+Frontera,38,013,1
+Fuencaliente de la Palma,38,014,6
+Garachico,38,015,9
+Garafía,38,016,2
+Granadilla de Abona,38,017,8
+"Guancha, La",38,018,4
+Guía de Isora,38,019,7
+Güímar,38,020,1
+Hermigua,38,021,8
+Icod de los Vinos,38,022,3
+"Llanos de Aridane, Los",38,024,4
+"Matanza de Acentejo, La",38,025,7
+"Orotava, La",38,026,0
+"Paso, El",38,027,6
+"Pinar de El Hierro, El",38,901,3
+Puerto de la Cruz,38,028,2
+Puntagorda,38,029,5
+Puntallana,38,030,9
+"Realejos, Los",38,031,6
+"Rosario, El",38,032,1
+San Andrés y Sauces,38,033,7
+San Cristóbal de La Laguna,38,023,9
+San Juan de la Rambla,38,034,2
+San Miguel de Abona,38,035,5
+San Sebastián de la Gomera,38,036,8
+Santa Cruz de la Palma,38,037,4
+Santa Cruz de Tenerife,38,038,0
+Santa Úrsula,38,039,3
+Santiago del Teide,38,040,7
+"Sauzal, El",38,041,4
+"Silos, Los",38,042,9
+Tacoronte,38,043,5
+"Tanque, El",38,044,0
+Tazacorte,38,045,3
+Tegueste,38,046,6
+Tijarafe,38,047,2
+Valle Gran Rey,38,049,1
+Vallehermoso,38,050,4
+Valverde,38,048,8
+"Victoria de Acentejo, La",38,051,1
+Vilaflor,38,052,6
+Villa de Mazo,38,053,2
+Alfoz de Lloredo,39,001,5
+Ampuero,39,002,0
+Anievas,39,003,6
+Arenas de Iguña,39,004,1
+Argoños,39,005,4
+Arnuero,39,006,7
+Arredondo,39,007,3
+"Astillero, El",39,008,9
+Bárcena de Cicero,39,009,2
+Bárcena de Pie de Concha,39,010,6
+Bareyo,39,011,3
+Cabezón de la Sal,39,012,8
+Cabezón de Liébana,39,013,4
+Cabuérniga,39,014,9
+Camaleño,39,015,2
+Camargo,39,016,5
+Campoo de Enmedio,39,027,9
+Campoo de Yuso,39,017,1
+Cartes,39,018,7
+Castañeda,39,019,0
+Castro-Urdiales,39,020,4
+Cieza,39,021,1
+Cillorigo de Liébana,39,022,6
+Colindres,39,023,2
+Comillas,39,024,7
+"Corrales de Buelna, Los",39,025,0
+Corvera de Toranzo,39,026,3
+Entrambasaguas,39,028,5
+Escalante,39,029,8
+Guriezo,39,030,2
+Hazas de Cesto,39,031,9
+Hermandad de Campoo de Suso,39,032,4
+Herrerías,39,033,0
+Lamasón,39,034,5
+Laredo,39,035,8
+Liendo,39,036,1
+Liérganes,39,037,7
+Limpias,39,038,3
+Luena,39,039,6
+Marina de Cudeyo,39,040,0
+Mazcuerras,39,041,7
+Medio Cudeyo,39,042,2
+Meruelo,39,043,8
+Miengo,39,044,3
+Miera,39,045,6
+Molledo,39,046,9
+Noja,39,047,5
+Penagos,39,048,1
+Peñarrubia,39,049,4
+Pesaguero,39,050,7
+Pesquera,39,051,4
+Piélagos,39,052,9
+Polaciones,39,053,5
+Polanco,39,054,0
+Potes,39,055,3
+Puente Viesgo,39,056,6
+Ramales de la Victoria,39,057,2
+Rasines,39,058,8
+Reinosa,39,059,1
+Reocín,39,060,5
+Ribamontán al Mar,39,061,2
+Ribamontán al Monte,39,062,7
+Rionansa,39,063,3
+Riotuerto,39,064,8
+"Rozas de Valdearroyo, Las",39,065,1
+Ruente,39,066,4
+Ruesga,39,067,0
+Ruiloba,39,068,6
+San Felices de Buelna,39,069,9
+San Miguel de Aguayo,39,070,3
+San Pedro del Romeral,39,071,0
+San Roque de Riomiera,39,072,5
+San Vicente de la Barquera,39,080,1
+Santa Cruz de Bezana,39,073,1
+Santa María de Cayón,39,074,6
+Santander,39,075,9
+Santillana del Mar,39,076,2
+Santiurde de Reinosa,39,077,8
+Santiurde de Toranzo,39,078,4
+Santoña,39,079,7
+Saro,39,081,8
+Selaya,39,082,3
+Soba,39,083,9
+Solórzano,39,084,4
+Suances,39,085,7
+"Tojos, Los",39,086,0
+Torrelavega,39,087,6
+Tresviso,39,088,2
+Tudanca,39,089,5
+Udías,39,090,9
+Val de San Vicente,39,095,5
+Valdáliga,39,091,6
+Valdeolea,39,092,1
+Valdeprado del Río,39,093,7
+Valderredible,39,094,2
+Valle de Villaverde,39,101,4
+Vega de Liébana,39,096,8
+Vega de Pas,39,097,4
+Villacarriedo,39,098,0
+Villaescusa,39,099,3
+Villafufre,39,100,7
+Voto,39,102,9
+Abades,40,001,9
+Adrada de Pirón,40,002,4
+Adrados,40,003,0
+Aguilafuente,40,004,5
+Alconada de Maderuelo,40,005,8
+Aldea Real,40,012,2
+Aldealcorvo,40,006,1
+Aldealengua de Pedraza,40,007,7
+Aldealengua de Santa María,40,008,3
+Aldeanueva de la Serrezuela,40,009,6
+Aldeanueva del Codonal,40,010,0
+Aldeasoña,40,013,8
+Aldehorno,40,014,3
+Aldehuela del Codonal,40,015,6
+Aldeonte,40,016,9
+Anaya,40,017,5
+Añe,40,018,1
+Arahuetes,40,019,4
+Arcones,40,020,8
+Arevalillo de Cega,40,021,5
+Armuña,40,022,0
+Ayllón,40,024,1
+Barbolla,40,025,4
+Basardilla,40,026,7
+Bercial,40,028,9
+Bercimuel,40,029,2
+Bernardos,40,030,6
+Bernuy de Porreros,40,031,3
+Boceguillas,40,032,8
+Brieva,40,033,4
+Caballar,40,034,9
+Cabañas de Polendos,40,035,2
+Cabezuela,40,036,5
+Calabazas de Fuentidueña,40,037,1
+Campo de San Pedro,40,039,0
+Cantalejo,40,040,4
+Cantimpalos,40,041,1
+Carbonero el Mayor,40,043,2
+Carrascal del Río,40,044,7
+Casla,40,045,0
+Castillejo de Mesleón,40,046,3
+Castro de Fuentidueña,40,047,9
+Castrojimeno,40,048,5
+Castroserna de Abajo,40,049,8
+Castroserracín,40,051,8
+Cedillo de la Torre,40,052,3
+Cerezo de Abajo,40,053,9
+Cerezo de Arriba,40,054,4
+Chañe,40,065,5
+Cilleruelo de San Mamés,40,055,7
+Cobos de Fuentidueña,40,056,0
+Coca,40,057,6
+Codorniz,40,058,2
+Collado Hermoso,40,059,5
+Condado de Castilnovo,40,060,9
+Corral de Ayllón,40,061,6
+Cozuelos de Fuentidueña,40,902,5
+Cubillo,40,062,1
+Cuéllar,40,063,7
+Cuevas de Provanco,40,905,9
+Domingo García,40,068,0
+Donhierro,40,069,3
+Duruelo,40,070,7
+Encinas,40,071,4
+Encinillas,40,072,9
+Escalona del Prado,40,073,5
+Escarabajosa de Cabezas,40,074,0
+Escobar de Polendos,40,075,3
+"Espinar, El",40,076,6
+Espirdo,40,077,2
+Fresneda de Cuéllar,40,078,8
+Fresno de Cantespino,40,079,1
+Fresno de la Fuente,40,080,5
+Frumales,40,081,2
+Fuente de Santa Cruz,40,082,7
+Fuente el Olmo de Fuentidueña,40,083,3
+Fuente el Olmo de Íscar,40,084,8
+Fuentepelayo,40,086,4
+Fuentepiñel,40,087,0
+Fuenterrebollo,40,088,6
+Fuentesaúco de Fuentidueña,40,089,9
+Fuentesoto,40,091,0
+Fuentidueña,40,092,5
+Gallegos,40,093,1
+Garcillán,40,094,6
+Gomezserracín,40,095,9
+Grajera,40,097,8
+Honrubia de la Cuesta,40,099,7
+Hontalbilla,40,100,1
+Hontanares de Eresma,40,101,8
+"Huertos, Los",40,103,9
+Ituero y Lama,40,104,4
+Juarros de Riomoros,40,105,7
+Juarros de Voltoya,40,106,0
+Labajos,40,107,6
+Laguna de Contreras,40,108,2
+Languilla,40,109,5
+Lastras de Cuéllar,40,110,9
+Lastras del Pozo,40,111,6
+"Lastrilla, La",40,112,1
+"Losa, La",40,113,7
+Maderuelo,40,115,5
+Marazoleja,40,903,1
+Marazuela,40,118,0
+Martín Miguel,40,119,3
+Martín Muñoz de la Dehesa,40,120,7
+Martín Muñoz de las Posadas,40,121,4
+Marugán,40,122,9
+Mata de Cuéllar,40,124,0
+Matabuena,40,123,5
+"Matilla, La",40,125,3
+Melque de Cercos,40,126,6
+Membibre de la Hoz,40,127,2
+Migueláñez,40,128,8
+Montejo de Arévalo,40,129,1
+Montejo de la Vega de la Serrezuela,40,130,5
+Monterrubio,40,131,2
+Moral de Hornuez,40,132,7
+Mozoncillo,40,134,8
+Muñopedro,40,135,1
+Muñoveros,40,136,4
+Nava de la Asunción,40,138,6
+Navafría,40,139,9
+Navalilla,40,140,3
+Navalmanzano,40,141,0
+Navares de Ayuso,40,142,5
+Navares de Enmedio,40,143,1
+Navares de las Cuevas,40,144,6
+Navas de Oro,40,145,9
+Navas de Riofrío,40,904,6
+Navas de San Antonio,40,146,2
+Nieva,40,148,4
+Olombrada,40,149,7
+Orejana,40,150,0
+Ortigosa de Pestaño,40,151,7
+Ortigosa del Monte,40,901,0
+Otero de Herreros,40,152,2
+Pajarejos,40,154,3
+Palazuelos de Eresma,40,155,6
+Pedraza,40,156,9
+Pelayos del Arroyo,40,157,5
+Perosillo,40,158,1
+Pinarejos,40,159,4
+Pinarnegrillo,40,160,8
+Pradales,40,161,5
+Prádena,40,162,0
+Puebla de Pedraza,40,163,6
+Rapariegos,40,164,1
+Real Sitio de San Ildefonso,40,181,1
+Rebollo,40,165,4
+Remondo,40,166,7
+Riaguas de San Bartolomé,40,168,9
+Riaza,40,170,6
+Ribota,40,171,3
+Riofrío de Riaza,40,172,8
+Roda de Eresma,40,173,4
+Sacramenia,40,174,9
+Samboal,40,176,5
+San Cristóbal de Cuéllar,40,177,1
+San Cristóbal de la Vega,40,178,7
+San Cristóbal de Segovia,40,906,2
+San Martín y Mudrián,40,182,6
+San Miguel de Bernuy,40,183,2
+San Pedro de Gaíllos,40,184,7
+Sanchonuño,40,179,0
+Sangarcía,40,180,4
+Santa María la Real de Nieva,40,185,0
+Santa Marta del Cerro,40,186,3
+Santiuste de Pedraza,40,188,5
+Santiuste de San Juan Bautista,40,189,8
+Santo Domingo de Pirón,40,190,2
+Santo Tomé del Puerto,40,191,9
+Sauquillo de Cabezas,40,192,4
+Sebúlcor,40,193,0
+Segovia,40,194,5
+Sepúlveda,40,195,8
+Sequera de Fresno,40,196,1
+Sotillo,40,198,3
+Sotosalbos,40,199,6
+Tabanera la Luenga,40,200,0
+Tolocirio,40,201,7
+Torre Val de San Pedro,40,206,9
+Torreadrada,40,202,2
+Torrecaballeros,40,203,8
+Torrecilla del Pinar,40,204,3
+Torreiglesias,40,205,6
+Trescasas,40,207,5
+Turégano,40,208,1
+Urueñas,40,210,8
+Valdeprados,40,211,5
+Valdevacas de Montejo,40,212,0
+Valdevacas y Guijar,40,213,6
+Valle de Tabladillo,40,218,9
+Vallelado,40,219,2
+Valleruela de Pedraza,40,220,6
+Valleruela de Sepúlveda,40,221,3
+Valseca,40,214,1
+Valtiendas,40,215,4
+Valverde del Majano,40,216,7
+Veganzones,40,222,8
+Vegas de Matute,40,223,4
+Ventosilla y Tejadilla,40,224,9
+Villacastín,40,225,2
+Villaverde de Íscar,40,228,7
+Villaverde de Montejo,40,229,0
+Villeguillo,40,230,4
+Yanguas de Eresma,40,231,1
+Zarzuela del Monte,40,233,2
+Zarzuela del Pinar,40,234,7
+Aguadulce,41,001,6
+Alanís,41,002,1
+Albaida del Aljarafe,41,003,7
+Alcalá de Guadaíra,41,004,2
+Alcalá del Río,41,005,5
+Alcolea del Río,41,006,8
+"Algaba, La",41,007,4
+Algámitas,41,008,0
+Almadén de la Plata,41,009,3
+Almensilla,41,010,7
+Arahal,41,011,4
+Aznalcázar,41,012,9
+Aznalcóllar,41,013,5
+Badolatosa,41,014,0
+Benacazón,41,015,3
+Bollullos de la Mitación,41,016,6
+Bormujos,41,017,2
+Brenes,41,018,8
+Burguillos,41,019,1
+"Cabezas de San Juan, Las",41,020,5
+Camas,41,021,2
+"Campana, La",41,022,7
+Cantillana,41,023,3
+Cañada Rosal,41,901,7
+Carmona,41,024,8
+Carrión de los Céspedes,41,025,1
+Casariche,41,026,4
+Castilblanco de los Arroyos,41,027,0
+Castilleja de Guzmán,41,028,6
+Castilleja de la Cuesta,41,029,9
+Castilleja del Campo,41,030,3
+"Castillo de las Guardas, El",41,031,0
+Cazalla de la Sierra,41,032,5
+Constantina,41,033,1
+Coria del Río,41,034,6
+Coripe,41,035,9
+"Coronil, El",41,036,2
+"Corrales, Los",41,037,8
+"Cuervo de Sevilla, El",41,903,8
+Dos Hermanas,41,038,4
+Écija,41,039,7
+Espartinas,41,040,1
+Estepa,41,041,8
+Fuentes de Andalucía,41,042,3
+"Garrobo, El",41,043,9
+Gelves,41,044,4
+Gerena,41,045,7
+Gilena,41,046,0
+Gines,41,047,6
+Guadalcanal,41,048,2
+Guillena,41,049,5
+Herrera,41,050,8
+Huévar del Aljarafe,41,051,5
+Isla Mayor,41,902,2
+"Lantejuela, La",41,052,0
+Lebrija,41,053,6
+Lora de Estepa,41,054,1
+Lora del Río,41,055,4
+"Luisiana, La",41,056,7
+"Madroño, El",41,057,3
+Mairena del Alcor,41,058,9
+Mairena del Aljarafe,41,059,2
+Marchena,41,060,6
+Marinaleda,41,061,3
+Martín de la Jara,41,062,8
+"Molares, Los",41,063,4
+Montellano,41,064,9
+Morón de la Frontera,41,065,2
+"Navas de la Concepción, Las",41,066,5
+Olivares,41,067,1
+Osuna,41,068,7
+"Palacios y Villafranca, Los",41,069,0
+Palomares del Río,41,070,4
+Paradas,41,071,1
+Pedrera,41,072,6
+"Pedroso, El",41,073,2
+Peñaflor,41,074,7
+Pilas,41,075,0
+Pruna,41,076,3
+"Puebla de Cazalla, La",41,077,9
+"Puebla de los Infantes, La",41,078,5
+"Puebla del Río, La",41,079,8
+"Real de la Jara, El",41,080,2
+"Rinconada, La",41,081,9
+"Roda de Andalucía, La",41,082,4
+"Ronquillo, El",41,083,0
+"Rubio, El",41,084,5
+Salteras,41,085,8
+San Juan de Aznalfarache,41,086,1
+San Nicolás del Puerto,41,088,3
+Sanlúcar la Mayor,41,087,7
+Santiponce,41,089,6
+"Saucejo, El",41,090,0
+Sevilla,41,091,7
+Tocina,41,092,2
+Tomares,41,093,8
+Umbrete,41,094,3
+Utrera,41,095,6
+Valencina de la Concepción,41,096,9
+Villamanrique de la Condesa,41,097,5
+Villanueva de San Juan,41,100,8
+Villanueva del Ariscal,41,098,1
+Villanueva del Río y Minas,41,099,4
+Villaverde del Río,41,101,5
+"Viso del Alcor, El",41,102,0
+Abejar,42,001,1
+Adradas,42,003,2
+Ágreda,42,004,7
+Alconaba,42,006,3
+Alcubilla de Avellaneda,42,007,9
+Alcubilla de las Peñas,42,008,5
+Aldealafuente,42,009,8
+Aldealices,42,010,2
+Aldealpozo,42,011,9
+Aldealseñor,42,012,4
+Aldehuela de Periáñez,42,013,0
+"Aldehuelas, Las",42,014,5
+Alentisque,42,015,8
+Aliud,42,016,1
+Almajano,42,017,7
+Almaluez,42,018,3
+Almarza,42,019,6
+Almazán,42,020,0
+Almazul,42,021,7
+Almenar de Soria,42,022,2
+Alpanseque,42,023,8
+Arancón,42,024,3
+Arcos de Jalón,42,025,6
+Arenillas,42,026,9
+Arévalo de la Sierra,42,027,5
+Ausejo de la Sierra,42,028,1
+Baraona,42,029,4
+Barca,42,030,8
+Barcones,42,031,5
+Bayubas de Abajo,42,032,0
+Bayubas de Arriba,42,033,6
+Beratón,42,034,1
+Berlanga de Duero,42,035,4
+Blacos,42,036,7
+Bliecos,42,037,3
+Borjabad,42,038,9
+Borobia,42,039,2
+Buberos,42,041,3
+Buitrago,42,042,8
+Burgo de Osma-Ciudad de Osma,42,043,4
+Cabrejas del Campo,42,044,9
+Cabrejas del Pinar,42,045,2
+Calatañazor,42,046,5
+Caltojar,42,048,7
+Candilichera,42,049,0
+Cañamaque,42,050,3
+Carabantes,42,051,0
+Caracena,42,052,5
+Carrascosa de Abajo,42,053,1
+Carrascosa de la Sierra,42,054,6
+Casarejos,42,055,9
+Castilfrío de la Sierra,42,056,2
+Castillejo de Robledo,42,058,4
+Castilruiz,42,057,8
+Centenera de Andaluz,42,059,7
+Cerbón,42,060,1
+Cidones,42,061,8
+Cigudosa,42,062,3
+Cihuela,42,063,9
+Ciria,42,064,4
+Cirujales del Río,42,065,7
+Coscurita,42,068,2
+Covaleda,42,069,5
+Cubilla,42,070,9
+Cubo de la Solana,42,071,6
+Cueva de Ágreda,42,073,7
+Dévanos,42,075,5
+Deza,42,076,8
+Duruelo de la Sierra,42,078,0
+Escobosa de Almazán,42,079,3
+Espeja de San Marcelino,42,080,7
+Espejón,42,081,4
+Estepa de San Juan,42,082,9
+Frechilla de Almazán,42,083,5
+Fresno de Caracena,42,084,0
+Fuentearmegil,42,085,3
+Fuentecambrón,42,086,6
+Fuentecantos,42,087,2
+Fuentelmonge,42,088,8
+Fuentelsaz de Soria,42,089,1
+Fuentepinilla,42,090,5
+Fuentes de Magaña,42,092,7
+Fuentestrún,42,093,3
+Garray,42,094,8
+Golmayo,42,095,1
+Gómara,42,096,4
+Gormaz,42,097,0
+Herrera de Soria,42,098,6
+Hinojosa del Campo,42,100,3
+Langa de Duero,42,103,1
+Liceras,42,105,9
+"Losilla, La",42,106,2
+Magaña,42,107,8
+Maján,42,108,4
+Matalebreras,42,110,1
+Matamala de Almazán,42,111,8
+Medinaceli,42,113,9
+Miño de Medinaceli,42,115,7
+Miño de San Esteban,42,116,0
+Molinos de Duero,42,117,6
+Momblona,42,118,2
+Monteagudo de las Vicarías,42,119,5
+Montejo de Tiermes,42,120,9
+Montenegro de Cameros,42,121,6
+Morón de Almazán,42,123,7
+Muriel de la Fuente,42,124,2
+Muriel Viejo,42,125,5
+Nafría de Ucero,42,127,4
+Narros,42,128,0
+Navaleno,42,129,3
+Nepas,42,130,7
+Nolay,42,131,4
+Noviercas,42,132,9
+Ólvega,42,134,0
+Oncala,42,135,3
+Pinilla del Campo,42,139,1
+Portillo de Soria,42,140,5
+"Póveda de Soria, La",42,141,2
+Pozalmuro,42,142,7
+Quintana Redonda,42,144,8
+Quintanas de Gormaz,42,145,1
+Quiñonería,42,148,6
+"Rábanos, Los",42,149,9
+Rebollar,42,151,9
+Recuerda,42,152,4
+Rello,42,153,0
+Renieblas,42,154,5
+Retortillo de Soria,42,155,8
+Reznos,42,156,1
+"Riba de Escalote, La",42,157,7
+Rioseco de Soria,42,158,3
+Rollamienta,42,159,6
+"Royo, El",42,160,0
+Salduero,42,161,7
+San Esteban de Gormaz,42,162,2
+San Felices,42,163,8
+San Leonardo de Yagüe,42,164,3
+San Pedro Manrique,42,165,6
+Santa Cruz de Yanguas,42,166,9
+Santa María de Huerta,42,167,5
+Santa María de las Hoyas,42,168,1
+Serón de Nágima,42,171,5
+Soliedra,42,172,0
+Soria,42,173,6
+Sotillo del Rincón,42,174,1
+Suellacabras,42,175,4
+Tajahuerce,42,176,7
+Tajueco,42,177,3
+Talveila,42,178,9
+Tardelcuende,42,181,3
+Taroda,42,182,8
+Tejado,42,183,4
+Torlengua,42,184,9
+Torreblacos,42,185,2
+Torrubia de Soria,42,187,1
+Trévago,42,188,7
+Ucero,42,189,0
+Vadillo,42,190,4
+Valdeavellano de Tera,42,191,1
+Valdegeña,42,192,6
+Valdelagua del Cerro,42,193,2
+Valdemaluque,42,194,7
+Valdenebro,42,195,0
+Valdeprado,42,196,3
+Valderrodilla,42,197,9
+Valtajeros,42,198,5
+Velamazán,42,200,2
+Velilla de la Sierra,42,201,9
+Velilla de los Ajos,42,202,4
+Viana de Duero,42,204,5
+Villaciervos,42,205,8
+Villanueva de Gormaz,42,206,1
+Villar del Ala,42,207,7
+Villar del Campo,42,208,3
+Villar del Río,42,209,6
+"Villares de Soria, Los",42,211,7
+Villasayas,42,212,2
+Villaseca de Arciel,42,213,8
+Vinuesa,42,215,6
+Vizmanos,42,216,9
+Vozmediano,42,217,5
+Yanguas,42,218,1
+Yelo,42,219,4
+Aiguamúrcia,43,001,7
+Albinyana,43,002,2
+"Albiol, L'",43,003,8
+Alcanar,43,004,3
+Alcover,43,005,6
+"Aldea, L'",43,904,4
+Aldover,43,006,9
+"Aleixar, L'",43,007,5
+Alfara de Carles,43,008,1
+Alforja,43,009,4
+Alió,43,010,8
+Almoster,43,011,5
+Altafulla,43,012,0
+"Ametlla de Mar, L'",43,013,6
+"Ampolla, L'",43,906,0
+Amposta,43,014,1
+"Arboç, L'",43,016,7
+Arbolí,43,015,4
+"Argentera, L'",43,017,3
+Arnes,43,018,9
+Ascó,43,019,2
+Banyeres del Penedès,43,020,6
+Barberà de la Conca,43,021,3
+Batea,43,022,8
+Bellmunt del Priorat,43,023,4
+Bellvei,43,024,9
+Benifallet,43,025,2
+Benissanet,43,026,5
+"Bisbal de Falset, La",43,027,1
+"Bisbal del Penedès, La",43,028,7
+Blancafort,43,029,0
+Bonastre,43,030,4
+"Borges del Camp, Les",43,031,1
+Bot,43,032,6
+Botarell,43,033,2
+Bràfim,43,034,7
+Cabacés,43,035,0
+Cabra del Camp,43,036,3
+Calafell,43,037,9
+Camarles,43,903,9
+Cambrils,43,038,5
+"Canonja, La",43,907,6
+Capafonts,43,039,8
+Capçanes,43,040,2
+Caseres,43,041,9
+Castellvell del Camp,43,042,4
+"Catllar, El",43,043,0
+Colldejou,43,045,8
+Conesa,43,046,1
+Constantí,43,047,7
+Corbera d'Ebre,43,048,3
+Cornudella de Montsant,43,049,6
+Creixell,43,050,9
+Cunit,43,051,6
+Deltebre,43,901,8
+Duesaigües,43,053,7
+"Espluga de Francolí, L'",43,054,2
+Falset,43,055,5
+"Fatarella, La",43,056,8
+"Febró, La",43,057,4
+"Figuera, La",43,058,0
+Figuerola del Camp,43,059,3
+Flix,43,060,7
+Forès,43,061,4
+Freginals,43,062,9
+"Galera, La",43,063,5
+Gandesa,43,064,0
+Garcia,43,065,3
+"Garidells, Els",43,066,6
+Ginestar,43,067,2
+Godall,43,068,8
+Gratallops,43,069,1
+"Guiamets, Els",43,070,5
+Horta de Sant Joan,43,071,2
+"Lloar, El",43,072,7
+Llorac,43,073,3
+Llorenç del Penedès,43,074,8
+Marçà,43,076,4
+Margalef,43,075,1
+Mas de Barberans,43,077,0
+Masdenverge,43,078,6
+Masllorenç,43,079,9
+"Masó, La",43,080,3
+Maspujols,43,081,0
+"Masroig, El",43,082,5
+"Milà, El",43,083,1
+Miravet,43,084,6
+"Molar, El",43,085,9
+Montblanc,43,086,2
+Montbrió del Camp,43,088,4
+Montferri,43,089,7
+"Montmell, El",43,090,1
+Mont-ral,43,091,8
+Mont-roig del Camp,43,092,3
+Móra d'Ebre,43,093,9
+Móra la Nova,43,094,4
+"Morell, El",43,095,7
+"Morera de Montsant, La",43,096,0
+"Nou de Gaià, La",43,097,6
+Nulles,43,098,2
+"Pallaresos, Els",43,100,9
+"Palma d'Ebre, La",43,099,5
+Passanant i Belltall,43,101,6
+Paüls,43,102,1
+Perafort,43,103,7
+"Perelló, El",43,104,2
+"Piles, Les",43,105,5
+"Pinell de Brai, El",43,106,8
+Pira,43,107,4
+"Pla de Santa Maria, El",43,108,0
+"Pobla de Mafumet, La",43,109,3
+"Pobla de Massaluca, La",43,110,7
+"Pobla de Montornès, La",43,111,4
+Poboleda,43,112,9
+"Pont d'Armentera, El",43,113,5
+Pontils,43,141,8
+Porrera,43,114,0
+Pradell de la Teixeta,43,115,3
+Prades,43,116,6
+Prat de Comte,43,117,2
+Pratdip,43,118,8
+Puigpelat,43,119,1
+Querol,43,120,5
+Rasquera,43,121,2
+Renau,43,122,7
+Reus,43,123,3
+"Riba, La",43,124,8
+Riba-roja d'Ebre,43,125,1
+"Riera de Gaià, La",43,126,4
+Riudecanyes,43,127,0
+Riudecols,43,128,6
+Riudoms,43,129,9
+Rocafort de Queralt,43,130,3
+Roda de Barà,43,131,0
+Rodonyà,43,132,5
+Roquetes,43,133,1
+"Rourell, El",43,134,6
+Salomó,43,135,9
+Salou,43,905,7
+Sant Carles de la Ràpita,43,136,2
+Sant Jaume dels Domenys,43,137,8
+Sant Jaume d'Enveja,43,902,3
+Santa Bàrbara,43,138,4
+Santa Coloma de Queralt,43,139,7
+Santa Oliva,43,140,1
+Sarral,43,142,3
+Savallà del Comtat,43,143,9
+"Secuita, La",43,144,4
+"Selva del Camp, La",43,145,7
+Senan,43,146,0
+"Sénia, La",43,044,5
+Solivella,43,147,6
+Tarragona,43,148,2
+Tivenys,43,149,5
+Tivissa,43,150,8
+"Torre de Fontaubella, La",43,151,5
+"Torre de l'Espanyol, La",43,152,0
+Torredembarra,43,153,6
+Torroja del Priorat,43,154,1
+Tortosa,43,155,4
+Ulldecona,43,156,7
+Ulldemolins,43,157,3
+Vallclara,43,158,9
+Vallfogona de Riucorb,43,159,2
+Vallmoll,43,160,6
+Valls,43,161,3
+Vandellòs i l'Hospitalet de l'Infant,43,162,8
+"Vendrell, El",43,163,4
+Vespella de Gaià,43,164,9
+Vilabella,43,165,2
+Vilalba dels Arcs,43,175,0
+Vilallonga del Camp,43,166,5
+Vilanova de Prades,43,168,7
+Vilanova d'Escornalbou,43,167,1
+Vilaplana,43,169,0
+Vila-rodona,43,170,4
+Vila-seca,43,171,1
+Vilaverd,43,172,6
+"Vilella Alta, La",43,173,2
+"Vilella Baixa, La",43,174,7
+Vimbodí i Poblet,43,176,3
+Vinebre,43,177,9
+Vinyols i els Arcs,43,178,5
+Xerta,43,052,1
+Ababuj,44,001,2
+Abejuela,44,002,7
+Aguatón,44,003,3
+Aguaviva,44,004,8
+Aguilar del Alfambra,44,005,1
+Alacón,44,006,4
+Alba,44,007,0
+Albalate del Arzobispo,44,008,6
+Albarracín,44,009,9
+Albentosa,44,010,3
+Alcaine,44,011,0
+Alcalá de la Selva,44,012,5
+Alcañiz,44,013,1
+Alcorisa,44,014,6
+Alfambra,44,016,2
+Aliaga,44,017,8
+Allepuz,44,021,8
+Alloza,44,022,3
+Allueva,44,023,9
+Almohaja,44,018,4
+Alobras,44,019,7
+Alpeñés,44,020,1
+Anadón,44,024,4
+Andorra,44,025,7
+Arcos de las Salinas,44,026,0
+Arens de Lledó,44,027,6
+Argente,44,028,2
+Ariño,44,029,5
+Azaila,44,031,6
+Bádenas,44,032,1
+Báguena,44,033,7
+Bañón,44,034,2
+Barrachina,44,035,5
+Bea,44,036,8
+Beceite,44,037,4
+Bello,44,039,3
+Belmonte de San José,44,038,0
+Berge,44,040,7
+Bezas,44,041,4
+Blancas,44,042,9
+Blesa,44,043,5
+Bordón,44,044,0
+Bronchales,44,045,3
+Bueña,44,046,6
+Burbáguena,44,047,2
+Cabra de Mora,44,048,8
+Calaceite,44,049,1
+Calamocha,44,050,4
+Calanda,44,051,1
+Calomarde,44,052,6
+Camañas,44,053,2
+Camarena de la Sierra,44,054,7
+Camarillas,44,055,0
+Caminreal,44,056,3
+Cantavieja,44,059,8
+Cañada de Benatanduz,44,060,2
+"Cañada de Verich, La",44,061,9
+Cañada Vellida,44,062,4
+Cañizar del Olivar,44,063,0
+Cascante del Río,44,064,5
+Castejón de Tornos,44,065,8
+Castel de Cabra,44,066,1
+"Castellar, El",44,070,0
+Castellote,44,071,7
+Castelnou,44,067,7
+Castelserás,44,068,3
+Cedrillas,44,074,3
+Celadas,44,075,6
+Cella,44,076,9
+"Cerollera, La",44,077,5
+"Codoñera, La",44,080,8
+Corbalán,44,082,0
+Cortes de Aragón,44,084,1
+Cosa,44,085,4
+Cretas,44,086,7
+Crivillén,44,087,3
+"Cuba, La",44,088,9
+Cubla,44,089,2
+Cucalón,44,090,6
+"Cuervo, El",44,092,8
+Cuevas de Almudén,44,093,4
+Cuevas Labradas,44,094,9
+Ejulve,44,096,5
+Escorihuela,44,097,1
+Escucha,44,099,0
+Estercuel,44,100,4
+Ferreruela de Huerva,44,101,1
+Fonfría,44,102,6
+Formiche Alto,44,103,2
+Fórnoles,44,105,0
+Fortanete,44,106,3
+Foz-Calanda,44,107,9
+"Fresneda, La",44,108,5
+Frías de Albarracín,44,109,8
+Fuenferrada,44,110,2
+Fuentes Calientes,44,111,9
+Fuentes Claras,44,112,4
+Fuentes de Rubielos,44,113,0
+Fuentespalda,44,114,5
+Galve,44,115,8
+Gargallo,44,116,1
+Gea de Albarracín,44,117,7
+"Ginebrosa, La",44,118,3
+Griegos,44,119,6
+Guadalaviar,44,120,0
+Gúdar,44,121,7
+Híjar,44,122,2
+Hinojosa de Jarque,44,123,8
+"Hoz de la Vieja, La",44,124,3
+Huesa del Común,44,125,6
+"Iglesuela del Cid, La",44,126,9
+Jabaloyas,44,127,5
+Jarque de la Val,44,128,1
+Jatiel,44,129,4
+Jorcas,44,130,8
+Josa,44,131,5
+Lagueruela,44,132,0
+Lanzuela,44,133,6
+Libros,44,135,4
+Lidón,44,136,7
+Linares de Mora,44,137,3
+Lledó,44,141,3
+Loscos,44,138,9
+Maicas,44,142,8
+Manzanera,44,143,4
+Martín del Río,44,144,9
+Mas de las Matas,44,145,2
+"Mata de los Olmos, La",44,146,5
+Mazaleón,44,147,1
+Mezquita de Jarque,44,148,7
+Mirambel,44,149,0
+Miravete de la Sierra,44,150,3
+Molinos,44,151,0
+Monforte de Moyuela,44,152,5
+Monreal del Campo,44,153,1
+Monroyo,44,154,6
+Montalbán,44,155,9
+Monteagudo del Castillo,44,156,2
+Monterde de Albarracín,44,157,8
+Mora de Rubielos,44,158,4
+Moscardón,44,159,7
+Mosqueruela,44,160,1
+Muniesa,44,161,8
+Noguera de Albarracín,44,163,9
+Nogueras,44,164,4
+Nogueruelas,44,165,7
+Obón,44,167,6
+Odón,44,168,2
+Ojos Negros,44,169,5
+Olba,44,171,6
+Oliete,44,172,1
+"Olmos, Los",44,173,7
+Orihuela del Tremedal,44,174,2
+Orrios,44,175,5
+Palomar de Arroyos,44,176,8
+Pancrudo,44,177,4
+"Parras de Castellote, Las",44,178,0
+Peñarroya de Tastavins,44,179,3
+Peracense,44,180,7
+Peralejos,44,181,4
+Perales del Alfambra,44,182,9
+Pitarque,44,183,5
+Plou,44,184,0
+"Pobo, El",44,185,3
+"Portellada, La",44,187,2
+Pozondón,44,189,1
+Pozuel del Campo,44,190,5
+"Puebla de Híjar, La",44,191,2
+"Puebla de Valverde, La",44,192,7
+Puertomingalvo,44,193,3
+Ráfales,44,194,8
+Rillo,44,195,1
+Riodeva,44,196,4
+Ródenas,44,197,0
+Royuela,44,198,6
+Rubiales,44,199,9
+Rubielos de la Cérida,44,200,3
+Rubielos de Mora,44,201,0
+Salcedillo,44,203,1
+Saldón,44,204,6
+Samper de Calanda,44,205,9
+San Agustín,44,206,2
+San Martín del Río,44,207,8
+Santa Cruz de Nogueras,44,208,4
+Santa Eulalia,44,209,7
+Sarrión,44,210,1
+Segura de los Baños,44,211,8
+Seno,44,212,3
+Singra,44,213,9
+Terriente,44,215,7
+Teruel,44,216,0
+Toril y Masegoso,44,217,6
+Tormón,44,218,2
+Tornos,44,219,5
+Torralba de los Sisones,44,220,9
+Torre de Arcas,44,223,7
+Torre de las Arcas,44,224,2
+Torre del Compte,44,225,5
+Torre los Negros,44,227,4
+Torrecilla de Alcañiz,44,221,6
+Torrecilla del Rebollar,44,222,1
+Torrelacárcel,44,226,8
+Torremocha de Jiloca,44,228,0
+Torres de Albarracín,44,229,3
+Torrevelilla,44,230,7
+Torrijas,44,231,4
+Torrijo del Campo,44,232,9
+Tramacastiel,44,234,0
+Tramacastilla,44,235,3
+Tronchón,44,236,6
+Urrea de Gaén,44,237,2
+Utrillas,44,238,8
+Valacloche,44,239,1
+Valbona,44,240,5
+Valdealgorfa,44,241,2
+Valdecuenca,44,243,3
+Valdelinares,44,244,8
+Valdeltormo,44,245,1
+Valderrobres,44,246,4
+Valjunquera,44,247,0
+"Vallecillo, El",44,249,9
+Veguillas de la Sierra,44,250,2
+Villafranca del Campo,44,251,9
+Villahermosa del Campo,44,252,4
+Villanueva del Rebollar de la Sierra,44,256,1
+Villar del Cobo,44,257,7
+Villar del Salz,44,258,3
+Villarluengo,44,260,0
+Villarquemado,44,261,7
+Villarroya de los Pinares,44,262,2
+Villastar,44,263,8
+Villel,44,264,3
+Vinaceite,44,265,6
+Visiedo,44,266,9
+Vivel del Río Martín,44,267,5
+"Zoma, La",44,268,1
+Ajofrín,45,001,5
+Alameda de la Sagra,45,002,0
+Albarreal de Tajo,45,003,6
+Alcabón,45,004,1
+Alcañizo,45,005,4
+Alcaudete de la Jara,45,006,7
+Alcolea de Tajo,45,007,3
+Aldea en Cabo,45,008,9
+Aldeanueva de Barbarroya,45,009,2
+Aldeanueva de San Bartolomé,45,010,6
+Almendral de la Cañada,45,011,3
+Almonacid de Toledo,45,012,8
+Almorox,45,013,4
+Añover de Tajo,45,014,9
+Arcicóllar,45,015,2
+Argés,45,016,5
+Azután,45,017,1
+Barcience,45,018,7
+Bargas,45,019,0
+Belvís de la Jara,45,020,4
+Borox,45,021,1
+Buenaventura,45,022,6
+Burguillos de Toledo,45,023,2
+Burujón,45,024,7
+Cabañas de la Sagra,45,025,0
+Cabañas de Yepes,45,026,3
+Cabezamesada,45,027,9
+Calera y Chozas,45,028,5
+Caleruela,45,029,8
+Calzada de Oropesa,45,030,2
+Camarena,45,031,9
+Camarenilla,45,032,4
+"Campillo de la Jara, El",45,033,0
+Camuñas,45,034,5
+Cardiel de los Montes,45,035,8
+Carmena,45,036,1
+"Carpio de Tajo, El",45,037,7
+Carranque,45,038,3
+Carriches,45,039,6
+"Casar de Escalona, El",45,040,0
+Casarrubios del Monte,45,041,7
+Casasbuenas,45,042,2
+Castillo de Bayuela,45,043,8
+Cazalegas,45,045,6
+Cebolla,45,046,9
+Cedillo del Condado,45,047,5
+"Cerralbos, Los",45,048,1
+Cervera de los Montes,45,049,4
+Chozas de Canales,45,056,6
+Chueca,45,057,2
+Ciruelos,45,050,7
+Cobeja,45,051,4
+Cobisa,45,052,9
+Consuegra,45,053,5
+Corral de Almaguer,45,054,0
+Cuerva,45,055,3
+Domingo Pérez,45,058,8
+Dosbarrios,45,059,1
+Erustes,45,060,5
+Escalona,45,061,2
+Escalonilla,45,062,7
+Espinoso del Rey,45,063,3
+Esquivias,45,064,8
+"Estrella, La",45,065,1
+Fuensalida,45,066,4
+Gálvez,45,067,0
+Garciotum,45,068,6
+Gerindote,45,069,9
+Guadamur,45,070,3
+"Guardia, La",45,071,0
+"Herencias, Las",45,072,5
+Herreruela de Oropesa,45,073,1
+Hinojosa de San Vicente,45,074,6
+Hontanar,45,075,9
+Hormigos,45,076,2
+Huecas,45,077,8
+Huerta de Valdecarábanos,45,078,4
+"Iglesuela, La",45,079,7
+Illán de Vacas,45,080,1
+Illescas,45,081,8
+Lagartera,45,082,3
+Layos,45,083,9
+Lillo,45,084,4
+Lominchar,45,085,7
+Lucillos,45,086,0
+Madridejos,45,087,6
+Magán,45,088,2
+Malpica de Tajo,45,089,5
+Manzaneque,45,090,9
+Maqueda,45,091,6
+Marjaliza,45,092,1
+Marrupe,45,093,7
+Mascaraque,45,094,2
+"Mata, La",45,095,5
+Mazarambroz,45,096,8
+Mejorada,45,097,4
+Menasalbas,45,098,0
+Méntrida,45,099,3
+Mesegar de Tajo,45,100,7
+Miguel Esteban,45,101,4
+Mocejón,45,102,9
+Mohedas de la Jara,45,103,5
+Montearagón,45,104,0
+Montesclaros,45,105,3
+Mora,45,106,6
+Nambroca,45,107,2
+"Nava de Ricomalillo, La",45,108,8
+Navahermosa,45,109,1
+Navalcán,45,110,5
+Navalmoralejo,45,111,2
+"Navalmorales, Los",45,112,7
+"Navalucillos, Los",45,113,3
+Navamorcuende,45,114,8
+Noblejas,45,115,1
+Noez,45,116,4
+Nombela,45,117,0
+Novés,45,118,6
+Numancia de la Sagra,45,119,9
+Nuño Gómez,45,120,3
+Ocaña,45,121,0
+Olías del Rey,45,122,5
+Ontígola,45,123,1
+Orgaz,45,124,6
+Oropesa,45,125,9
+Otero,45,126,2
+Palomeque,45,127,8
+Pantoja,45,128,4
+Paredes de Escalona,45,129,7
+Parrillas,45,130,1
+Pelahustán,45,131,8
+Pepino,45,132,3
+Polán,45,133,9
+Portillo de Toledo,45,134,4
+"Puebla de Almoradiel, La",45,135,7
+"Puebla de Montalbán, La",45,136,0
+"Pueblanueva, La",45,137,6
+"Puente del Arzobispo, El",45,138,2
+Puerto de San Vicente,45,139,5
+Pulgar,45,140,9
+Quero,45,141,6
+Quintanar de la Orden,45,142,1
+Quismondo,45,143,7
+"Real de San Vicente, El",45,144,2
+Recas,45,145,5
+Retamoso de la Jara,45,146,8
+Rielves,45,147,4
+Robledo del Mazo,45,148,0
+"Romeral, El",45,149,3
+San Bartolomé de las Abiertas,45,150,6
+San Martín de Montalbán,45,151,3
+San Martín de Pusa,45,152,8
+San Pablo de los Montes,45,153,4
+San Román de los Montes,45,154,9
+Santa Ana de Pusa,45,155,2
+Santa Cruz de la Zarza,45,156,5
+Santa Cruz del Retamar,45,157,1
+Santa Olalla,45,158,7
+Santo Domingo-Caudilla,45,901,6
+Sartajada,45,159,0
+Segurilla,45,160,4
+Seseña,45,161,1
+Sevilleja de la Jara,45,162,6
+Sonseca,45,163,2
+Sotillo de las Palomas,45,164,7
+Talavera de la Reina,45,165,0
+Tembleque,45,166,3
+"Toboso, El",45,167,9
+Toledo,45,168,5
+Torralba de Oropesa,45,169,8
+"Torre de Esteban Hambrán, La",45,171,9
+Torrecilla de la Jara,45,170,2
+Torrico,45,172,4
+Torrijos,45,173,0
+Totanés,45,174,5
+Turleque,45,175,8
+Ugena,45,176,1
+Urda,45,177,7
+Valdeverdeja,45,179,6
+Valmojado,45,180,0
+Velada,45,181,7
+"Ventas con Peña Aguilera, Las",45,182,2
+"Ventas de Retamosa, Las",45,183,8
+"Ventas de San Julián, Las",45,184,3
+"Villa de Don Fadrique, La",45,186,9
+Villacañas,45,185,6
+Villafranca de los Caballeros,45,187,5
+Villaluenga de la Sagra,45,188,1
+Villamiel de Toledo,45,189,4
+Villaminaya,45,190,8
+Villamuelas,45,191,5
+Villanueva de Alcardete,45,192,0
+Villanueva de Bogas,45,193,6
+Villarejo de Montalbán,45,194,1
+Villarrubia de Santiago,45,195,4
+Villaseca de la Sagra,45,196,7
+Villasequilla,45,197,3
+Villatobas,45,198,9
+"Viso de San Juan, El",45,199,2
+"Yébenes, Los",45,200,6
+Yeles,45,201,3
+Yepes,45,202,8
+Yuncler,45,203,4
+Yunclillos,45,204,9
+Yuncos,45,205,2
+Ademuz,46,001,8
+Ador,46,002,3
+Agullent,46,004,4
+Aielo de Malferit,46,042,5
+Aielo de Rugat,46,043,1
+Alaquàs,46,005,7
+Albaida,46,006,0
+Albal,46,007,6
+Albalat de la Ribera,46,008,2
+Albalat dels Sorells,46,009,5
+Albalat dels Tarongers,46,010,9
+Alberic,46,011,6
+Alborache,46,012,1
+Alboraya,46,013,7
+Albuixech,46,014,2
+Alcàntera de Xúquer,46,016,8
+Alcàsser,46,015,5
+Alcublas,46,018,0
+"Alcúdia, l'",46,019,3
+"Alcúdia de Crespins, l'",46,020,7
+Aldaia,46,021,4
+Alfafar,46,022,9
+Alfara de la Baronia,46,024,0
+Alfara del Patriarca,46,025,3
+Alfarp,46,026,6
+Alfarrasí,46,027,2
+Alfauir,46,023,5
+Algar de Palancia,46,028,8
+Algemesí,46,029,1
+Algimia de Alfara,46,030,5
+Alginet,46,031,2
+Almàssera,46,032,7
+Almiserà,46,033,3
+Almoines,46,034,8
+Almussafes,46,035,1
+Alpuente,46,036,4
+"Alqueria de la Comtessa, l'",46,037,0
+Alzira,46,017,4
+Andilla,46,038,6
+Anna,46,039,9
+Antella,46,040,3
+Aras de los Olmos,46,041,0
+Atzeneta d'Albaida,46,003,9
+Ayora,46,044,6
+Barx,46,046,2
+Barxeta,46,045,9
+Bèlgida,46,047,8
+Bellreguard,46,048,4
+Bellús,46,049,7
+Benagéber,46,050,0
+Benaguasil,46,051,7
+Benavites,46,052,2
+Beneixida,46,053,8
+Benetússer,46,054,3
+Beniarjó,46,055,6
+Beniatjar,46,056,9
+Benicolet,46,057,5
+Benicull de Xúquer,46,904,5
+Benifaió,46,060,8
+Benifairó de la Valldigna,46,059,4
+Benifairó de les Valls,46,058,1
+Beniflá,46,061,5
+Benigánim,46,062,0
+Benimodo,46,063,6
+Benimuslem,46,064,1
+Beniparrell,46,065,4
+Benirredrà,46,066,7
+Benisanó,46,067,3
+Benissoda,46,068,9
+Benisuera,46,069,2
+Bétera,46,070,6
+Bicorp,46,071,3
+Bocairent,46,072,8
+Bolbaite,46,073,4
+Bonrepòs i Mirambell,46,074,9
+Bufali,46,075,2
+Bugarra,46,076,5
+Buñol,46,077,1
+Burjassot,46,078,7
+Calles,46,079,0
+Camporrobles,46,080,4
+Canals,46,081,1
+Canet d'En Berenguer,46,082,6
+Carcaixent,46,083,2
+Càrcer,46,084,7
+Carlet,46,085,0
+Carrícola,46,086,3
+Casas Altas,46,087,9
+Casas Bajas,46,088,5
+Casinos,46,089,8
+Castelló de Rugat,46,090,2
+Castellonet de la Conquesta,46,091,9
+Castielfabib,46,092,4
+Catadau,46,093,0
+Catarroja,46,094,5
+Caudete de las Fuentes,46,095,8
+Cerdà,46,096,1
+Chella,46,107,5
+Chelva,46,106,9
+Chera,46,108,1
+Cheste,46,109,4
+Chiva,46,111,5
+Chulilla,46,112,0
+Cofrentes,46,097,7
+Corbera,46,098,3
+Cortes de Pallás,46,099,6
+Cotes,46,100,0
+Cullera,46,105,6
+Daimús,46,113,6
+Domeño,46,114,1
+Dos Aguas,46,115,4
+"Eliana, l'",46,116,7
+Emperador,46,117,3
+Enguera,46,118,9
+"Ènova, l'",46,119,2
+Estivella,46,120,6
+Estubeny,46,121,3
+Faura,46,122,8
+Favara,46,123,4
+Foios,46,126,5
+"Font de la Figuera, la",46,128,7
+"Font d'En Carròs, la",46,127,1
+Fontanars dels Alforins,46,124,9
+Fortaleny,46,125,2
+Fuenterrobles,46,129,0
+Gandia,46,131,1
+Gátova,46,902,4
+Gavarda,46,130,4
+Genovés,46,132,6
+Gestalgar,46,133,2
+Gilet,46,134,7
+Godella,46,135,0
+Godelleta,46,136,3
+"Granja de la Costera, la",46,137,9
+Guadasequies,46,138,5
+Guadassuar,46,139,8
+Guardamar de la Safor,46,140,2
+Higueruelas,46,141,9
+Jalance,46,142,4
+Jarafuel,46,144,5
+Llanera de Ranes,46,154,2
+Llaurí,46,155,5
+Llíria,46,147,7
+Llocnou de la Corona,46,152,1
+Llocnou de Sant Jeroni,46,153,7
+Llocnou d'En Fenollet,46,151,6
+Llombai,46,156,8
+"Llosa de Ranes, la",46,157,4
+Llutxent,46,150,9
+Loriguilla,46,148,3
+Losa del Obispo,46,149,6
+Macastre,46,158,0
+Manises,46,159,3
+Manuel,46,160,7
+Marines,46,161,4
+Massalavés,46,162,9
+Massalfassar,46,163,5
+Massamagrell,46,164,0
+Massanassa,46,165,3
+Meliana,46,166,6
+Millares,46,167,2
+Miramar,46,168,8
+Mislata,46,169,1
+Mogente/Moixent,46,170,5
+Moncada,46,171,2
+Montaverner,46,173,3
+Montesa,46,174,8
+Montitxelvo/Montichelvo,46,175,1
+Montroy,46,176,4
+Montserrat,46,172,7
+Museros,46,177,0
+Náquera,46,178,6
+Navarrés,46,179,9
+Novelé/Novetlè,46,180,3
+Oliva,46,181,0
+"Olleria, l'",46,183,1
+Olocau,46,182,5
+Ontinyent,46,184,6
+Otos,46,185,9
+Paiporta,46,186,2
+Palma de Gandía,46,187,8
+Palmera,46,188,4
+"Palomar, el",46,189,7
+Paterna,46,190,1
+Pedralba,46,191,8
+Petrés,46,192,3
+Picanya,46,193,9
+Picassent,46,194,4
+Piles,46,195,7
+Pinet,46,196,0
+"Pobla de Farnals, la",46,199,5
+"Pobla de Vallbona, la",46,202,1
+"Pobla del Duc, la",46,200,9
+"Pobla Llarga, la",46,203,7
+Polinyà de Xúquer,46,197,6
+Potríes,46,198,2
+Puçol,46,205,5
+Puebla de San Miguel,46,201,6
+Puig,46,204,2
+Quart de les Valls,46,101,7
+Quart de Poblet,46,102,2
+Quartell,46,103,8
+Quatretonda,46,104,3
+Quesa,46,206,8
+Rafelbuñol/Rafelbunyol,46,207,4
+Rafelcofer,46,208,0
+Rafelguaraf,46,209,3
+Ráfol de Salem,46,210,7
+Real,46,212,9
+Real de Gandía,46,211,4
+Requena,46,213,5
+Riba-roja de Túria,46,214,0
+Riola,46,215,3
+Rocafort,46,216,6
+Rotglà i Corberà,46,217,2
+Rótova,46,218,8
+Rugat,46,219,1
+Sagunto/Sagunt,46,220,5
+Salem,46,221,2
+San Antonio de Benagéber,46,903,0
+Sant Joanet,46,222,7
+Sedaví,46,223,3
+Segart,46,224,8
+Sellent,46,225,1
+Sempere,46,226,4
+Senyera,46,227,0
+Serra,46,228,6
+Siete Aguas,46,229,9
+Silla,46,230,3
+Simat de la Valldigna,46,231,0
+Sinarcas,46,232,5
+Sollana,46,233,1
+Sot de Chera,46,234,6
+Sueca,46,235,9
+Sumacàrcer,46,236,2
+Tavernes Blanques,46,237,8
+Tavernes de la Valldigna,46,238,4
+Teresa de Cofrentes,46,239,7
+Terrateig,46,240,1
+Titaguas,46,241,8
+Torrebaja,46,242,3
+Torrella,46,243,9
+Torrent,46,244,4
+Torres Torres,46,245,7
+Tous,46,246,0
+Tuéjar,46,247,6
+Turís,46,248,2
+Utiel,46,249,5
+Valencia,46,250,8
+Vallada,46,251,5
+Vallanca,46,252,0
+Vallés,46,253,6
+Venta del Moro,46,254,1
+Vilamarxant,46,256,7
+Villalonga,46,255,4
+Villanueva de Castellón,46,257,3
+Villar del Arzobispo,46,258,9
+Villargordo del Cabriel,46,259,2
+Vinalesa,46,260,6
+Xàtiva,46,145,8
+Xeraco,46,143,0
+Xeresa,46,146,1
+Xirivella,46,110,8
+Yátova,46,261,3
+"Yesa, La",46,262,8
+Zarra,46,263,4
+Adalia,47,001,4
+Aguasal,47,002,9
+Aguilar de Campos,47,003,5
+Alaejos,47,004,0
+Alcazarén,47,005,3
+Aldea de San Miguel,47,006,6
+Aldeamayor de San Martín,47,007,2
+Almenara de Adaja,47,008,8
+Amusquillo,47,009,1
+Arroyo de la Encomienda,47,010,5
+Ataquines,47,011,2
+Bahabón,47,012,7
+Barcial de la Loma,47,013,3
+Barruelo del Valle,47,014,8
+Becilla de Valderaduey,47,015,1
+Benafarces,47,016,4
+Bercero,47,017,0
+Berceruelo,47,018,6
+Berrueces,47,019,9
+Bobadilla del Campo,47,020,3
+Bocigas,47,021,0
+Bocos de Duero,47,022,5
+Boecillo,47,023,1
+Bolaños de Campos,47,024,6
+Brahojos de Medina,47,025,9
+Bustillo de Chaves,47,026,2
+Cabezón de Pisuerga,47,027,8
+Cabezón de Valderaduey,47,028,4
+Cabreros del Monte,47,029,7
+Campaspero,47,030,1
+"Campillo, El",47,031,8
+Camporredondo,47,032,3
+Canalejas de Peñafiel,47,033,9
+Canillas de Esgueva,47,034,4
+Carpio,47,035,7
+Casasola de Arión,47,036,0
+Castrejón de Trabancos,47,037,6
+Castrillo de Duero,47,038,2
+Castrillo-Tejeriego,47,039,5
+Castrobol,47,040,9
+Castrodeza,47,041,6
+Castromembibre,47,042,1
+Castromonte,47,043,7
+Castronuevo de Esgueva,47,044,2
+Castronuño,47,045,5
+Castroponce,47,046,8
+Castroverde de Cerrato,47,047,4
+Ceinos de Campos,47,048,0
+Cervillego de la Cruz,47,049,3
+Cigales,47,050,6
+Ciguñuela,47,051,3
+Cistérniga,47,052,8
+Cogeces de Íscar,47,053,4
+Cogeces del Monte,47,054,9
+Corcos,47,055,2
+Corrales de Duero,47,056,5
+Cubillas de Santa Marta,47,057,1
+Cuenca de Campos,47,058,7
+Curiel de Duero,47,059,0
+Encinas de Esgueva,47,060,4
+Esguevillas de Esgueva,47,061,1
+Fombellida,47,062,6
+Fompedraza,47,063,2
+Fontihoyuelo,47,064,7
+Fresno el Viejo,47,065,0
+Fuensaldaña,47,066,3
+Fuente el Sol,47,067,9
+Fuente-Olmedo,47,068,5
+Gallegos de Hornija,47,069,8
+Gatón de Campos,47,070,2
+Geria,47,071,9
+Herrín de Campos,47,073,0
+Hornillos de Eresma,47,074,5
+Íscar,47,075,8
+Laguna de Duero,47,076,1
+Langayo,47,077,7
+Llano de Olmedo,47,079,6
+Lomoviejo,47,078,3
+Manzanillo,47,080,0
+Marzales,47,081,7
+Matapozuelos,47,082,2
+Matilla de los Caños,47,083,8
+Mayorga,47,084,3
+Medina de Rioseco,47,086,9
+Medina del Campo,47,085,6
+Megeces,47,087,5
+Melgar de Abajo,47,088,1
+Melgar de Arriba,47,089,4
+Mojados,47,090,8
+Monasterio de Vega,47,091,5
+Montealegre de Campos,47,092,0
+Montemayor de Pililla,47,093,6
+Moral de la Reina,47,094,1
+Moraleja de las Panaderas,47,095,4
+Morales de Campos,47,096,7
+Mota del Marqués,47,097,3
+Mucientes,47,098,9
+"Mudarra, La",47,099,2
+Muriel,47,100,6
+Nava del Rey,47,101,3
+Nueva Villa de las Torres,47,102,8
+Olivares de Duero,47,103,4
+Olmedo,47,104,9
+Olmos de Esgueva,47,105,2
+Olmos de Peñafiel,47,106,5
+Palazuelo de Vedija,47,109,0
+"Parrilla, La",47,110,4
+"Pedraja de Portillo, La",47,111,1
+Pedrajas de San Esteban,47,112,6
+Pedrosa del Rey,47,113,2
+Peñafiel,47,114,7
+Peñaflor de Hornija,47,115,0
+Pesquera de Duero,47,116,3
+Piña de Esgueva,47,117,9
+Piñel de Abajo,47,118,5
+Piñel de Arriba,47,119,8
+Pollos,47,121,9
+Portillo,47,122,4
+Pozal de Gallinas,47,123,0
+Pozaldez,47,124,5
+Pozuelo de la Orden,47,125,8
+Puras,47,126,1
+Quintanilla de Arriba,47,127,7
+Quintanilla de Onésimo,47,129,6
+Quintanilla de Trigueros,47,130,0
+Quintanilla del Molar,47,128,3
+Rábano,47,131,7
+Ramiro,47,132,2
+Renedo de Esgueva,47,133,8
+Roales de Campos,47,134,3
+Robladillo,47,135,6
+Roturas,47,137,5
+Rubí de Bracamonte,47,138,1
+Rueda,47,139,4
+Saelices de Mayorga,47,140,8
+Salvador de Zapardiel,47,141,5
+San Cebrián de Mazote,47,142,0
+San Llorente,47,143,6
+San Martín de Valvení,47,144,1
+San Miguel del Arroyo,47,145,4
+San Miguel del Pino,47,146,7
+San Pablo de la Moraleja,47,147,3
+San Pedro de Latarce,47,148,9
+San Pelayo,47,149,2
+San Román de Hornija,47,150,5
+San Salvador,47,151,2
+San Vicente del Palacio,47,156,4
+Santa Eufemia del Arroyo,47,152,7
+Santervás de Campos,47,153,3
+Santibáñez de Valcorba,47,154,8
+Santovenia de Pisuerga,47,155,1
+Sardón de Duero,47,157,0
+"Seca, La",47,158,6
+Serrada,47,159,9
+Siete Iglesias de Trabancos,47,160,3
+Simancas,47,161,0
+Tamariz de Campos,47,162,5
+Tiedra,47,163,1
+Tordehumos,47,164,6
+Tordesillas,47,165,9
+Torre de Esgueva,47,169,7
+Torre de Peñafiel,47,170,1
+Torrecilla de la Abadesa,47,166,2
+Torrecilla de la Orden,47,167,8
+Torrecilla de la Torre,47,168,4
+Torrelobatón,47,171,8
+Torrescárcela,47,172,3
+Traspinedo,47,173,9
+Trigueros del Valle,47,174,4
+Tudela de Duero,47,175,7
+"Unión de Campos, La",47,176,0
+Urones de Castroponce,47,177,6
+Urueña,47,178,2
+Valbuena de Duero,47,179,5
+Valdearcos de la Vega,47,180,9
+Valdenebro de los Valles,47,181,6
+Valdestillas,47,182,1
+Valdunquillo,47,183,7
+Valladolid,47,186,8
+Valoria la Buena,47,184,2
+Valverde de Campos,47,185,5
+Vega de Ruiponce,47,187,4
+Vega de Valdetronco,47,188,0
+Velascálvaro,47,189,3
+Velilla,47,190,7
+Velliza,47,191,4
+Ventosa de la Cuesta,47,192,9
+Viana de Cega,47,193,5
+Villabáñez,47,195,3
+Villabaruz de Campos,47,196,6
+Villabrágima,47,197,2
+Villacarralón,47,198,8
+Villacid de Campos,47,199,1
+Villaco,47,200,5
+Villafrades de Campos,47,203,3
+Villafranca de Duero,47,204,8
+Villafrechós,47,205,1
+Villafuerte,47,206,4
+Villagarcía de Campos,47,207,0
+Villagómez la Nueva,47,208,6
+Villalán de Campos,47,209,9
+Villalar de los Comuneros,47,210,3
+Villalba de la Loma,47,211,0
+Villalba de los Alcores,47,212,5
+Villalbarba,47,213,1
+Villalón de Campos,47,214,6
+Villamuriel de Campos,47,215,9
+Villán de Tordesillas,47,216,2
+Villanubla,47,217,8
+Villanueva de Duero,47,218,4
+Villanueva de la Condesa,47,219,7
+Villanueva de los Caballeros,47,220,1
+Villanueva de los Infantes,47,221,8
+Villanueva de San Mancio,47,222,3
+Villardefrades,47,223,9
+Villarmentero de Esgueva,47,224,4
+Villasexmir,47,225,7
+Villavaquerín,47,226,0
+Villavellid,47,227,6
+Villaverde de Medina,47,228,2
+Villavicencio de los Caballeros,47,229,5
+Viloria,47,194,0
+Wamba,47,230,9
+Zaratán,47,231,6
+"Zarza, La",47,232,1
+Abadiño,48,001,0
+Abanto y Ciérvana-Abanto Zierbena,48,002,5
+Ajangiz,48,911,9
+Alonsotegi,48,912,4
+Amorebieta-Etxano,48,003,1
+Amoroto,48,004,6
+Arakaldo,48,005,9
+Arantzazu,48,006,2
+Areatza,48,093,2
+Arrankudiaga,48,009,7
+Arratzu,48,914,5
+Arrieta,48,010,1
+Arrigorriaga,48,011,8
+Artea,48,023,7
+Artzentales,48,008,4
+Atxondo,48,091,1
+Aulesti,48,070,8
+Bakio,48,012,3
+Balmaseda,48,090,4
+Barakaldo,48,013,9
+Barrika,48,014,4
+Basauri,48,015,7
+Bedia,48,092,6
+Berango,48,016,0
+Bermeo,48,017,6
+Berriatua,48,018,2
+Berriz,48,019,5
+Bilbao,48,020,9
+Busturia,48,021,6
+Derio,48,901,1
+Dima,48,026,8
+Durango,48,027,4
+Ea,48,028,0
+Elantxobe,48,031,4
+Elorrio,48,032,9
+Erandio,48,902,6
+Ereño,48,033,5
+Ermua,48,034,0
+Errigoiti,48,079,2
+Etxebarri,48,029,3
+Etxebarria,48,030,7
+Forua,48,906,3
+Fruiz,48,035,3
+Galdakao,48,036,6
+Galdames,48,037,2
+Gamiz-Fika,48,038,8
+Garai,48,039,1
+Gatika,48,040,5
+Gautegiz Arteaga,48,041,2
+Gernika-Lumo,48,046,4
+Getxo,48,044,8
+Gizaburuaga,48,047,0
+Gordexola,48,042,7
+Gorliz,48,043,3
+Güeñes,48,045,1
+Ibarrangelu,48,048,6
+Igorre,48,094,7
+Ispaster,48,049,9
+Iurreta,48,910,2
+Izurtza,48,050,2
+Karrantza Harana/Valle de Carranza,48,022,1
+Kortezubi,48,907,9
+Lanestosa,48,051,9
+Larrabetzu,48,052,4
+Laukiz,48,053,0
+Leioa,48,054,5
+Lekeitio,48,057,7
+Lemoa,48,055,8
+Lemoiz,48,056,1
+Lezama,48,081,3
+Loiu,48,903,2
+Mallabia,48,058,3
+Mañaria,48,059,6
+Markina-Xemein,48,060,0
+Maruri-Jatabe,48,061,7
+Mendata,48,062,2
+Mendexa,48,063,8
+Meñaka,48,064,3
+Morga,48,066,9
+Mundaka,48,068,1
+Mungia,48,069,4
+Munitibar-Arbatzegi Gerrikaitz,48,007,8
+Murueta,48,908,5
+Muskiz,48,071,5
+Muxika,48,067,5
+Nabarniz,48,909,8
+Ondarroa,48,073,6
+Orozko,48,075,4
+Ortuella,48,083,4
+Otxandio,48,072,0
+Plentzia,48,077,3
+Portugalete,48,078,9
+Santurtzi,48,082,8
+Sestao,48,084,9
+Sondika,48,904,7
+Sopelana,48,085,2
+Sopuerta,48,086,5
+Sukarrieta,48,076,7
+Trucios-Turtzioz,48,087,1
+Ubide,48,088,7
+Ugao-Miraballes,48,065,6
+Urduliz,48,089,0
+Urduña/Orduña,48,074,1
+Valle de Trápaga-Trapagaran,48,080,6
+Zaldibar,48,095,0
+Zalla,48,096,3
+Zamudio,48,905,0
+Zaratamo,48,097,9
+Zeanuri,48,024,2
+Zeberio,48,025,5
+Zierbena,48,913,0
+Ziortza-Bolibar,48,915,8
+Abezames,49,002,8
+Alcañices,49,003,4
+Alcubilla de Nogales,49,004,9
+Alfaraz de Sayago,49,005,2
+Algodre,49,006,5
+Almaraz de Duero,49,007,1
+Almeida de Sayago,49,008,7
+Andavías,49,009,0
+Arcenillas,49,010,4
+Arcos de la Polvorosa,49,011,1
+Argañín,49,012,6
+Argujillo,49,013,2
+Arquillinos,49,014,7
+Arrabalde,49,015,0
+Aspariegos,49,016,3
+Asturianos,49,017,9
+Ayoó de Vidriales,49,018,5
+Barcial del Barco,49,019,8
+Belver de los Montes,49,020,2
+Benavente,49,021,9
+Benegiles,49,022,4
+Bermillo de Sayago,49,023,0
+"Bóveda de Toro, La",49,024,5
+Bretó,49,025,8
+Bretocino,49,026,1
+Brime de Sog,49,027,7
+Brime de Urz,49,028,3
+Burganes de Valverde,49,029,6
+Bustillo del Oro,49,030,0
+Cabañas de Sayago,49,031,7
+Calzadilla de Tera,49,032,2
+Camarzana de Tera,49,033,8
+Cañizal,49,034,3
+Cañizo,49,035,6
+Carbajales de Alba,49,036,9
+Carbellino,49,037,5
+Casaseca de Campeán,49,038,1
+Casaseca de las Chanas,49,039,4
+Castrillo de la Guareña,49,040,8
+Castrogonzalo,49,041,5
+Castronuevo,49,042,0
+Castroverde de Campos,49,043,6
+Cazurra,49,044,1
+Cerecinos de Campos,49,046,7
+Cerecinos del Carrizal,49,047,3
+Cernadilla,49,048,9
+Cobreros,49,050,5
+Coomonte,49,052,7
+Coreses,49,053,3
+Corrales del Vino,49,054,8
+Cotanes del Monte,49,055,1
+Cubillos,49,056,4
+Cubo de Benavente,49,057,0
+"Cubo de Tierra del Vino, El",49,058,6
+Cuelgamures,49,059,9
+Entrala,49,061,0
+Espadañedo,49,062,5
+Faramontanos de Tábara,49,063,1
+Fariza,49,064,6
+Fermoselle,49,065,9
+Ferreras de Abajo,49,066,2
+Ferreras de Arriba,49,067,8
+Ferreruela,49,068,4
+Figueruela de Arriba,49,069,7
+Fonfría,49,071,8
+Fresno de la Polvorosa,49,075,7
+Fresno de la Ribera,49,076,0
+Fresno de Sayago,49,077,6
+Friera de Valverde,49,078,2
+Fuente Encalada,49,079,5
+Fuentelapeña,49,080,9
+Fuentes de Ropel,49,082,1
+Fuentesaúco,49,081,6
+Fuentesecas,49,083,7
+Fuentespreadas,49,084,2
+Galende,49,085,5
+Gallegos del Pan,49,086,8
+Gallegos del Río,49,087,4
+Gamones,49,088,0
+Gema,49,090,7
+Granja de Moreruela,49,091,4
+Granucillo,49,092,9
+Guarrate,49,093,5
+Hermisende,49,094,0
+"Hiniesta, La",49,095,3
+Jambrina,49,096,6
+Justel,49,097,2
+Losacino,49,098,8
+Losacio,49,099,1
+Lubián,49,100,5
+Luelmo,49,101,2
+"Maderal, El",49,102,7
+Madridanos,49,103,3
+Mahide,49,104,8
+Maire de Castroponce,49,105,1
+Malva,49,107,0
+Manganeses de la Lampreana,49,108,6
+Manganeses de la Polvorosa,49,109,9
+Manzanal de Arriba,49,110,3
+Manzanal de los Infantes,49,112,5
+Manzanal del Barco,49,111,0
+Matilla de Arzón,49,113,1
+Matilla la Seca,49,114,6
+Mayalde,49,115,9
+Melgar de Tera,49,116,2
+Micereces de Tera,49,117,8
+Milles de la Polvorosa,49,118,4
+Molacillos,49,119,7
+Molezuelas de la Carballeda,49,120,1
+Mombuey,49,121,8
+Monfarracinos,49,122,3
+Montamarta,49,123,9
+Moral de Sayago,49,124,4
+Moraleja de Sayago,49,126,0
+Moraleja del Vino,49,125,7
+Morales de Rey,49,128,2
+Morales de Toro,49,129,5
+Morales de Valverde,49,130,9
+Morales del Vino,49,127,6
+Moralina,49,131,6
+Moreruela de los Infanzones,49,132,1
+Moreruela de Tábara,49,133,7
+Muelas de los Caballeros,49,134,2
+Muelas del Pan,49,135,5
+Muga de Sayago,49,136,8
+Navianos de Valverde,49,137,4
+Olmillos de Castro,49,138,0
+Otero de Bodas,49,139,3
+Pajares de la Lampreana,49,141,4
+Palacios de Sanabria,49,143,5
+Palacios del Pan,49,142,9
+Pedralba de la Pradería,49,145,3
+"Pego, El",49,146,6
+Peleagonzalo,49,147,2
+Peleas de Abajo,49,148,8
+Peñausende,49,149,1
+Peque,49,150,4
+"Perdigón, El",49,151,1
+Pereruela,49,152,6
+Perilla de Castro,49,153,2
+Pías,49,154,7
+Piedrahita de Castro,49,155,0
+Pinilla de Toro,49,156,3
+Pino del Oro,49,157,9
+"Piñero, El",49,158,5
+Pobladura de Valderaduey,49,160,2
+Pobladura del Valle,49,159,8
+Porto,49,162,4
+Pozoantiguo,49,163,0
+Pozuelo de Tábara,49,164,5
+Prado,49,165,8
+Puebla de Sanabria,49,166,1
+Pueblica de Valverde,49,167,7
+Quintanilla de Urz,49,170,0
+Quintanilla del Monte,49,168,3
+Quintanilla del Olmo,49,169,6
+Quiruelas de Vidriales,49,171,7
+Rabanales,49,172,2
+Rábano de Aliste,49,173,8
+Requejo,49,174,3
+Revellinos,49,175,6
+Riofrío de Aliste,49,176,9
+Rionegro del Puente,49,177,5
+Roales,49,178,1
+Robleda-Cervantes,49,179,4
+Roelos de Sayago,49,180,8
+Rosinos de la Requejada,49,181,5
+Salce,49,183,6
+Samir de los Caños,49,184,1
+San Agustín del Pozo,49,185,4
+San Cebrián de Castro,49,186,7
+San Cristóbal de Entreviñas,49,187,3
+San Esteban del Molar,49,188,9
+San Justo,49,189,2
+San Martín de Valderaduey,49,190,6
+San Miguel de la Ribera,49,191,3
+San Miguel del Valle,49,192,8
+San Pedro de Ceque,49,193,4
+San Pedro de la Nave-Almendra,49,194,9
+San Vicente de la Cabeza,49,208,5
+San Vitero,49,209,8
+Santa Clara de Avedillo,49,197,1
+Santa Colomba de las Monjas,49,199,0
+Santa Cristina de la Polvorosa,49,200,4
+Santa Croya de Tera,49,201,1
+Santa Eufemia del Barco,49,202,6
+Santa María de la Vega,49,203,2
+Santa María de Valverde,49,204,7
+Santibáñez de Tera,49,205,0
+Santibáñez de Vidriales,49,206,3
+Santovenia,49,207,9
+Sanzoles,49,210,2
+Tábara,49,214,5
+Tapioles,49,216,1
+Toro,49,219,6
+"Torre del Valle, La",49,220,0
+Torregamones,49,221,7
+Torres del Carrizal,49,222,2
+Trabazos,49,223,8
+Trefacio,49,224,3
+Uña de Quintana,49,225,6
+Vadillo de la Guareña,49,226,9
+Valcabado,49,227,5
+Valdefinjas,49,228,1
+Valdescorriel,49,229,4
+Vallesa de la Guareña,49,230,8
+Vega de Tera,49,231,5
+Vega de Villalobos,49,232,0
+Vegalatrave,49,233,6
+Venialbo,49,234,1
+Vezdemarbán,49,235,4
+Vidayanes,49,236,7
+Videmala,49,237,3
+Villabrázaro,49,238,9
+Villabuena del Puente,49,239,2
+Villadepera,49,240,6
+Villaescusa,49,241,3
+Villafáfila,49,242,8
+Villaferrueña,49,243,4
+Villageriz,49,244,9
+Villalazán,49,245,2
+Villalba de la Lampreana,49,246,5
+Villalcampo,49,247,1
+Villalobos,49,248,7
+Villalonso,49,249,0
+Villalpando,49,250,3
+Villalube,49,251,0
+Villamayor de Campos,49,252,5
+Villamor de los Escuderos,49,255,9
+Villanázar,49,256,2
+Villanueva de Azoague,49,257,8
+Villanueva de Campeán,49,258,4
+Villanueva de las Peras,49,259,7
+Villanueva del Campo,49,260,1
+Villar de Fallaves,49,263,9
+Villar del Buey,49,264,4
+Villaralbo,49,261,8
+Villardeciervos,49,262,3
+Villardiegua de la Ribera,49,265,7
+Villárdiga,49,266,0
+Villardondiego,49,267,6
+Villarrín de Campos,49,268,2
+Villaseco del Pan,49,269,5
+Villavendimio,49,270,9
+Villaveza de Valverde,49,272,1
+Villaveza del Agua,49,271,6
+Viñas,49,273,7
+Zamora,49,275,5
+Abanto,50,001,6
+Acered,50,002,1
+Agón,50,003,7
+Aguarón,50,004,2
+Aguilón,50,005,5
+Ainzón,50,006,8
+Aladrén,50,007,4
+Alagón,50,008,0
+Alarba,50,009,3
+Alberite de San Juan,50,010,7
+Albeta,50,011,4
+Alborge,50,012,9
+Alcalá de Ebro,50,013,5
+Alcalá de Moncayo,50,014,0
+Alconchel de Ariza,50,015,3
+Aldehuela de Liestos,50,016,6
+Alfajarín,50,017,2
+Alfamén,50,018,8
+Alforque,50,019,1
+Alhama de Aragón,50,020,5
+Almochuel,50,021,2
+"Almolda, La",50,022,7
+Almonacid de la Cuba,50,023,3
+Almonacid de la Sierra,50,024,8
+"Almunia de Doña Godina, La",50,025,1
+Alpartir,50,026,4
+Ambel,50,027,0
+Anento,50,028,6
+Aniñón,50,029,9
+Añón de Moncayo,50,030,3
+Aranda de Moncayo,50,031,0
+Arándiga,50,032,5
+Ardisa,50,033,1
+Ariza,50,034,6
+Artieda,50,035,9
+Asín,50,036,2
+Atea,50,037,8
+Ateca,50,038,4
+Azuara,50,039,7
+Badules,50,040,1
+Bagüés,50,041,8
+Balconchán,50,042,3
+Bárboles,50,043,9
+Bardallur,50,044,4
+Belchite,50,045,7
+Belmonte de Gracián,50,046,0
+Berdejo,50,047,6
+Berrueco,50,048,2
+Biel,50,901,7
+Bijuesca,50,050,8
+Biota,50,051,5
+Bisimbre,50,052,0
+Boquiñeni,50,053,6
+Bordalba,50,054,1
+Borja,50,055,4
+Botorrita,50,056,7
+Brea de Aragón,50,057,3
+Bubierca,50,058,9
+Bujaraloz,50,059,2
+Bulbuente,50,060,6
+Bureta,50,061,3
+"Burgo de Ebro, El",50,062,8
+"Buste, El",50,063,4
+Cabañas de Ebro,50,064,9
+Cabolafuente,50,065,2
+Cadrete,50,066,5
+Calatayud,50,067,1
+Calatorao,50,068,7
+Calcena,50,069,0
+Calmarza,50,070,4
+Campillo de Aragón,50,071,1
+Carenas,50,072,6
+Cariñena,50,073,2
+Caspe,50,074,7
+Castejón de Alarba,50,075,0
+Castejón de las Armas,50,076,3
+Castejón de Valdejasa,50,077,9
+Castiliscar,50,078,5
+Cervera de la Cañada,50,079,8
+Cerveruela,50,080,2
+Cetina,50,081,9
+Chiprana,50,092,2
+Chodes,50,093,8
+Cimballa,50,082,4
+Cinco Olivas,50,083,0
+Clarés de Ribota,50,084,5
+Codo,50,085,8
+Codos,50,086,1
+Contamina,50,087,7
+Cosuenda,50,088,3
+Cuarte de Huerva,50,089,6
+Cubel,50,090,0
+"Cuerlas, Las",50,091,7
+Daroca,50,094,3
+Ejea de los Caballeros,50,095,6
+Embid de Ariza,50,096,9
+Encinacorba,50,098,1
+Épila,50,099,4
+Erla,50,100,8
+Escatrón,50,101,5
+Fabara,50,102,0
+Farlete,50,104,1
+Fayón,50,105,4
+"Fayos, Los",50,106,7
+Figueruelas,50,107,3
+Fombuena,50,108,9
+"Frago, El",50,109,2
+"Frasno, El",50,110,6
+Fréscano,50,111,3
+Fuendejalón,50,113,4
+Fuendetodos,50,114,9
+Fuentes de Ebro,50,115,2
+Fuentes de Jiloca,50,116,5
+Gallocanta,50,117,1
+Gallur,50,118,7
+Gelsa,50,119,0
+Godojos,50,120,4
+Gotor,50,121,1
+Grisel,50,122,6
+Grisén,50,123,2
+Herrera de los Navarros,50,124,7
+Ibdes,50,125,0
+Illueca,50,126,3
+Isuerre,50,128,5
+Jaraba,50,129,8
+Jarque,50,130,2
+Jaulín,50,131,9
+"Joyosa, La",50,132,4
+Lagata,50,133,0
+Langa del Castillo,50,134,5
+Layana,50,135,8
+Lécera,50,136,1
+Lechón,50,138,3
+Leciñena,50,137,7
+Letux,50,139,6
+Litago,50,140,0
+Lituénigo,50,141,7
+Lobera de Onsella,50,142,2
+Longares,50,143,8
+Longás,50,144,3
+Lucena de Jalón,50,146,9
+Luceni,50,147,5
+Luesia,50,148,1
+Luesma,50,149,4
+Lumpiaque,50,150,7
+Luna,50,151,4
+Maella,50,152,9
+Magallón,50,153,5
+Mainar,50,154,0
+Malanquilla,50,155,3
+Maleján,50,156,6
+Mallén,50,160,5
+Malón,50,157,2
+Maluenda,50,159,1
+Manchones,50,161,2
+Mara,50,162,7
+María de Huerva,50,163,3
+Marracos,50,902,2
+Mediana de Aragón,50,164,8
+Mequinenza,50,165,1
+Mesones de Isuela,50,166,4
+Mezalocha,50,167,0
+Mianos,50,168,6
+Miedes de Aragón,50,169,9
+Monegrillo,50,170,3
+Moneva,50,171,0
+Monreal de Ariza,50,172,5
+Monterde,50,173,1
+Montón,50,174,6
+Morata de Jalón,50,175,9
+Morata de Jiloca,50,176,2
+Morés,50,177,8
+Moros,50,178,4
+Moyuela,50,179,7
+Mozota,50,180,1
+Muel,50,181,8
+"Muela, La",50,182,3
+Munébrega,50,183,9
+Murero,50,184,4
+Murillo de Gállego,50,185,7
+Navardún,50,186,0
+Nigüella,50,187,6
+Nombrevilla,50,188,2
+Nonaspe,50,189,5
+Novallas,50,190,9
+Novillas,50,191,6
+Nuévalos,50,192,1
+Nuez de Ebro,50,193,7
+Olvés,50,194,2
+Orcajo,50,195,5
+Orera,50,196,8
+Orés,50,197,4
+Oseja,50,198,0
+Osera de Ebro,50,199,3
+Paniza,50,200,7
+Paracuellos de Jiloca,50,201,4
+Paracuellos de la Ribera,50,202,9
+Pastriz,50,203,5
+Pedrola,50,204,0
+"Pedrosas, Las",50,205,3
+Perdiguera,50,206,6
+Piedratajada,50,207,2
+Pina de Ebro,50,208,8
+Pinseque,50,209,1
+"Pintanos, Los",50,210,5
+Plasencia de Jalón,50,211,2
+Pleitas,50,212,7
+Plenas,50,213,3
+Pomer,50,214,8
+Pozuel de Ariza,50,215,1
+Pozuelo de Aragón,50,216,4
+Pradilla de Ebro,50,217,0
+Puebla de Albortón,50,218,6
+"Puebla de Alfindén, La",50,219,9
+Puendeluna,50,220,3
+Purujosa,50,221,0
+Quinto,50,222,5
+Remolinos,50,223,1
+Retascón,50,224,6
+Ricla,50,225,9
+Romanos,50,227,8
+Rueda de Jalón,50,228,4
+Ruesca,50,229,7
+Sabiñán,50,241,6
+Sádaba,50,230,1
+Salillas de Jalón,50,231,8
+Salvatierra de Esca,50,232,3
+Samper del Salz,50,233,9
+San Martín de la Virgen de Moncayo,50,234,4
+San Mateo de Gállego,50,235,7
+Santa Cruz de Grío,50,236,0
+Santa Cruz de Moncayo,50,237,6
+Santa Eulalia de Gállego,50,238,2
+Santed,50,239,5
+Sástago,50,240,9
+Sediles,50,242,1
+Sestrica,50,243,7
+Sierra de Luna,50,244,2
+Sigüés,50,245,5
+Sisamón,50,246,8
+Sobradiel,50,247,4
+Sos del Rey Católico,50,248,0
+Tabuenca,50,249,3
+Talamantes,50,250,6
+Tarazona,50,251,3
+Tauste,50,252,8
+Terrer,50,253,4
+Tierga,50,254,9
+Tobed,50,255,2
+Torralba de los Frailes,50,256,5
+Torralba de Ribota,50,257,1
+Torralbilla,50,258,7
+Torrehermosa,50,259,0
+Torrelapaja,50,260,4
+Torrellas,50,261,1
+Torres de Berrellén,50,262,6
+Torrijo de la Cañada,50,263,2
+Tosos,50,264,7
+Trasmoz,50,265,0
+Trasobares,50,266,3
+Uncastillo,50,267,9
+Undués de Lerda,50,268,5
+Urrea de Jalón,50,269,8
+Urriés,50,270,2
+Used,50,271,9
+Utebo,50,272,4
+Val de San Martín,50,274,5
+Valdehorna,50,273,0
+Valmadrid,50,275,8
+Valpalmas,50,276,1
+Valtorres,50,277,7
+Velilla de Ebro,50,278,3
+Velilla de Jiloca,50,279,6
+Vera de Moncayo,50,280,0
+Vierlas,50,281,7
+Villadoz,50,283,8
+Villafeliche,50,284,3
+Villafranca de Ebro,50,285,6
+Villalba de Perejil,50,286,9
+Villalengua,50,287,5
+Villamayor de Gállego,50,903,8
+Villanueva de Gállego,50,288,1
+Villanueva de Huerva,50,290,8
+Villanueva de Jiloca,50,289,4
+Villar de los Navarros,50,291,5
+Villarreal de Huerva,50,292,0
+Villarroya de la Sierra,50,293,6
+Villarroya del Campo,50,294,1
+"Vilueña, La",50,282,2
+Vistabella,50,295,4
+"Zaida, La",50,296,7
+Zaragoza,50,297,3
+Zuera,50,298,9
+Ceuta,51,001,3
+Melilla,52,001,8
