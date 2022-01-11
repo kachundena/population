@@ -23,6 +23,10 @@ ejecutar
 python main.py
 ```
 
+### Notebook
+
+* population.ipynb
+
 ## Authors
 
 Contributors names and contact info
