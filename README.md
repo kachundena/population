@@ -32,7 +32,7 @@ python main.py
 Contributors names and contact info
 
 Alex Lleida
-* [@kachundena](https://twitter.com/kachundena)
+[@kachundena](https://twitter.com/kachundena)
 
 
 
